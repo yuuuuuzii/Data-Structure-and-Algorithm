@@ -5,6 +5,7 @@ void swap(int *x, int *y);
 void zigzag(int *arr, int start, int end, int **result, int *count);
 int compare(const void *a, const void *b);
 int CompareArr(int *arr,int **result,int end,int *count);
+int compare1(const void *a, const void *b);
 int main() {
     int num;
     scanf("%d", &num);
@@ -12,20 +13,19 @@ int main() {
     for (int i = 0; i < num; i++) {
         scanf("%d", &arr[i]);
     }
-
     qsort(arr, num, sizeof(int), compare);
-    int **result = (int **)malloc(sizeof(int *) * 20); 
+    int **result = (int **)malloc(sizeof(int *) * 200000); 
     int count = 0;
     zigzag(arr, 0, num - 1, result, &count);
     printf("%d",count);
     printf("\n");
+    qsort(result, count, sizeof(int *), compare1);
     for (int i = 0; i < count; i++) {
         for (int j = 0; result[i][j] != -1; j++) {
             printf("%d ", result[i][j]);
         }
         printf("\n");
     }
-
     free(arr);
     for (int i = 0; i < count; i++) {
         free(result[i]);
@@ -34,6 +34,9 @@ int main() {
 
     return 0;
 }
+int compare(const void *a, const void *b) {
+    return (*(int *)a - *(int *)b);
+} 
 
 void swap(int *x, int *y) {
     int temp = *x;
@@ -41,8 +44,11 @@ void swap(int *x, int *y) {
     *y = temp;
 }
 int CompareArr(int *arr,int **result,int end,int *count){
+    if(*count == 0){
+        return 0;
+    }
     for(int i = 0; i <= end; i++){
-        if(*count == 0 || result[*count-1][i] != arr[i]){
+        if(result[*count-1][i] != arr[i]){
             return 0;
         } //不等於assign 為 0;
     }
@@ -66,16 +72,24 @@ void zigzag(int *arr, int start, int end, int **result, int *count) {
                 for (int j = 0; j <= end; j++) {
                     result[*count][j] = arr[j];
                 }
-                result[*count][end + 1] = -1; // Marking end of the array
+                result[*count][end + 1] = -1; 
                 (*count)++;
-            } else if (start <= 2 || ((arr[start] - arr[start - 1]) * (arr[start - 1] - arr[start - 2])) < 0) {
+            } else if (start < 2 || ((arr[start] - arr[start - 1]) * (arr[start - 1] - arr[start - 2])) < 0) {
                 zigzag(arr, start + 1, end, result, count);
             }
             swap(&arr[start], &arr[i]);
         }
     }
+}int compare1(const void *a, const void *b) {
+    const int *arr1 = *(const int **)a;
+    const int *arr2 = *(const int **)b;
+    for (int i = 0; ; i++) {
+        if (arr1[i] == -1)
+            return -1;
+        if (arr2[i] == -1)
+            return 1;
+        if (arr1[i] != arr2[i])
+            return arr1[i] - arr2[i];
+    }
 }
 
-int compare(const void *a, const void *b) {
-    return (*(int *)a - *(int *)b);
-}
