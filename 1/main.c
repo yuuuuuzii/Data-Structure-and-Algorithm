@@ -53,7 +53,7 @@ void Remake(int*arr,int start,int i){
     arr[i] = temp;
 }
 void zigzag(int *arr, int start, int end, int **result, int *count) {
-    if (start == end && ((arr[start] - arr[start - 1]) * (arr[start - 1] - arr[start - 2])) < 0) {
+    if (start == end && ((long long)((long long)arr[start] - (long long)arr[start - 1]) * (long long)((long long)arr[start - 1] - (long long)arr[start - 2])) < 0) {
         int tag = 1;
         // 检查是否已经存在相同的数组
         for (int k = 0; k < *count; k++) {
@@ -104,23 +104,11 @@ void zigzag(int *arr, int start, int end, int **result, int *count) {
                     result[*count][end + 1] = -1000000001;
                     (*count)++;
                 }
-            } else if (start < 2 || ((arr[start] - arr[start - 1]) * (arr[start - 1] - arr[start - 2])) < 0) {
+            } else if (start < 2 || ((long long)((long long)arr[start] - (long long)arr[start - 1]) * (long long)((long long)arr[start - 1] - (long long)arr[start - 2])) < 0) {
                 zigzag(arr, start + 1, end, result, count);
             }
             Remake(arr,start,i);
         }
     }
 }
-/*int compare1(const void *a, const void *b) {
-    const int *arr1 = *(const int **)a;
-    const int *arr2 = *(const int **)b;
-    for (int i = 0; ; i++) {
-        if (arr1[i] == -1000000001)
-            return -1;
-        if (arr2[i] == -1000000001)
-            return 1;
-        if (arr1[i] != arr2[i])
-            return arr1[i] - arr2[i];
-    }
-}/**/
 
