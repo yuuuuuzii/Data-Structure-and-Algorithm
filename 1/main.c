@@ -67,18 +67,19 @@ void zigzag(int *arr, int start, int end, int **result, int *count) {
     } else {
         for (int i = start; i <= end; i++) {
             swap(&arr[start], &arr[i]);
-            if(CompareArr(arr,result,end,count) == 0){
-                 if (end < 2) {
-                result[*count] = (int *)malloc(sizeof(int) * (end + 1));
-                for (int j = 0; j <= end; j++) {
-                    result[*count][j] = arr[j];
+                if (end < 2) {
+                    if(CompareArr(arr,result,end,count) == 0){
+                        result[*count] = (int *)malloc(sizeof(int) * (end + 1));
+                        for (int j = 0; j <= end; j++) {
+                        result[*count][j] = arr[j];
+                        }
+                        result[*count][end + 1] = -1; 
+                        (*count)++;
+                    }
                 }
-                result[*count][end + 1] = -1; 
-                (*count)++;
-            }
-            } else if (start < 2 || ((arr[start] - arr[start - 1]) * (arr[start - 1] - arr[start - 2])) < 0) {
-                zigzag(arr, start + 1, end, result, count);
-            }
+                else if (start < 2 || ((arr[start] - arr[start - 1]) * (arr[start - 1] - arr[start - 2])) < 0) {
+                    zigzag(arr, start + 1, end, result, count);
+                }
             swap(&arr[start], &arr[i]);
         }
     }
