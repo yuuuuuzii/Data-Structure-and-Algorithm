@@ -14,13 +14,13 @@ int main() {
         scanf("%d", &arr[i]);
     }
     qsort(arr, num, sizeof(int), compare); 
-    int **result = (int **)malloc(sizeof(int *) * 200002); //用來存所有可能的結果
+    int **result = (int **)malloc(sizeof(int *) * 200000); //用來存所有可能的結果
     int count = 0;
     zigzag(arr, 0, num - 1, result, &count);
     printf("%d",count); //印出所有可能的數量
     printf("\n");
     for (int i = 0; i < count; i++) {
-        for (int j = 0; result[i][j] != -1000000001; j++) {
+        for (int j = 0; j<num ; j++) {//因為a[n]的範圍為10^9，所以用這個數字來判斷陣列的最末端
             printf("%d ", result[i][j]); //印出所有組合
         }
         printf("\n");
@@ -57,7 +57,6 @@ void zigzag(int *arr, int start, int end, int **result, int *count) {
             for (int i = 0; i <= end; i++) {
                 result[*count][i] = arr[i];
             }
-            result[*count][end + 1] = -1000000001;//因為a[n]的範圍為10^9，所以用這個數字來判斷陣列的最末端
             (*count)++;
     } else {
         for (int i = start; i <= end; i++) {
@@ -68,7 +67,6 @@ void zigzag(int *arr, int start, int end, int **result, int *count) {
                         for (int j = 0; j <= end; j++) {
                             result[*count][j] = arr[j];
                         }
-                        result[*count][end + 1] = -1000000001;
                         (*count)++;
                 } else if (start < 2 || ((long long)((long long)arr[start] - (long long)arr[start - 1]) * (long long)((long long)arr[start - 1] - (long long)arr[start - 2]) < 0)) {
                     zigzag(arr, start + 1, end, result, count);//如果條件符合，才會進入recursion，避免印出不可能的結果
