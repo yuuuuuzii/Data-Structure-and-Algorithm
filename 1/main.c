@@ -14,7 +14,7 @@ int main() {
         scanf("%d", &arr[i]);
     }
     qsort(arr, num, sizeof(int), compare); 
-    int **result = (int **)malloc(sizeof(int *) * 200000); //用來存所有可能的結果
+    int **result = (int **)malloc(sizeof(int *) * 200002); //用來存所有可能的結果
     int count = 0;
     zigzag(arr, 0, num - 1, result, &count);
     printf("%d",count); //印出所有可能的數量
@@ -23,6 +23,7 @@ int main() {
         for (int j = 0; result[i][j] != -1000000001; j++) {
             printf("%d ", result[i][j]); //印出所有組合
         }
+        printf("%d",&result[i]);
         printf("\n");
     }
     free(arr);
