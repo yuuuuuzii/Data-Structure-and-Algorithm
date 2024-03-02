@@ -23,7 +23,6 @@ int main() {
         for (int j = 0; result[i][j] != -1000000001; j++) {
             printf("%d ", result[i][j]); //印出所有組合
         }
-        printf("%d",&result[i]);
         printf("\n");
     }
     free(arr);
