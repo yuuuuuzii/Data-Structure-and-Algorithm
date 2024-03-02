@@ -5,7 +5,7 @@ void change(int *arr,int start, int i);
 void Remake(int*arr,int start,int i);
 void zigzag(int *arr, int start, int end, int **result, int *count);
 int compare(const void *a, const void *b);
-//主要複雜度可能來自檢查所有陣列是否重複，以及在進行recursion前後，移動陣列所花的時間
+//主要複雜度可能來自進行recursion前後，移動陣列所花的時間
 int main() {
     int num;
     scanf("%d", &num);
@@ -61,7 +61,7 @@ void zigzag(int *arr, int start, int end, int **result, int *count) {
             (*count)++;
     } else {
         for (int i = start; i <= end; i++) {
-            if(arr[i] == 0 ||(arr[i] != arr[i-1])){
+            if( i == 0 ||(arr[i] != arr[i-1])){
                 change(arr,start, i);//開始recursion，輪流當頭
                 if (end < 2) {//如果陣列數量小於2，則直接存入
                         result[*count] = (int *)malloc(sizeof(int) * (end + 1));
