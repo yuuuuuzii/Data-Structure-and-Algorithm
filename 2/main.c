@@ -65,11 +65,18 @@ Node *Merge(Node **head1,Node **head2,Node **tail1,Node **tail2,int *count1,int 
     }
     if(temp1 != NULL && temp2 == NULL){
         *tail2 = *tail1;    
+    }   
+    
+    if(*head1 != NULL){
+        temp1 = *head1;
+        *head1 = NULL;
+        *tail1 = NULL;
+        return temp1;
     }
-    temp1 = *head1;
-    *head1 = NULL;
-    *tail1 = NULL;
-    return temp1;
+    else{
+        return *head2;
+    }
+   
 }
 int main(){
     int num;
