@@ -85,7 +85,7 @@ int main(){
         tail[i] = NULL;
         count[i] = 0;
    }
-    for(int i = 0; i < op;i++){
+    for(int i = 0; i < op; i++){
         char line[1024]; // 存儲用戶輸入的緩衝區
         int num1, num2, num3;
         int result;
@@ -110,12 +110,14 @@ int main(){
    }
     for(int i = 0; i< num; i++){
         printf("%d ",count[i]);
-        Node *temp = head[i];
-        for(int j = 0;j<count[i];j++){
-            printf("%d ",temp->data);
-            Node *clear = temp;
-            temp = temp->next;
-            free(clear);
+        if(head[i] != NULL){
+            Node *temp = head[i];
+            for(int j = 0;j<count[i];j++){
+                printf("%d ",temp->data);
+                Node *clear = temp;
+                temp = temp->next;
+                free(clear);
+            }
         }
         printf("\n");
     }
