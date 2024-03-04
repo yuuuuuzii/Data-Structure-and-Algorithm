@@ -13,15 +13,19 @@ void Swap(int *x,int *y){
     *x = *y;
     *y = temp;
 }
-void S_sort(int *arr,int size,int budget){
+int S_sort(int *arr,int size,int budget){
     int op = 0;
-    for(int i = 0; i<budget || i<size; i++){
+    for(int i = 0; op<budget; i++){
         int m = GetMin(arr,i,size-1);
         if(i != m){
             Swap(&arr[i],&arr[m]);
             op++;
         }
+        if(i == size-1){
+            break;
+        }
     }
+    return op;
 }
 
 int main(){
@@ -33,12 +37,12 @@ int main(){
     for(int i = 0; i<size; i++){
         scanf("%d",&arr[i]);
     }
-    S_sort(arr,size,budget);
+    int times = S_sort(arr,size,budget);
     printf("The array is ");
     for(int i = 0; i<size; i++){
         printf("%d ",arr[i]);
     }
-    printf("after %d swaps.",budget);
+    printf("after %d swaps.",times);
     free(arr);
     return 0;
 }
