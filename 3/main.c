@@ -38,7 +38,7 @@ int main(){
     for(int i = 0; i<size; i++){
         printf("%d ",arr[i]);
     }
-    printf("after %d swaps",budget);
+    printf("after %d swaps.",budget);
     free(arr);
     return 0;
 }
