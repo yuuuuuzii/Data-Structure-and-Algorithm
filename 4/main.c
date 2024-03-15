@@ -65,8 +65,8 @@ void Insert(Node *head, int get,Node **top,int *LNum){
     new->next = p;
     if(p != NULL)
         p->prev = new;
-
     int i = 1;
+    
     while(CoinFlip(get,i)){
         if(i<(*LNum)){
             Node *p = (Node *)malloc(sizeof(Node));
@@ -74,13 +74,16 @@ void Insert(Node *head, int get,Node **top,int *LNum){
             p->data = get;
             Node *temp = arr[i]->next;
             arr[i]->next = p;
+
             p->prev = arr[i];
             p->next = temp;
-            temp->prev = p;
+            if(temp != NULL)
+                temp->prev = p;
             i++;
             new = p;
         }
         else{//第i層比LNum 大，要創一個新的層
+
             Node *new_top = (Node *)malloc(sizeof(Node));
             new_top->below = (*top);
             new_top->data = -1;
