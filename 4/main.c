@@ -18,11 +18,10 @@ void SlowGet(Node *head,long long get){
     if(temp == head){
         printf("%d",-1);
     }
-    else
-        printf("\n");
+    printf("\n");
 }
 
-Node **FastGet(long long get,Node *top,int LNum,int dis){//直接呼叫，或者在Insert 後記得要free()
+Node **FastGet(Node *head,long long get,Node *top,int LNum,int dis){//直接呼叫，或者在Insert 後記得要free()
     Node **arr = (Node **)malloc(sizeof(Node *)*(LNum));
     int i = (LNum)-1;
     Node *temp = top;//如果不是next?
@@ -45,8 +44,9 @@ Node **FastGet(long long get,Node *top,int LNum,int dis){//直接呼叫，或者
     }
     arr[i] = temp;
      //如果為空，則temp為NULL
-    if(temp == top && dis == 1)
+    if(temp == head && dis == 1)
         printf("%d",-1);
+
     if(dis == 1)
         printf("\n");
     return arr;
@@ -58,7 +58,7 @@ void Insert(Node *head, long long get,Node **top,int *LNum){
     new->next = NULL;
     new->prev = NULL;
     new->data = get;
-    Node **arr = FastGet(get,*top,*LNum,0);
+    Node **arr = FastGet(head, get,*top,*LNum,0);
 
     Node *p = arr[0]->next;
     arr[0]->next = new;
@@ -102,16 +102,16 @@ void Insert(Node *head, long long get,Node **top,int *LNum){
     free(arr);
 }
 void Remove(Node *head,Node **top,long long get,int *LNum){
-    Node **arr = FastGet(get,*top,*LNum,0);
+    Node **arr = FastGet(head,get,*top,*LNum,0);
     int i = 0;
     while(i<(*LNum) && (arr[i]->data == get)){
         (arr[i]->prev)->next = arr[i]->next;
         if(arr[i]->next != NULL){
             (arr[i]->next)->prev = arr[i]->prev;
         }  
-        if((arr[i]->prev)->data == -1 && arr[i]->next == NULL){
+        if((arr[i]->prev)->data == -1 && arr[i]->next == NULL && arr[i]->prev != head){
              *top = (arr[i]->prev)->below;
-            *LNum = i;
+            (*LNum) = i;
         }
         i++;
     }
@@ -129,6 +129,7 @@ int main(){
     head->below = NULL;
     head->next = NULL;
     head->prev = NULL;
+    head->data = -1;
     Node *top = head;
     int LNum = 1;
     int op;
@@ -142,7 +143,7 @@ int main(){
             SlowGet(head,num);
         }
         else if(type ==2){
-            Node **arr = FastGet(num,top,LNum,1);
+            Node **arr = FastGet(head, num,top,LNum,1);
             free(arr);
         }
         else if(type == 3){
