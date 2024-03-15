@@ -1,18 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
+
 typedef struct Node{
-    int data;
+    long long data;
     struct Node *next;
     struct Node *below;
     struct Node *prev;
 }Node;
-int CoinFlip(int k, int i);
-void SlowGet(Node *head,int get){
+int CoinFlip(long long k, int i);
+void SlowGet(Node *head,long long get){
     Node *temp = head;
     while(temp->next != NULL && get <= (temp -> next) -> data){
         temp = temp -> next;
-        printf("%d ",temp->data);
+        printf("%lld ",temp->data);
     }
     if(temp == head){
         printf("%d",-1);
@@ -21,7 +22,7 @@ void SlowGet(Node *head,int get){
         printf("\n");
 }
 
-Node **FastGet(int get,Node *top,int LNum,int dis){//直接呼叫，或者在Insert 後記得要free()
+Node **FastGet(long long get,Node *top,int LNum,int dis){//直接呼叫，或者在Insert 後記得要free()
     Node **arr = (Node **)malloc(sizeof(Node *)*(LNum));
     int i = (LNum)-1;
     Node *temp = top;//如果不是next?
@@ -29,18 +30,18 @@ Node **FastGet(int get,Node *top,int LNum,int dis){//直接呼叫，或者在Ins
         while(temp->next != NULL && get <= (temp -> next) -> data){
             temp = temp -> next;
             if(dis == 1 && temp->data != -1)
-                printf("%d ",temp->data);
+                printf("%lld ",temp->data);
         }
         arr[i] = temp;
         temp = temp->below;
         if(dis == 1 && temp->data != -1)
-            printf("%d ",temp->data);
+            printf("%lld ",temp->data);
         i--;
     }
     while(temp->next != NULL && get <= (temp -> next) -> data){
         temp = temp -> next;
         if(dis == 1 && temp->data != -1)
-            printf("%d ",temp->data);
+            printf("%lld ",temp->data);
     }
     arr[i] = temp;
      //如果為空，則temp為NULL
@@ -51,7 +52,7 @@ Node **FastGet(int get,Node *top,int LNum,int dis){//直接呼叫，或者在Ins
     return arr;
 }
 
-void Insert(Node *head, int get,Node **top,int *LNum){
+void Insert(Node *head, long long get,Node **top,int *LNum){
     Node *new = (Node *)malloc(sizeof(Node));
     new->below = NULL;
     new->next = NULL;
@@ -66,7 +67,7 @@ void Insert(Node *head, int get,Node **top,int *LNum){
     if(p != NULL)
         p->prev = new;
     int i = 1;
-    
+
     while(CoinFlip(get,i)){
         if(i<(*LNum)){
             Node *p = (Node *)malloc(sizeof(Node));
@@ -82,8 +83,7 @@ void Insert(Node *head, int get,Node **top,int *LNum){
             i++;
             new = p;
         }
-        else{//第i層比LNum 大，要創一個新的層
-
+        else{
             Node *new_top = (Node *)malloc(sizeof(Node));
             new_top->below = (*top);
             new_top->data = -1;
@@ -101,7 +101,7 @@ void Insert(Node *head, int get,Node **top,int *LNum){
     }
     free(arr);
 }
-void Remove(Node *head,Node **top,int get,int *LNum){
+void Remove(Node *head,Node **top,long long get,int *LNum){
     Node **arr = FastGet(get,*top,*LNum,0);
     int i = 0;
     while(i<(*LNum) && (arr[i]->data == get)){
@@ -117,8 +117,8 @@ void Remove(Node *head,Node **top,int get,int *LNum){
     }
     free(arr);
 }
-int CoinFlip(int k, int i){
-   if(((long long) k >> (i-1))%2 == 0)
+int CoinFlip(long long k, int i){
+   if((k >> (long long)(i-1))%2 == 0)
         return 0;
     else
         return 1;//1代表要插入
@@ -135,21 +135,14 @@ int main(){
     scanf("%d",&op);
     for(int i = 0;i<op;i++){
         int type;
-        int num;
+        long long num;
         scanf("%d",&type);
-        scanf("%d",&num);
+        scanf("%lld",&num);
         if(type == 1){
             SlowGet(head,num);
         }
         else if(type ==2){
             Node **arr = FastGet(num,top,LNum,1);
-            /*Node *temp = arr[0];
-            int i = 0;
-            while(temp != NULL && i<LNum){
-                printf("%d",temp->data);
-                i++;
-                temp = arr[i];
-            }*/
             free(arr);
         }
         else if(type == 3){
