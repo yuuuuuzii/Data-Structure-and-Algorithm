@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 typedef struct Node{
     long long point;
     struct Node *prev;
@@ -69,7 +70,7 @@ void Query(long long data, int start, int end, properties **RkArr, int *reward, 
     }   
     if(data <= RkArr[0]->pow){
         while(start < end){
-            int m = (start+end+1)/2;
+            long long m = (start+end+1)/2;
             while((RkArr[m]->add) < (*reward)){
             RkArr[m]->pow = RkArr[m]->pow + (long long)(n-m-1);
             (RkArr[m]->add)++;
@@ -163,30 +164,4 @@ int main(){
             printf("0");
         printf("\n");
     }
-/*
-    Attack(3,IdArr,RkArr,&reward,n, m);
-    Attack(3,IdArr,RkArr,&reward,n, m);
-    Reward(&reward);
-    Query(16,0,n-1,RkArr,&reward, n);
-    
-    PowGain(4,10, IdArr);
-
-    for(int i = 0;i<n;i++){
-        printf("%lld ",RkArr[i]->pow);
-        printf("%d ",RkArr[i]->id+1);
-        printf("%d ",RkArr[i]->rank+1);
-        printf("\n");
-    }
-    printf("\n");
-    Node *temp = IdArr[3]->head;
-    printf("%d ",IdArr[3]->time);
-
-    for (int i = 0;i<2;i++){
-        if(temp->prev != NULL){
-            printf("%lld ",(temp->point)-(temp->prev)->point);
-        }
-        else
-            printf("%lld ",temp->point);
-        temp = temp->next;
-    } */
 }
