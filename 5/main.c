@@ -1,24 +1,17 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-typedef struct Node{
-    long long point;
-    struct Node *prev;
-    struct Node *next;
-}Node;
-
 typedef struct properties{
     long long pow;
     int id;
     int rank;
-    Node *head;
-    Node *tail;
-    Node *temp;
-    int time; 
+    int *arr;
+    long long size;
     int add;
+    int time;
 }properties;
 
-void Attack(int id,properties **IdArr,properties **RkArr,int *reward,int n, int p){
+void Attack(int id,properties **IdArr,properties **RkArr,int *reward,int n){
     if(IdArr[id]->rank > 0){
         while((RkArr[(IdArr[id]->rank)]->add) < (*reward)){
             RkArr[(IdArr[id]->rank)]->pow = RkArr[(IdArr[id]->rank)]->pow + (long long)(n-IdArr[id]->rank);
@@ -39,25 +32,12 @@ void Attack(int id,properties **IdArr,properties **RkArr,int *reward,int n, int 
         (RkArr[(IdArr[id]->rank)]->rank)++;
         (RkArr[(IdArr[id]->rank)-1]->rank)--;
         //紀錄更新
-        Node *new = (Node *)malloc(sizeof(Node));
-        new -> prev = NULL;
-        new -> next = NULL;
-        if ((IdArr[id]->head)->next == NULL){
-            (IdArr[id]->head)->next = new;
-            ((IdArr[id]->head)->next)->prev = (IdArr[id]->head);
-            IdArr[id]->tail = new;
-            new -> point = m;
+        if(IdArr[id]->size-1 == IdArr[id]->time){
+            IdArr[id]->size = 2*IdArr[id]->size;
+            IdArr[id]->arr = (int *)realloc(IdArr[id]->arr, sizeof(int)*IdArr[id]->size);
         }
-        else{
-            (IdArr[id]->tail)->next = new;
-            new ->prev = IdArr[id]->tail;
-            new -> point = m + (IdArr[id]->tail)->point;
-            IdArr[id]->tail = new;
-        }
-        IdArr[id]->time ++;
-        if(IdArr[id]->time > p){
-            IdArr[id]->temp = (IdArr[id]->temp)->next;
-        }
+        IdArr[id]->time++;
+        IdArr[id]->arr[IdArr[id]->time] = m +IdArr[id]->arr[IdArr[id]->time-1] ;
     }
 }
 void Reward(int *reward){
@@ -92,23 +72,26 @@ void Query(long long data, int start, int end, properties **RkArr, int *reward, 
 
 }
 
-void PowGain(int id, properties **IdArr){
-    if((IdArr[id]->tail) != NULL){
-        printf("%lld",((IdArr[id]->tail)->point)-((IdArr[id]->temp)->point));
+void PowGain(int id, properties **IdArr, int m , int M){
+    if(m > M){
+        m = M;
+    }
+    if((IdArr[id]->time) > m){
+        printf("%lld", IdArr[id]->arr[IdArr[id]->time]-IdArr[id]->arr[IdArr[id]->time-m]);
         printf("\n");
     }
     else{
-        printf("%lld",0);
+        printf("%lld",IdArr[id]->arr[IdArr[id]->time]);
         printf("\n");
     }
 }
 int main(){
     int n;
     int t;
-    int m;
+    int M;
     scanf("%d",&n);
     scanf("%d",&t);
-    scanf("%d",&m);
+    scanf("%d",&M);
     properties **IdArr = (properties **)malloc(sizeof(properties *)*n);
     properties **RkArr = (properties **)malloc(sizeof(properties *)*n);
     int reward = 0;
@@ -117,12 +100,11 @@ int main(){
         scanf("%lld",&new->pow);
         new->id = i;
         new->rank = i;
-        new->head = (Node *)malloc(sizeof(Node));
-        new->tail = NULL;
-        new->temp = new->head;
-        (new->head)->point = 0;
-        (new->head)->next = NULL;
+     
+        new->arr = (int *)malloc(sizeof(int));
+        new->arr[0] = 0;
         new->time = 0;
+        new->size = 1;
         new->add = 0;
         IdArr[i] = new;
         RkArr[i] = new;
@@ -135,12 +117,12 @@ int main(){
         if (fgets(line, sizeof(line), stdin)){
             result = sscanf(line, "%d %d %d", &num1, &num2, &num3);
             if (result == 3){
-                PowGain(num2-1, IdArr);
+                PowGain(num2-1, IdArr, num3, M);
             }
 
             else if(result == 2){
                 if(num1 == 1){
-                    Attack(num2-1, IdArr, RkArr, &reward, n, m);
+                    Attack(num2-1, IdArr, RkArr, &reward, n);
                 }
                 else
                     Query(num2-1, 0, n-1, RkArr, &reward, n);
@@ -153,13 +135,10 @@ int main(){
     printf("\n");
     for(int i = 0; i<n; i++){
         if(IdArr[i]->time != 0){
-            Node *temp = (IdArr[i]->head)->next;
             printf("%d ",IdArr[i]->time);
-            while(temp != NULL){
-                printf("%lld ",(temp->point)-(temp->prev)->point);
-                temp = temp->next;
+                for(int j = 1; j<(IdArr[i]->time+1); j++)
+                    printf("%lld ",IdArr[i]->arr[j]-IdArr[i]->arr[j-1]);
             }
-        }
         else 
             printf("0");
         printf("\n");
