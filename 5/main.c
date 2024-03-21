@@ -63,20 +63,24 @@ void Reward(int *reward){
     (*reward)++;
 }
 void Query(long long data, int start, int end, properties **RkArr, int *reward, int n){
+    while((RkArr[0]->add) < (*reward)){
+            RkArr[0]->pow = RkArr[0]->pow + (long long)(n-1);
+            (RkArr[0]->add)++;
+    }   
     if(data <= RkArr[0]->pow){
         while(start < end){
-        int m = (start+end+1)/2;
-        while((RkArr[m]->add) < (*reward)){
+            int m = (start+end+1)/2;
+            while((RkArr[m]->add) < (*reward)){
             RkArr[m]->pow = RkArr[m]->pow + (long long)(n-m-1);
             (RkArr[m]->add)++;
-        }
-        if(RkArr[m]->pow < data){
+            }
+            if(RkArr[m]->pow < data){
             end = m-1;
-        }
-        else{
+            }
+            else{
             start = m;
+            }
         }
-    }
     printf("%d %d", start+1, (RkArr[start]->id)+1);
     printf("\n");
     }
