@@ -9,7 +9,7 @@ int compare(const void *a, const void *b) {
 
 int main() {
     int N = 1000;
-    int T = 500000;
+    int T = 50000;
     int M = 5000000;
     int powers[N]; // 存储生成的随机数
 
@@ -33,6 +33,7 @@ int main() {
     for(int i = 0; i < T; ++i) {
         int type = rand() % 4 + 1; // 随机选择一个事件类型(1到4)
         int id = rand() % N + 1; // 随机选择一个玩家ID(1到N)
+        
         switch (type) {
             case 1: // Attack
                 printf("1 %d\n", id);
