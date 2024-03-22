@@ -13,14 +13,6 @@ typedef struct properties{
 
 void Attack(long long id,properties **IdArr,properties **RkArr,long long *reward,long long n){
     if(IdArr[id]->rank > 0){
-        while((RkArr[(IdArr[id]->rank)]->add) < (*reward)){
-            RkArr[(IdArr[id]->rank)]->pow = RkArr[(IdArr[id]->rank)]->pow + (long long)(n-IdArr[id]->rank-1);
-            (RkArr[(IdArr[id]->rank)]->add)++;
-        }
-        while((RkArr[(IdArr[id]->rank)-1]->add) < (*reward)){
-            RkArr[(IdArr[id]->rank)-1]->pow = RkArr[(IdArr[id]->rank)-1]->pow + (long long)(n-IdArr[id]->rank);
-            (RkArr[(IdArr[id]->rank)-1]->add)++;
-        }
         long long m = RkArr[(IdArr[id]->rank)-1]->pow - RkArr[(IdArr[id]->rank)]->pow; //紀錄差值
         //更新rank arr (執行swap)
         properties *temp = RkArr[(IdArr[id]->rank)-1];
@@ -40,49 +32,16 @@ void Attack(long long id,properties **IdArr,properties **RkArr,long long *reward
         IdArr[id]->arr[IdArr[id]->time] = m +IdArr[id]->arr[IdArr[id]->time-1] ;
     }
 }
-void Reward(long long *reward){
-    (*reward)++;
+void Reward(properties **RkArr, long long n){
+    for(long long i = 0;i<n; i++){
+        RkArr[i]->pow = RkArr[i]->pow + (long long)(n-i-1);
+    }
 }
-void Query(long long data, long long start, long long end, properties **RkArr, long long *reward, long long n){
-    while((RkArr[0]->add) < (*reward)){
-            RkArr[0]->pow = RkArr[0]->pow + (long long)(n-1);
-            (RkArr[0]->add)++;
-    } 
-    if(data <= RkArr[0]->pow){
-        while(start < end){
-            long long m = (start+end+1)/2;
-            while((RkArr[m]->add) < (*reward)){
-                RkArr[m]->pow = RkArr[m]->pow + (long long)(n-m-1);
-                (RkArr[m]->add)++;
-                }
-            if(RkArr[m]->pow < data){
-                end = m-1;
-            }
-            else{
-                start = m;
-            }
-        }
-    printf("%lld %lld", start+1, (RkArr[start]->id)+1);
-    printf("\n");
-    }
-    else{
-        printf("0 0");
-        printf("\n");
-    }
 
-}
-/*void Query (long long data, properties **RkArr, int *reward, int n){
+void Query (long long data, properties **RkArr, long long *reward, long long n){
     long long num;
-    while((RkArr[0]->add) < (*reward)){
-            RkArr[0]->pow = RkArr[0]->pow + (long long)(n-1);
-            (RkArr[0]->add)++;
-    }  
     if(data <= RkArr[0]->pow){
         for(int i = 0; i<n; i++){
-            while((RkArr[i]->add) < (*reward)){
-                RkArr[i]->pow = RkArr[i]->pow + (long long)(n-i-1);
-                (RkArr[i]->add)++;
-            }
             if(data > RkArr[i]->pow){
                 printf("%d %d",i,RkArr[i-1]->id+1);
                 printf("\n");
@@ -98,7 +57,7 @@ void Query(long long data, long long start, long long end, properties **RkArr, l
         printf("0 0");
         printf("\n");
     }
-}*/
+}
 void PowGain(long long id, properties **IdArr, long long m , long long M){
     if(m > M){
         m = M;
@@ -154,11 +113,11 @@ int main(){
                     Attack(num2-1, IdArr, RkArr, &reward, n);
                 }
                 else
-                    Query(num2, 0, n-1, RkArr, &reward, n);
-                    //Query(num2,RkArr, &reward, n);
+                    //Query(num2, 0, n-1, RkArr, &reward, n);
+                    Query(num2,RkArr, &reward, n);
             }
             else{
-                Reward(&reward);
+                Reward(RkArr,n);
             }
         }
     }
