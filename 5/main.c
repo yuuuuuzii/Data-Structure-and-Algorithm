@@ -14,11 +14,11 @@ typedef struct properties{
 void Attack(int id,properties **IdArr,properties **RkArr,int *reward,int n){
     if(IdArr[id]->rank > 0){
         while((RkArr[(IdArr[id]->rank)]->add) < (*reward)){
-            RkArr[(IdArr[id]->rank)]->pow = RkArr[(IdArr[id]->rank)]->pow + (long long)(n-IdArr[id]->rank);
+            RkArr[(IdArr[id]->rank)]->pow = RkArr[(IdArr[id]->rank)]->pow + (long long)(n-IdArr[id]->rank-1);
             (RkArr[(IdArr[id]->rank)]->add)++;
         }
         while((RkArr[(IdArr[id]->rank)-1]->add) < (*reward)){
-            RkArr[(IdArr[id]->rank)-1]->pow = RkArr[(IdArr[id]->rank)-1]->pow + (long long)(n-IdArr[id]->rank+1);
+            RkArr[(IdArr[id]->rank)-1]->pow = RkArr[(IdArr[id]->rank)-1]->pow + (long long)(n-IdArr[id]->rank);
             (RkArr[(IdArr[id]->rank)-1]->add)++;
         }
         long long m = RkArr[(IdArr[id]->rank)-1]->pow - RkArr[(IdArr[id]->rank)]->pow; //紀錄差值
@@ -43,7 +43,7 @@ void Attack(int id,properties **IdArr,properties **RkArr,int *reward,int n){
 void Reward(int *reward){
     (*reward)++;
 }
-/*void Query(long long data, int start, int end, properties **RkArr, int *reward, int n){
+void Query(long long data, int start, int end, properties **RkArr, int *reward, int n){
     while((RkArr[0]->add) < (*reward)){
             RkArr[0]->pow = RkArr[0]->pow + (long long)(n-1);
             (RkArr[0]->add)++;
@@ -70,8 +70,8 @@ void Reward(int *reward){
         printf("\n");
     }
 
-}*/
-void Query (long long data, properties **RkArr, int *reward, int n){
+}
+/*void Query (long long data, properties **RkArr, int *reward, int n){
     long long num;
     while((RkArr[0]->add) < (*reward)){
             RkArr[0]->pow = RkArr[0]->pow + (long long)(n-1);
@@ -88,13 +88,17 @@ void Query (long long data, properties **RkArr, int *reward, int n){
                 printf("\n");
                 break;
             }
+            if (i == n-1){
+                printf("%d %d",i+1,RkArr[i]->id+1);
+                printf("\n");
+            }
         }
     }
     else{
         printf("0 0");
         printf("\n");
     }
-}
+}*/
 void PowGain(int id, properties **IdArr, int m , int M){
     if(m > M){
         m = M;
@@ -148,8 +152,8 @@ int main(){
                     Attack(num2-1, IdArr, RkArr, &reward, n);
                 }
                 else
-                    //Query(num2, 0, n-1, RkArr, &reward, n);
-                    Query(num2,RkArr, &reward, n);
+                    Query(num2, 0, n-1, RkArr, &reward, n);
+                    //Query(num2,RkArr, &reward, n);
             }
             else{
                 Reward(&reward);
