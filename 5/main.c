@@ -112,10 +112,10 @@ int main(){
         //初始化
         new->id = i;
         new->rank = i;
-        new->arr = (long long *)malloc(sizeof(long long)*16384);
+        new->arr = (long long *)malloc(sizeof(long long)*4096);
         new->arr[0] = 0;
         new->time = 0;
-        new->size = 16384;
+        new->size = 4096;
         new->add = 0;
         IdArr[i] = new;
         RkArr[i] = new;
