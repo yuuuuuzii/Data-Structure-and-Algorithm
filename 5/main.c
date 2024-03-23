@@ -15,13 +15,13 @@ typedef struct properties{
 void Attack(long long id,properties **IdArr,properties **RkArr,long long *reward,long long n){
     if(IdArr[id]->rank > 0){
         //兩個while 迴圈先執行reward (可先看reward 函數的說明)
-        while((RkArr[(IdArr[id]->rank)]->add) < (*reward)){//發動Attack 的玩家
-            RkArr[(IdArr[id]->rank)]->pow = RkArr[(IdArr[id]->rank)]->pow + (long long)(n-IdArr[id]->rank-1);
-            (RkArr[(IdArr[id]->rank)]->add)++;
+        if((RkArr[(IdArr[id]->rank)]->add) < (*reward)){//發動Attack 的玩家
+            RkArr[(IdArr[id]->rank)]->pow = RkArr[(IdArr[id]->rank)]->pow + (long long)(n-IdArr[id]->rank-1)*((*reward)-RkArr[(IdArr[id]->rank)]->add);
+            (RkArr[(IdArr[id]->rank)]->add) = (*reward);
         }
-        while((RkArr[(IdArr[id]->rank)-1]->add) < (*reward)){//被attack 的玩家
-            RkArr[(IdArr[id]->rank)-1]->pow = RkArr[(IdArr[id]->rank)-1]->pow + (long long)(n-IdArr[id]->rank);
-            (RkArr[(IdArr[id]->rank)-1]->add)++;
+        if((RkArr[(IdArr[id]->rank)-1]->add) < (*reward)){//被attack 的玩家
+            RkArr[(IdArr[id]->rank)-1]->pow = RkArr[(IdArr[id]->rank)-1]->pow + (long long)(n-IdArr[id]->rank)*((*reward)-RkArr[(IdArr[id]->rank-1)]->add);
+            (RkArr[(IdArr[id]->rank)-1]->add) = (*reward);
         }
 
         long long m = RkArr[(IdArr[id]->rank)-1]->pow - RkArr[(IdArr[id]->rank)]->pow; //紀錄差值
@@ -52,17 +52,17 @@ void Reward(long long *reward){
     //因為Reward 只跟位子有關，所以等到 Attack 和 Query 時，才將reward 補回去，可以降低複雜度(從O(n)->O(1))
 }
 void Query(long long data, long long start, long long end, properties **RkArr, long long *reward, long long n){
-    while((RkArr[0]->add) < (*reward)){//先reward 0的位子，來確認下面的if
-            RkArr[0]->pow = RkArr[0]->pow + (long long)(n-1);
-            (RkArr[0]->add)++;
+    if((RkArr[0]->add) < (*reward)){//先reward 0的位子，來確認下面的if
+            RkArr[0]->pow = RkArr[0]->pow + (long long)(n-1)*((*reward)-RkArr[0]->add);
+            RkArr[0]->add = (*reward);
     }
     if(data <= RkArr[0]->pow){
         while(start < end){//binary search 找到>=qi 的值
             long long m = (start+end+1)/2;
 
-            while((RkArr[m]->add) < (*reward)){//到某個元素時，再reward 判斷
-                RkArr[m]->pow = RkArr[m]->pow + (long long)(n-m-1);
-                (RkArr[m]->add)++;
+            if((RkArr[m]->add) < (*reward)){//到某個元素時，再reward 判斷
+                RkArr[m]->pow = RkArr[m]->pow + (long long)(n-m-1)*((*reward)-RkArr[m]->add);
+                (RkArr[m]->add) = (*reward);
                 }
 
             if(RkArr[m]->pow < data){
@@ -112,10 +112,10 @@ int main(){
         //初始化
         new->id = i;
         new->rank = i;
-        new->arr = (long long *)malloc(sizeof(long long)*4096);
+        new->arr = (long long *)malloc(sizeof(long long)*512);
         new->arr[0] = 0;
         new->time = 0;
-        new->size = 4096;
+        new->size = 512;
         new->add = 0;
         IdArr[i] = new;
         RkArr[i] = new;
