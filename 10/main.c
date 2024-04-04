@@ -95,33 +95,32 @@ void Insert(Node **head, int priority, int id){
 }
 
 int Extract(Node **head, int *num){
-    Node *temp = *head;
-    Node *Max = *head; //紀錄Max的前一點
-    Node *p = NULL;
     (*num)--;
-    if(temp->sibling == NULL){//處理一個node
-        p = temp;
-        Node *new_head = Reverse(p->child);
+    Node *p = NULL;
+    if((*head)->sibling == NULL){
+        p = *head;
         *head = NULL;
-        *head = Union(*head,new_head);
-        return p->id;
-    }
-    //會跑過來代表大於2個node
-    while((temp->sibling) != NULL){
-        if((Max->sibling)->data < (temp->sibling)->data){
-            Max = temp;
-        }
-        temp = temp->sibling;
-    }
-    if(*head == Max && Max->data > (Max->sibling)->data){//假設是兩個點
-        p = Max;
-        *head = Max->sibling;
     }
     else{
-        p = (Max->sibling);
-        Max->sibling = (Max->sibling)->sibling;
+        Node *prev = *head;
+        Node *Max = *head;
+        Node *temp = (*head)->sibling;
+        while(temp != NULL){
+            if(temp->data > (Max->sibling)->data){
+            Max = prev;
+            }
+            temp = temp->sibling;
+            prev = prev->sibling;
+        }
+        if((Max->sibling)->data < (*head)->data){
+            p = *head;
+            (*head) = (*head)->sibling;
+        }
+        else{
+            p = Max->sibling;
+            Max->sibling = (Max->sibling)->sibling;
+        }
     }
-
     Node *new_head = Reverse(p->child);
     *head = Union(*head,new_head);
 
