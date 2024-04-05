@@ -1,2733 +1,1130 @@
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-3119 printed
-17652 printed
-13411 printed
-no documents in queue
-1 jobs waiting on printer 1
-27739 printed
+1 jobs waiting on printer 1910
+1 jobs waiting on printer 202
 no documents in queue
 no documents in queue
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-15308 printed
-3 jobs waiting on printer 1
-4 jobs waiting on printer 1
-13887 printed
-6769 printed
-3 jobs waiting on printer 1
-4 jobs waiting on printer 1
-22171 printed
-1305 printed
-3 jobs waiting on printer 1
-4 jobs waiting on printer 1
-5 jobs waiting on printer 1
-18336 printed
-5488 printed
-4 jobs waiting on printer 1
-5 jobs waiting on printer 1
-6 jobs waiting on printer 1
-17547 printed
-28974 printed
-32151 printed
-6119 printed
-3 jobs waiting on printer 1
-4 jobs waiting on printer 1
-10496 printed
-25103 printed
-3 jobs waiting on printer 1
-18257 printed
-5626 printed
-1729 printed
+1 jobs waiting on printer 2284
+0 jobs waiting on printer 2050 after moving
+1 jobs waiting on printer 1036
+1 jobs waiting on printer 42
+1 jobs waiting on printer 1837
+0 jobs waiting on printer 1142 after moving
+1 jobs waiting on printer 2033
 no documents in queue
+0 jobs waiting on printer 1819 after moving
+1 jobs waiting on printer 1116
+0 jobs waiting on printer 747 after moving
+0 jobs waiting on printer 1483 after moving
 no documents in queue
-1 jobs waiting on printer 1
-12745 printed
-1 jobs waiting on printer 1
-29804 printed
+0 jobs waiting on printer 2278 after moving
+0 jobs waiting on printer 1829 after moving
 no documents in queue
+1 jobs waiting on printer 1935
+0 jobs waiting on printer 1948 after moving
+0 jobs waiting on printer 2283 after moving
 no documents in queue
-1 jobs waiting on printer 1
-15484 printed
+0 jobs waiting on printer 2261 after moving
+1 jobs waiting on printer 1791
 no documents in queue
-1 jobs waiting on printer 1
-16912 printed
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-12889 printed
-18781 printed
-13860 printed
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-4 jobs waiting on printer 1
-5 jobs waiting on printer 1
-7983 printed
-8288 printed
-24166 printed
-3 jobs waiting on printer 1
-4 jobs waiting on printer 1
-20836 printed
-3644 printed
-29261 printed
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-4 jobs waiting on printer 1
-8067 printed
-4 jobs waiting on printer 1
-5 jobs waiting on printer 1
-16409 printed
-5 jobs waiting on printer 1
-31332 printed
-6753 printed
-17135 printed
-3 jobs waiting on printer 1
-27652 printed
-6453 printed
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-24326 printed
-447 printed
-9727 printed
-1 jobs waiting on printer 1
-17924 printed
+1 jobs waiting on printer 1237
 no documents in queue
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-1749 printed
-3 jobs waiting on printer 1
-9049 printed
-3 jobs waiting on printer 1
-24832 printed
-6541 printed
-2 jobs waiting on printer 1
-7943 printed
-13606 printed
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-3901 printed
-20137 printed
-1 jobs waiting on printer 1
-5347 printed
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-27220 printed
-2 jobs waiting on printer 1
-6531 printed
-2 jobs waiting on printer 1
-20332 printed
-2 jobs waiting on printer 1
-15216 printed
-4509 printed
-no documents in queue
-1 jobs waiting on printer 1
-19277 printed
-no documents in queue
-1 jobs waiting on printer 1
-1200 printed
-no documents in queue
-1 jobs waiting on printer 1
-17963 printed
-no documents in queue
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 1
-10640 printed
-no documents in queue
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-4 jobs waiting on printer 1
-5 jobs waiting on printer 1
-10870 printed
-20206 printed
-19331 printed
-3 jobs waiting on printer 1
-23986 printed
-97 printed
-28694 printed
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-32504 printed
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-2078 printed
-10710 printed
-28036 printed
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-9302 printed
-9537 printed
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-23453 printed
-30307 printed
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-15726 printed
-22054 printed
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-4 jobs waiting on printer 1
-17859 printed
-4 jobs waiting on printer 1
-5 jobs waiting on printer 1
-6 jobs waiting on printer 1
-31366 printed
-6 jobs waiting on printer 1
-7 jobs waiting on printer 1
-17177 printed
-7 jobs waiting on printer 1
-1738 printed
-7 jobs waiting on printer 1
-893 printed
-7 jobs waiting on printer 1
-8 jobs waiting on printer 1
-9 jobs waiting on printer 1
-10 jobs waiting on printer 1
-23892 printed
-27069 printed
-24008 printed
-4370 printed
-11664 printed
-6 jobs waiting on printer 1
-7 jobs waiting on printer 1
-8 jobs waiting on printer 1
-9 jobs waiting on printer 1
-10212 printed
-19609 printed
-8 jobs waiting on printer 1
-2400 printed
-21079 printed
-7 jobs waiting on printer 1
-21122 printed
-2320 printed
-6 jobs waiting on printer 1
-7 jobs waiting on printer 1
-8 jobs waiting on printer 1
-9 jobs waiting on printer 1
-10 jobs waiting on printer 1
-10310 printed
-13149 printed
-26663 printed
-8 jobs waiting on printer 1
-15016 printed
-26884 printed
-13241 printed
-6 jobs waiting on printer 1
-7 jobs waiting on printer 1
-8 jobs waiting on printer 1
-9 jobs waiting on printer 1
-10 jobs waiting on printer 1
-23630 printed
-10 jobs waiting on printer 1
-32180 printed
-10 jobs waiting on printer 1
-10808 printed
-24584 printed
-9 jobs waiting on printer 1
-10 jobs waiting on printer 1
-11 jobs waiting on printer 1
-12 jobs waiting on printer 1
-13 jobs waiting on printer 1
-14 jobs waiting on printer 1
-15 jobs waiting on printer 1
-16 jobs waiting on printer 1
-17 jobs waiting on printer 1
-18 jobs waiting on printer 1
-19 jobs waiting on printer 1
-20 jobs waiting on printer 1
-21 jobs waiting on printer 1
-22 jobs waiting on printer 1
-32123 printed
-14519 printed
-25576 printed
-29253 printed
-19 jobs waiting on printer 1
-24384 printed
-23774 printed
-18 jobs waiting on printer 1
-19 jobs waiting on printer 1
-13940 printed
-32593 printed
-817 printed
-17 jobs waiting on printer 1
-7982 printed
-87 printed
-7007 printed
-14852 printed
-27298 printed
-13 jobs waiting on printer 1
-14 jobs waiting on printer 1
-2483 printed
-9395 printed
-13 jobs waiting on printer 1
-14 jobs waiting on printer 1
-8128 printed
-16186 printed
-23888 printed
-16757 printed
-3447 printed
-10 jobs waiting on printer 1
-12134 printed
-13292 printed
-19117 printed
-8 jobs waiting on printer 1
-9 jobs waiting on printer 1
-296 printed
-9 jobs waiting on printer 1
-6359 printed
-9 jobs waiting on printer 1
-5772 printed
-9 jobs waiting on printer 1
-10 jobs waiting on printer 1
-11 jobs waiting on printer 1
-2380 printed
-11 jobs waiting on printer 1
-12 jobs waiting on printer 1
-5689 printed
-7687 printed
-12992 printed
-10 jobs waiting on printer 1
-20469 printed
-10 jobs waiting on printer 1
-11 jobs waiting on printer 1
-12 jobs waiting on printer 1
-13 jobs waiting on printer 1
-14 jobs waiting on printer 1
-18157 printed
-14 jobs waiting on printer 1
-9480 printed
-26586 printed
-13 jobs waiting on printer 1
-999 printed
-13 jobs waiting on printer 1
-16603 printed
-22986 printed
-12 jobs waiting on printer 1
-17808 printed
-12 jobs waiting on printer 1
-9746 printed
-12 jobs waiting on printer 1
-13 jobs waiting on printer 1
-14 jobs waiting on printer 1
-15 jobs waiting on printer 1
-16 jobs waiting on printer 1
-5231 printed
-15083 printed
-15 jobs waiting on printer 1
-13308 printed
-19288 printed
-28037 printed
-13 jobs waiting on printer 1
-14 jobs waiting on printer 1
-14873 printed
-8037 printed
-24744 printed
-27858 printed
-567 printed
-10 jobs waiting on printer 1
-11257 printed
-31018 printed
-9 jobs waiting on printer 1
-6640 printed
-9 jobs waiting on printer 1
-10 jobs waiting on printer 1
-25837 printed
-14424 printed
-19988 printed
-8 jobs waiting on printer 1
-17492 printed
-18212 printed
-7 jobs waiting on printer 1
-5086 printed
-16387 printed
-6 jobs waiting on printer 1
-7 jobs waiting on printer 1
-20127 printed
-9575 printed
-6 jobs waiting on printer 1
-7 jobs waiting on printer 1
-8105 printed
-7 jobs waiting on printer 1
-8 jobs waiting on printer 1
-16129 printed
-50 printed
-6224 printed
-6 jobs waiting on printer 1
-7 jobs waiting on printer 1
-8 jobs waiting on printer 1
-9 jobs waiting on printer 1
-23503 printed
-9 jobs waiting on printer 1
-10 jobs waiting on printer 1
-18727 printed
-6922 printed
-9 jobs waiting on printer 1
-26374 printed
-20769 printed
-25028 printed
-7 jobs waiting on printer 1
-2270 printed
-7 jobs waiting on printer 1
-21740 printed
-5911 printed
-28418 printed
-23143 printed
-7887 printed
-1858 printed
-2571 printed
-1 jobs waiting on printer 1
-27206 printed
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-31147 printed
-21502 printed
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-4 jobs waiting on printer 1
-5 jobs waiting on printer 1
-21492 printed
-30175 printed
-4 jobs waiting on printer 1
-13425 printed
-10826 printed
-32090 printed
-2 jobs waiting on printer 1
-20591 printed
-12670 printed
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-12871 printed
-2 jobs waiting on printer 1
-19050 printed
-2 jobs waiting on printer 1
-17598 printed
-3523 printed
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-4 jobs waiting on printer 1
-5 jobs waiting on printer 1
-6 jobs waiting on printer 1
-19115 printed
-20650 printed
-5 jobs waiting on printer 1
-24020 printed
-5 jobs waiting on printer 1
-3616 printed
-11453 printed
-4 jobs waiting on printer 1
-24863 printed
-4 jobs waiting on printer 1
-5 jobs waiting on printer 1
-6 jobs waiting on printer 1
-7 jobs waiting on printer 1
-13284 printed
-21167 printed
-6 jobs waiting on printer 1
-18466 printed
-6 jobs waiting on printer 1
-1235 printed
-6 jobs waiting on printer 1
-6188 printed
-8457 printed
-2572 printed
-20379 printed
-27828 printed
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-8088 printed
-20820 printed
-5182 printed
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-26761 printed
-24217 printed
-22240 printed
+0 jobs waiting on printer 2233 after moving
+1 jobs waiting on printer 955
 no documents in queue
 no documents in queue
 no documents in queue
 no documents in queue
 no documents in queue
+0 jobs waiting on printer 1192 after moving
+1 jobs waiting on printer 1992
+1 jobs waiting on printer 1363
+1 jobs waiting on printer 1522
+0 jobs waiting on printer 475 after moving
+0 jobs waiting on printer 493 after moving
+0 jobs waiting on printer 1968 after moving
+0 jobs waiting on printer 2074 after moving
+0 jobs waiting on printer 2059 after moving
 no documents in queue
 no documents in queue
-1 jobs waiting on printer 1
-6621 printed
+0 jobs waiting on printer 327 after moving
+0 jobs waiting on printer 212 after moving
 no documents in queue
 no documents in queue
-1 jobs waiting on printer 1
-26841 printed
+0 jobs waiting on printer 1286 after moving
 no documents in queue
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-6056 printed
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-4 jobs waiting on printer 1
-5 jobs waiting on printer 1
-6 jobs waiting on printer 1
-7 jobs waiting on printer 1
-8 jobs waiting on printer 1
-24278 printed
-8 jobs waiting on printer 1
-24248 printed
-19313 printed
-7 jobs waiting on printer 1
-20444 printed
-15311 printed
-6 jobs waiting on printer 1
-7 jobs waiting on printer 1
-12371 printed
-7 jobs waiting on printer 1
-8 jobs waiting on printer 1
-9 jobs waiting on printer 1
-15254 printed
-8801 printed
-1120 printed
-24155 printed
-6 jobs waiting on printer 1
-7 jobs waiting on printer 1
-8 jobs waiting on printer 1
-9 jobs waiting on printer 1
-10 jobs waiting on printer 1
-21487 printed
-21961 printed
-18387 printed
-8953 printed
-7 jobs waiting on printer 1
-8 jobs waiting on printer 1
-14822 printed
-12048 printed
-7 jobs waiting on printer 1
-8 jobs waiting on printer 1
-9 jobs waiting on printer 1
-18193 printed
-15948 printed
-8 jobs waiting on printer 1
-15622 printed
-26745 printed
-21026 printed
-6 jobs waiting on printer 1
-7 jobs waiting on printer 1
-8 jobs waiting on printer 1
-9 jobs waiting on printer 1
-11184 printed
-105 printed
-14031 printed
-2176 printed
-6 jobs waiting on printer 1
-7 jobs waiting on printer 1
-8 jobs waiting on printer 1
-9 jobs waiting on printer 1
-10 jobs waiting on printer 1
-20200 printed
-8414 printed
-9 jobs waiting on printer 1
-10 jobs waiting on printer 1
-26904 printed
-10 jobs waiting on printer 1
-6226 printed
-849 printed
-14876 printed
-8 jobs waiting on printer 1
-9 jobs waiting on printer 1
-10 jobs waiting on printer 1
-13900 printed
-10 jobs waiting on printer 1
-3446 printed
-30027 printed
-9 jobs waiting on printer 1
-13319 printed
-9 jobs waiting on printer 1
-10 jobs waiting on printer 1
-12072 printed
-22305 printed
-24273 printed
-25294 printed
-7 jobs waiting on printer 1
-8 jobs waiting on printer 1
-14780 printed
-8 jobs waiting on printer 1
-9 jobs waiting on printer 1
-10 jobs waiting on printer 1
-9128 printed
-16632 printed
-9 jobs waiting on printer 1
-10 jobs waiting on printer 1
-6077 printed
-10 jobs waiting on printer 1
-11 jobs waiting on printer 1
-22597 printed
-11 jobs waiting on printer 1
-1150 printed
-11 jobs waiting on printer 1
-28187 printed
-11 jobs waiting on printer 1
-13329 printed
-29526 printed
-10 jobs waiting on printer 1
-5496 printed
-6228 printed
-1881 printed
-8490 printed
-7 jobs waiting on printer 1
-8 jobs waiting on printer 1
-9 jobs waiting on printer 1
-32321 printed
-9 jobs waiting on printer 1
-7803 printed
-7198 printed
-17410 printed
-32719 printed
-18303 printed
-4322 printed
-24056 printed
-27730 printed
-8657 printed
-1 jobs waiting on printer 1
-11461 printed
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-8792 printed
-3 jobs waiting on printer 1
-4 jobs waiting on printer 1
-11560 printed
-17090 printed
-3 jobs waiting on printer 1
-4 jobs waiting on printer 1
-28405 printed
-4 jobs waiting on printer 1
-5 jobs waiting on printer 1
-17773 printed
-5 jobs waiting on printer 1
-6 jobs waiting on printer 1
-7 jobs waiting on printer 1
-8770 printed
-7 jobs waiting on printer 1
-9209 printed
-13294 printed
-26776 printed
-30584 printed
-5483 printed
-3 jobs waiting on printer 1
-29635 printed
-30813 printed
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-4 jobs waiting on printer 1
-5 jobs waiting on printer 1
-6 jobs waiting on printer 1
-19874 printed
-9210 printed
-9133 printed
-4 jobs waiting on printer 1
-18857 printed
-9062 printed
-5244 printed
-2 jobs waiting on printer 1
-21658 printed
-2 jobs waiting on printer 1
-9269 printed
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-13435 printed
-3 jobs waiting on printer 1
-24689 printed
-17930 printed
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-15136 printed
-32596 printed
-19889 printed
+1 jobs waiting on printer 2267
+0 jobs waiting on printer 707 after moving
+0 jobs waiting on printer 851 after moving
+1 jobs waiting on printer 1501
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 1937 after moving
+1 jobs waiting on printer 209
+1 jobs waiting on printer 1114
+1 jobs waiting on printer 516
+no documents in queue
+0 jobs waiting on printer 859 after moving
+no documents in queue
+0 jobs waiting on printer 1081 after moving
+1 jobs waiting on printer 2256
+no documents in queue
+1 jobs waiting on printer 490
+1 jobs waiting on printer 834
+no documents in queue
+1 jobs waiting on printer 1472
+0 jobs waiting on printer 1149 after moving
+0 jobs waiting on printer 2121 after moving
+no documents in queue
+1 jobs waiting on printer 169
+0 jobs waiting on printer 580 after moving
+0 jobs waiting on printer 2088 after moving
+1 jobs waiting on printer 590
+0 jobs waiting on printer 429 after moving
+1 jobs waiting on printer 23
+no documents in queue
+1 jobs waiting on printer 552
+1 jobs waiting on printer 1028
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 1967
+0 jobs waiting on printer 608 after moving
+no documents in queue
+1 jobs waiting on printer 1652
+1 jobs waiting on printer 1186
+0 jobs waiting on printer 636 after moving
+1 jobs waiting on printer 1627
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 2230 after moving
+1 jobs waiting on printer 1603
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 1448 after moving
+0 jobs waiting on printer 417 after moving
+1 jobs waiting on printer 1379
+1 jobs waiting on printer 356
+0 jobs waiting on printer 2197 after moving
+0 jobs waiting on printer 337 after moving
+0 jobs waiting on printer 815 after moving
+0 jobs waiting on printer 768 after moving
+1 jobs waiting on printer 1000
+1 jobs waiting on printer 188
+0 jobs waiting on printer 2261 after moving
+1 jobs waiting on printer 1160
+1 jobs waiting on printer 2264
+0 jobs waiting on printer 90 after moving
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 712 after moving
+1 jobs waiting on printer 1654
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 1158
+no documents in queue
+1 jobs waiting on printer 1171 after moving
+1 jobs waiting on printer 846
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 1789
+0 jobs waiting on printer 1761 after moving
+1 jobs waiting on printer 1505
+1 jobs waiting on printer 1047
+1 jobs waiting on printer 1109
+1 jobs waiting on printer 533
+1 jobs waiting on printer 892
+0 jobs waiting on printer 766 after moving
+1 jobs waiting on printer 92
+1 jobs waiting on printer 1655
+0 jobs waiting on printer 672 after moving
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 1512
+0 jobs waiting on printer 605 after moving
+1 jobs waiting on printer 1708
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 1684
+1 jobs waiting on printer 1483
+0 jobs waiting on printer 898 after moving
+no documents in queue
+0 jobs waiting on printer 45 after moving
+1 jobs waiting on printer 462
+0 jobs waiting on printer 1353 after moving
+1 jobs waiting on printer 1631
+1 jobs waiting on printer 1526
+no documents in queue
+1 jobs waiting on printer 251
+no documents in queue
+1 jobs waiting on printer 663
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 1829
+1 jobs waiting on printer 793
+0 jobs waiting on printer 710 after moving
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 2157
+27627 printed
+0 jobs waiting on printer 788 after moving
+1 jobs waiting on printer 143
+no documents in queue
+1 jobs waiting on printer 1594
+1 jobs waiting on printer 803
+no documents in queue
+0 jobs waiting on printer 511 after moving
+1 jobs waiting on printer 431
+1 jobs waiting on printer 1651
+0 jobs waiting on printer 749 after moving
+0 jobs waiting on printer 1833 after moving
+0 jobs waiting on printer 967 after moving
+1 jobs waiting on printer 30
+1 jobs waiting on printer 746
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 1620
+1 jobs waiting on printer 545
+0 jobs waiting on printer 1331 after moving
+1 jobs waiting on printer 2231
+0 jobs waiting on printer 606 after moving
+no documents in queue
+1 jobs waiting on printer 1558
+0 jobs waiting on printer 1897 after moving
+1 jobs waiting on printer 1778
+0 jobs waiting on printer 970 after moving
+1 jobs waiting on printer 380
+1 jobs waiting on printer 2219
+no documents in queue
+0 jobs waiting on printer 1922 after moving
 no documents in queue
 no documents in queue
 no documents in queue
+1 jobs waiting on printer 275
+0 jobs waiting on printer 975 after moving
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 182
+0 jobs waiting on printer 799 after moving
+1 jobs waiting on printer 1201
+1 jobs waiting on printer 1810
+1 jobs waiting on printer 1610
+0 jobs waiting on printer 2 after moving
+0 jobs waiting on printer 790 after moving
+0 jobs waiting on printer 1316 after moving
+0 jobs waiting on printer 1821 after moving
+no documents in queue
+1 jobs waiting on printer 434
+0 jobs waiting on printer 1436 after moving
+1 jobs waiting on printer 254
+0 jobs waiting on printer 395 after moving
+0 jobs waiting on printer 1134 after moving
+0 jobs waiting on printer 958 after moving
 no documents in queue
 no documents in queue
 no documents in queue
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-23466 printed
-2 jobs waiting on printer 1
-16436 printed
-22409 printed
-no documents in queue
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-4 jobs waiting on printer 1
-19658 printed
-12071 printed
-3 jobs waiting on printer 1
-4 jobs waiting on printer 1
-23729 printed
-32532 printed
-3 jobs waiting on printer 1
-18205 printed
-3 jobs waiting on printer 1
-27417 printed
-15356 printed
-7784 printed
+0 jobs waiting on printer 149 after moving
+0 jobs waiting on printer 470 after moving
+1 jobs waiting on printer 258
+1 jobs waiting on printer 1088
 no documents in queue
 no documents in queue
+1 jobs waiting on printer 1819
+1 jobs waiting on printer 1513
+1 jobs waiting on printer 1622
+1 jobs waiting on printer 1414
 no documents in queue
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-17119 printed
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-4 jobs waiting on printer 1
-31773 printed
-8295 printed
-25119 printed
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-9763 printed
-3 jobs waiting on printer 1
-4 jobs waiting on printer 1
-5 jobs waiting on printer 1
-3950 printed
-5 jobs waiting on printer 1
-6 jobs waiting on printer 1
-11788 printed
-21450 printed
-5 jobs waiting on printer 1
-6 jobs waiting on printer 1
-7 jobs waiting on printer 1
-8753 printed
-7 jobs waiting on printer 1
-8 jobs waiting on printer 1
-23428 printed
-8 jobs waiting on printer 1
-2517 printed
-6629 printed
-7 jobs waiting on printer 1
-8 jobs waiting on printer 1
-4632 printed
-6405 printed
-6778 printed
-8206 printed
-22141 printed
-13868 printed
-3 jobs waiting on printer 1
-4 jobs waiting on printer 1
-18543 printed
-4 jobs waiting on printer 1
-5 jobs waiting on printer 1
-6 jobs waiting on printer 1
-21270 printed
-21099 printed
-2725 printed
-3295 printed
-10467 printed
-27582 printed
+1 jobs waiting on printer 1429
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 2062 after moving
+1 jobs waiting on printer 1973
+1 jobs waiting on printer 1855
+0 jobs waiting on printer 1520 after moving
+0 jobs waiting on printer 296 after moving
+0 jobs waiting on printer 1775 after moving
+0 jobs waiting on printer 674 after moving
+0 jobs waiting on printer 1747 after moving
+0 jobs waiting on printer 1260 after moving
+1 jobs waiting on printer 7
+1 jobs waiting on printer 1521 after moving
+0 jobs waiting on printer 1318 after moving
+0 jobs waiting on printer 946 after moving
+1 jobs waiting on printer 1459
+1 jobs waiting on printer 2252
+1 jobs waiting on printer 1933
+0 jobs waiting on printer 1260 after moving
+1 jobs waiting on printer 660
 no documents in queue
 no documents in queue
 no documents in queue
+1 jobs waiting on printer 667
+no documents in queue
+0 jobs waiting on printer 1014 after moving
+no documents in queue
+0 jobs waiting on printer 1238 after moving
+no documents in queue
+0 jobs waiting on printer 76 after moving
+1 jobs waiting on printer 623 after moving
+no documents in queue
+1 jobs waiting on printer 2070
+0 jobs waiting on printer 2230 after moving
+no documents in queue
+0 jobs waiting on printer 1869 after moving
+0 jobs waiting on printer 436 after moving
+2 jobs waiting on printer 667
+1 jobs waiting on printer 1521 after moving
+0 jobs waiting on printer 707 after moving
+1 jobs waiting on printer 1855 after moving
+no documents in queue
+0 jobs waiting on printer 528 after moving
+1 jobs waiting on printer 987
+no documents in queue
+1 jobs waiting on printer 163
+1 jobs waiting on printer 1569
+0 jobs waiting on printer 1572 after moving
+0 jobs waiting on printer 1818 after moving
+0 jobs waiting on printer 1952 after moving
+no documents in queue
+1 jobs waiting on printer 911
+0 jobs waiting on printer 1293 after moving
+0 jobs waiting on printer 314 after moving
+1 jobs waiting on printer 211
+1 jobs waiting on printer 820
+0 jobs waiting on printer 1776 after moving
+1 jobs waiting on printer 468
+no documents in queue
+1 jobs waiting on printer 1535
+1 jobs waiting on printer 2066
+0 jobs waiting on printer 630 after moving
+2481 printed
 no documents in queue
 no documents in queue
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-32366 printed
-10982 printed
-2 jobs waiting on printer 1
-10466 printed
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-31339 printed
-5395 printed
-10229 printed
+1 jobs waiting on printer 684
 no documents in queue
-1 jobs waiting on printer 1
-23656 printed
-1 jobs waiting on printer 1
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-4 jobs waiting on printer 1
-30947 printed
-6044 printed
-31156 printed
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-6255 printed
-3 jobs waiting on printer 1
-17462 printed
-332 printed
-2 jobs waiting on printer 1
-23244 printed
-2 jobs waiting on printer 1
-3 jobs waiting on printer 1
-19240 printed
-3 jobs waiting on printer 1
-4 jobs waiting on printer 1
-5 jobs waiting on printer 1
-6 jobs waiting on printer 1
-7 jobs waiting on printer 1
-8 jobs waiting on printer 1
-21794 printed
-19063 printed
-3966 printed
-26114 printed
-5 jobs waiting on printer 1
-6 jobs waiting on printer 1
-7 jobs waiting on printer 1
-8 jobs waiting on printer 1
-9 jobs waiting on printer 1
-13261 printed
-20375 printed
-8 jobs waiting on printer 1
-9 jobs waiting on printer 1
-10 jobs waiting on printer 1
-16468 printed
-10 jobs waiting on printer 1
-11 jobs waiting on printer 1
-29268 printed
-11 jobs waiting on printer 1
-1075 printed
-24920 printed
-10 jobs waiting on printer 1
-11 jobs waiting on printer 1
-12 jobs waiting on printer 1
-25386 printed
-13077 printed
-11 jobs waiting on printer 1
-12 jobs waiting on printer 1
-13 jobs waiting on printer 1
-14 jobs waiting on printer 1
-9105 printed
-14 jobs waiting on printer 1
-24544 printed
-14 jobs waiting on printer 1
-15 jobs waiting on printer 1
-4429 printed
-32005 printed
-14 jobs waiting on printer 1
-15 jobs waiting on printer 1
-6156 printed
-2464 printed
-14 jobs waiting on printer 1
-15 jobs waiting on printer 1
-23759 printed
-15 jobs waiting on printer 1
-16 jobs waiting on printer 1
-17 jobs waiting on printer 1
-18 jobs waiting on printer 1
-29388 printed
-11360 printed
-17 jobs waiting on printer 1
-18 jobs waiting on printer 1
-1148 printed
-18 jobs waiting on printer 1
-3745 printed
-18 jobs waiting on printer 1
-19 jobs waiting on printer 1
-17404 printed
-825 printed
-19883 printed
-17 jobs waiting on printer 1
-19039 printed
-17 jobs waiting on printer 1
-11703 printed
-17 jobs waiting on printer 1
-4384 printed
-17 jobs waiting on printer 1
-29926 printed
-17320 printed
-26248 printed
-15 jobs waiting on printer 1
-16 jobs waiting on printer 1
-17 jobs waiting on printer 1
-18 jobs waiting on printer 1
-7770 printed
-18 jobs waiting on printer 1
-19 jobs waiting on printer 1
-1404 printed
-19 jobs waiting on printer 1
-20 jobs waiting on printer 1
-15035 printed
-6302 printed
-22673 printed
-18 jobs waiting on printer 1
-27605 printed
-18 jobs waiting on printer 1
-5030 printed
-18 jobs waiting on printer 1
-25146 printed
-22641 printed
-17 jobs waiting on printer 1
-18 jobs waiting on printer 1
-13068 printed
-2015 printed
-25154 printed
-16 jobs waiting on printer 1
-17 jobs waiting on printer 1
-2128 printed
-18332 printed
-16 jobs waiting on printer 1
-17 jobs waiting on printer 1
-11807 printed
-10839 printed
-3776 printed
-23911 printed
-14 jobs waiting on printer 1
-28881 printed
-14 jobs waiting on printer 1
-15 jobs waiting on printer 1
-22734 printed
-15 jobs waiting on printer 1
-10631 printed
-29928 printed
-14 jobs waiting on printer 1
-15 jobs waiting on printer 1
-14477 printed
-15 jobs waiting on printer 1
-20792 printed
-15 jobs waiting on printer 1
-16 jobs waiting on printer 1
-17 jobs waiting on printer 1
-18 jobs waiting on printer 1
-19 jobs waiting on printer 1
-20 jobs waiting on printer 1
-21 jobs waiting on printer 1
-9813 printed
-14594 printed
-20 jobs waiting on printer 1
-24839 printed
-26771 printed
-19 jobs waiting on printer 1
-20 jobs waiting on printer 1
-17289 printed
-20 jobs waiting on printer 1
-23964 printed
-25469 printed
-19 jobs waiting on printer 1
-12883 printed
-19 jobs waiting on printer 1
-2087 printed
-19 jobs waiting on printer 1
-20 jobs waiting on printer 1
-21 jobs waiting on printer 1
-31666 printed
-26525 printed
-20 jobs waiting on printer 1
-26175 printed
-20 jobs waiting on printer 1
-19954 printed
-20181 printed
-3288 printed
-18 jobs waiting on printer 1
-9081 printed
-20475 printed
-17 jobs waiting on printer 1
-18 jobs waiting on printer 1
-582 printed
-18 jobs waiting on printer 1
-19 jobs waiting on printer 1
-20 jobs waiting on printer 1
-21 jobs waiting on printer 1
-22 jobs waiting on printer 1
-23 jobs waiting on printer 1
-24 jobs waiting on printer 1
-25 jobs waiting on printer 1
-26 jobs waiting on printer 1
-27 jobs waiting on printer 1
-19593 printed
-19995 printed
-26 jobs waiting on printer 1
-11209 printed
-26 jobs waiting on printer 1
-14408 printed
-16454 printed
-14010 printed
-24 jobs waiting on printer 1
-25 jobs waiting on printer 1
-26 jobs waiting on printer 1
-27 jobs waiting on printer 1
-8446 printed
-12522 printed
-26 jobs waiting on printer 1
-17611 printed
-27165 printed
-25 jobs waiting on printer 1
-26 jobs waiting on printer 1
-9318 printed
-21364 printed
-3453 printed
-24 jobs waiting on printer 1
-21579 printed
-7384 printed
-23 jobs waiting on printer 1
-3853 printed
-821 printed
-2212 printed
-21 jobs waiting on printer 1
-22 jobs waiting on printer 1
-23 jobs waiting on printer 1
-10660 printed
-27489 printed
-20440 printed
-21 jobs waiting on printer 1
-29379 printed
-21 jobs waiting on printer 1
-22 jobs waiting on printer 1
-11962 printed
-22 jobs waiting on printer 1
-23 jobs waiting on printer 1
-21681 printed
-23 jobs waiting on printer 1
-24 jobs waiting on printer 1
-25 jobs waiting on printer 1
-26 jobs waiting on printer 1
-27 jobs waiting on printer 1
-15325 printed
-20507 printed
-20563 printed
-25 jobs waiting on printer 1
-26 jobs waiting on printer 1
-4635 printed
-26 jobs waiting on printer 1
-12975 printed
-18181 printed
-7701 printed
-24 jobs waiting on printer 1
-1090 printed
-21100 printed
-4303 printed
-22 jobs waiting on printer 1
-16086 printed
-22 jobs waiting on printer 1
-6047 printed
-22 jobs waiting on printer 1
-22030 printed
-5082 printed
-30160 printed
-20 jobs waiting on printer 1
-21 jobs waiting on printer 1
-2612 printed
-8894 printed
-20 jobs waiting on printer 1
-21 jobs waiting on printer 1
-22 jobs waiting on printer 1
-13617 printed
-22 jobs waiting on printer 1
-27144 printed
-22 jobs waiting on printer 1
-3913 printed
-22 jobs waiting on printer 1
-23 jobs waiting on printer 1
-25323 printed
-9546 printed
-22 jobs waiting on printer 1
-27484 printed
-22 jobs waiting on printer 1
-26388 printed
-22 jobs waiting on printer 1
-2632 printed
-31184 printed
-126 printed
-10596 printed
-19 jobs waiting on printer 1
-10969 printed
-19 jobs waiting on printer 1
-20 jobs waiting on printer 1
-21 jobs waiting on printer 1
-22 jobs waiting on printer 1
-23 jobs waiting on printer 1
-12280 printed
-23 jobs waiting on printer 1
-16788 printed
-23 jobs waiting on printer 1
-24 jobs waiting on printer 1
-28086 printed
-24 jobs waiting on printer 1
-25 jobs waiting on printer 1
-26 jobs waiting on printer 1
-27 jobs waiting on printer 1
-26405 printed
-27 jobs waiting on printer 1
-28 jobs waiting on printer 1
-5470 printed
-29503 printed
-27 jobs waiting on printer 1
-28920 printed
-27 jobs waiting on printer 1
-7282 printed
-19575 printed
-25947 printed
-24910 printed
-28751 printed
-23 jobs waiting on printer 1
-24 jobs waiting on printer 1
-19474 printed
-24 jobs waiting on printer 1
-30258 printed
-24 jobs waiting on printer 1
-25 jobs waiting on printer 1
-26 jobs waiting on printer 1
-32001 printed
-21995 printed
-5267 printed
-25367 printed
-7929 printed
-7040 printed
-21 jobs waiting on printer 1
-30987 printed
-21 jobs waiting on printer 1
-22 jobs waiting on printer 1
-13238 printed
-22 jobs waiting on printer 1
-29561 printed
-22 jobs waiting on printer 1
-23 jobs waiting on printer 1
-16370 printed
-16279 printed
-22 jobs waiting on printer 1
-23 jobs waiting on printer 1
-28956 printed
-23 jobs waiting on printer 1
-24 jobs waiting on printer 1
-857 printed
-24 jobs waiting on printer 1
-3618 printed
-24 jobs waiting on printer 1
-25 jobs waiting on printer 1
-26 jobs waiting on printer 1
-27 jobs waiting on printer 1
-13408 printed
-4869 printed
-26 jobs waiting on printer 1
-1337 printed
-26 jobs waiting on printer 1
-30543 printed
-19418 printed
-30651 printed
-3201 printed
-6389 printed
-21232 printed
-21 jobs waiting on printer 1
-8049 printed
-24648 printed
-20 jobs waiting on printer 1
-21 jobs waiting on printer 1
-19840 printed
-21 jobs waiting on printer 1
-22 jobs waiting on printer 1
-6276 printed
-1447 printed
-30269 printed
-17600 printed
-32422 printed
-25797 printed
-19989 printed
-15781 printed
-26063 printed
-14 jobs waiting on printer 1
-12411 printed
-14 jobs waiting on printer 1
-15 jobs waiting on printer 1
-16 jobs waiting on printer 1
-17 jobs waiting on printer 1
-18 jobs waiting on printer 1
-526 printed
-18 jobs waiting on printer 1
-27104 printed
-18263 printed
-26671 printed
-16 jobs waiting on printer 1
-17 jobs waiting on printer 1
-18 jobs waiting on printer 1
-18798 printed
-18 jobs waiting on printer 1
-19 jobs waiting on printer 1
-21416 printed
-19 jobs waiting on printer 1
-2371 printed
-2763 printed
-18 jobs waiting on printer 1
-6036 printed
-2275 printed
-17 jobs waiting on printer 1
-18861 printed
-17 jobs waiting on printer 1
-18 jobs waiting on printer 1
-13321 printed
-18 jobs waiting on printer 1
-19 jobs waiting on printer 1
-17370 printed
-19 jobs waiting on printer 1
-20 jobs waiting on printer 1
-19891 printed
-20 jobs waiting on printer 1
-21 jobs waiting on printer 1
-28224 printed
-16707 printed
-20 jobs waiting on printer 1
-21 jobs waiting on printer 1
-22 jobs waiting on printer 1
-23 jobs waiting on printer 1
-31739 printed
-26573 printed
-22 jobs waiting on printer 1
-589 printed
-22 jobs waiting on printer 1
-23085 printed
-22 jobs waiting on printer 1
-23 jobs waiting on printer 1
-24 jobs waiting on printer 1
-25 jobs waiting on printer 1
-26 jobs waiting on printer 1
-27 jobs waiting on printer 1
-13918 printed
-25625 printed
-11825 printed
-25 jobs waiting on printer 1
-1968 printed
-1702 printed
-24 jobs waiting on printer 1
-25 jobs waiting on printer 1
-2314 printed
-25 jobs waiting on printer 1
-20328 printed
-25 jobs waiting on printer 1
-30553 printed
-30261 printed
-24 jobs waiting on printer 1
-25 jobs waiting on printer 1
-26 jobs waiting on printer 1
-32611 printed
-26 jobs waiting on printer 1
-12843 printed
-28842 printed
-13003 printed
-24 jobs waiting on printer 1
-25 jobs waiting on printer 1
-23628 printed
-1664 printed
-24 jobs waiting on printer 1
-27834 printed
-8192 printed
-11997 printed
-22 jobs waiting on printer 1
-23 jobs waiting on printer 1
-24 jobs waiting on printer 1
-25 jobs waiting on printer 1
-26 jobs waiting on printer 1
-27 jobs waiting on printer 1
-14400 printed
-27 jobs waiting on printer 1
-28 jobs waiting on printer 1
-29 jobs waiting on printer 1
-19138 printed
-29030 printed
-2559 printed
-23497 printed
-2846 printed
-26647 printed
-24 jobs waiting on printer 1
-4203 printed
-7291 printed
-23 jobs waiting on printer 1
-16810 printed
-23 jobs waiting on printer 1
-12518 printed
-23 jobs waiting on printer 1
-6999 printed
-32566 printed
-22 jobs waiting on printer 1
-28280 printed
-7393 printed
-19000 printed
-15367 printed
-19 jobs waiting on printer 1
-20 jobs waiting on printer 1
-21 jobs waiting on printer 1
-22 jobs waiting on printer 1
-23 jobs waiting on printer 1
-9247 printed
-23 jobs waiting on printer 1
-1091 printed
-27969 printed
-9135 printed
-21 jobs waiting on printer 1
-22 jobs waiting on printer 1
-23 jobs waiting on printer 1
-32142 printed
-23 jobs waiting on printer 1
-24 jobs waiting on printer 1
-25 jobs waiting on printer 1
-9544 printed
-11177 printed
-1009 printed
-3362 printed
-32188 printed
-21 jobs waiting on printer 1
-32305 printed
-21 jobs waiting on printer 1
-14036 printed
-6945 printed
-20835 printed
-19 jobs waiting on printer 1
-20 jobs waiting on printer 1
-21 jobs waiting on printer 1
-22 jobs waiting on printer 1
-6805 printed
-22 jobs waiting on printer 1
-329 printed
-22 jobs waiting on printer 1
-23476 printed
-22 jobs waiting on printer 1
-16269 printed
-13473 printed
-21 jobs waiting on printer 1
-5344 printed
-25509 printed
-31429 printed
-19 jobs waiting on printer 1
-13449 printed
-25978 printed
-14444 printed
-22000 printed
-23530 printed
-19931 printed
-2054 printed
-31549 printed
-12 jobs waiting on printer 1
-13 jobs waiting on printer 1
-14 jobs waiting on printer 1
-15 jobs waiting on printer 1
-16 jobs waiting on printer 1
-18971 printed
-25468 printed
-22023 printed
-27422 printed
-20076 printed
-7283 printed
-11 jobs waiting on printer 1
-9272 printed
-11 jobs waiting on printer 1
-12 jobs waiting on printer 1
-13 jobs waiting on printer 1
-14 jobs waiting on printer 1
-15 jobs waiting on printer 1
-31335 printed
-15 jobs waiting on printer 1
-16 jobs waiting on printer 1
-17 jobs waiting on printer 1
-18 jobs waiting on printer 1
-19 jobs waiting on printer 1
-5289 printed
-9030 printed
-6104 printed
-17 jobs waiting on printer 1
-31214 printed
-17 jobs waiting on printer 1
-18 jobs waiting on printer 1
-19 jobs waiting on printer 1
-27246 printed
-1288 printed
-10842 printed
-15723 printed
-17173 printed
-27820 printed
-14 jobs waiting on printer 1
-15 jobs waiting on printer 1
-3015 printed
-15 jobs waiting on printer 1
-16 jobs waiting on printer 1
-17 jobs waiting on printer 1
-18 jobs waiting on printer 1
-7545 printed
-23734 printed
-17 jobs waiting on printer 1
-31564 printed
-17 jobs waiting on printer 1
-31231 printed
-17 jobs waiting on printer 1
-23661 printed
-15435 printed
-16998 printed
-10880 printed
-14 jobs waiting on printer 1
-29874 printed
-14 jobs waiting on printer 1
-26263 printed
-14 jobs waiting on printer 1
-15 jobs waiting on printer 1
-17962 printed
-4772 printed
-14 jobs waiting on printer 1
-17539 printed
-14 jobs waiting on printer 1
-1407 printed
-14 jobs waiting on printer 1
-15 jobs waiting on printer 1
-32124 printed
-183 printed
-19463 printed
-23510 printed
-12 jobs waiting on printer 1
-15912 printed
-12 jobs waiting on printer 1
-13 jobs waiting on printer 1
-12287 printed
-10890 printed
-12 jobs waiting on printer 1
-1121 printed
-12 jobs waiting on printer 1
-13 jobs waiting on printer 1
-14 jobs waiting on printer 1
-11548 printed
-4150 printed
-20936 printed
-9641 printed
-11 jobs waiting on printer 1
-9410 printed
-11 jobs waiting on printer 1
-2378 printed
-11 jobs waiting on printer 1
-27168 printed
-11 jobs waiting on printer 1
-12 jobs waiting on printer 1
-13 jobs waiting on printer 1
-14 jobs waiting on printer 1
-15 jobs waiting on printer 1
-16644 printed
-15 jobs waiting on printer 1
-2180 printed
-30036 printed
-14 jobs waiting on printer 1
-26391 printed
-14 jobs waiting on printer 1
-15 jobs waiting on printer 1
-1669 printed
-15 jobs waiting on printer 1
-16 jobs waiting on printer 1
-17 jobs waiting on printer 1
-18 jobs waiting on printer 1
-21648 printed
-18 jobs waiting on printer 1
-19 jobs waiting on printer 1
-13769 printed
-19 jobs waiting on printer 1
-20 jobs waiting on printer 1
-30320 printed
-29828 printed
-19 jobs waiting on printer 1
-5316 printed
-10584 printed
-8195 printed
-17 jobs waiting on printer 1
-8553 printed
-17 jobs waiting on printer 1
-18 jobs waiting on printer 1
-19 jobs waiting on printer 1
-5858 printed
-19 jobs waiting on printer 1
-20 jobs waiting on printer 1
-3799 printed
-20 jobs waiting on printer 1
-21 jobs waiting on printer 1
-22 jobs waiting on printer 1
-23 jobs waiting on printer 1
-13947 printed
-23 jobs waiting on printer 1
-24 jobs waiting on printer 1
-25 jobs waiting on printer 1
-17795 printed
-28719 printed
-24 jobs waiting on printer 1
-8616 printed
-8986 printed
-23 jobs waiting on printer 1
-24 jobs waiting on printer 1
-25365 printed
-19970 printed
-23 jobs waiting on printer 1
-24 jobs waiting on printer 1
-25 jobs waiting on printer 1
-25398 printed
-11524 printed
-24 jobs waiting on printer 1
-196 printed
-11698 printed
-23 jobs waiting on printer 1
-24 jobs waiting on printer 1
-25 jobs waiting on printer 1
-28512 printed
-14111 printed
-8458 printed
-23 jobs waiting on printer 1
-18977 printed
-19461 printed
-24276 printed
-21 jobs waiting on printer 1
-22 jobs waiting on printer 1
-23 jobs waiting on printer 1
-24 jobs waiting on printer 1
-6616 printed
-20162 printed
-23 jobs waiting on printer 1
-24 jobs waiting on printer 1
-30636 printed
-24 jobs waiting on printer 1
-25 jobs waiting on printer 1
-29565 printed
-25 jobs waiting on printer 1
-26 jobs waiting on printer 1
-8483 printed
-6441 printed
-25 jobs waiting on printer 1
-15190 printed
-25 jobs waiting on printer 1
-26 jobs waiting on printer 1
-27 jobs waiting on printer 1
-16510 printed
-6691 printed
-26 jobs waiting on printer 1
-27 jobs waiting on printer 1
-15923 printed
-29115 printed
-26 jobs waiting on printer 1
-27 jobs waiting on printer 1
-24791 printed
-27 jobs waiting on printer 1
-28 jobs waiting on printer 1
-11680 printed
-28 jobs waiting on printer 1
-10355 printed
-28 jobs waiting on printer 1
-3953 printed
-28 jobs waiting on printer 1
-29 jobs waiting on printer 1
-16331 printed
-29 jobs waiting on printer 1
-30 jobs waiting on printer 1
-20858 printed
-30 jobs waiting on printer 1
-12039 printed
-30 jobs waiting on printer 1
-31 jobs waiting on printer 1
-32 jobs waiting on printer 1
-33 jobs waiting on printer 1
-15153 printed
-32213 printed
-8498 printed
-31 jobs waiting on printer 1
-32 jobs waiting on printer 1
-33 jobs waiting on printer 1
-34 jobs waiting on printer 1
-35 jobs waiting on printer 1
-36 jobs waiting on printer 1
-37 jobs waiting on printer 1
-6058 printed
-22017 printed
-36 jobs waiting on printer 1
-2252 printed
-28609 printed
-13324 printed
-32131 printed
-33 jobs waiting on printer 1
-27771 printed
-27547 printed
-11351 printed
-31 jobs waiting on printer 1
-32 jobs waiting on printer 1
-18417 printed
-32 jobs waiting on printer 1
-33 jobs waiting on printer 1
-30718 printed
-33 jobs waiting on printer 1
-34 jobs waiting on printer 1
-35 jobs waiting on printer 1
-8778 printed
-35 jobs waiting on printer 1
-36 jobs waiting on printer 1
-37 jobs waiting on printer 1
-38 jobs waiting on printer 1
-8334 printed
-5349 printed
-37 jobs waiting on printer 1
-2761 printed
-37 jobs waiting on printer 1
-38 jobs waiting on printer 1
-39 jobs waiting on printer 1
-15252 printed
-39 jobs waiting on printer 1
-23843 printed
-39 jobs waiting on printer 1
-18280 printed
-13933 printed
-38 jobs waiting on printer 1
-24424 printed
-38 jobs waiting on printer 1
-16706 printed
-28901 printed
-37 jobs waiting on printer 1
-38 jobs waiting on printer 1
-5624 printed
-30116 printed
-8805 printed
-2500 printed
-35 jobs waiting on printer 1
-36 jobs waiting on printer 1
-37 jobs waiting on printer 1
-26351 printed
-4301 printed
-1880 printed
-35 jobs waiting on printer 1
-13097 printed
-35 jobs waiting on printer 1
-422 printed
-35 jobs waiting on printer 1
-31541 printed
-29083 printed
-29325 printed
-13219 printed
-32 jobs waiting on printer 1
-22384 printed
-32 jobs waiting on printer 1
-33 jobs waiting on printer 1
-30955 printed
-31291 printed
-1746 printed
-18850 printed
-5646 printed
-24951 printed
-29130 printed
-27 jobs waiting on printer 1
-28 jobs waiting on printer 1
-17085 printed
-28 jobs waiting on printer 1
-29 jobs waiting on printer 1
-164 printed
-6278 printed
-28 jobs waiting on printer 1
-29003 printed
-28 jobs waiting on printer 1
-29 jobs waiting on printer 1
-24177 printed
-25659 printed
-20286 printed
-6230 printed
-26 jobs waiting on printer 1
-27 jobs waiting on printer 1
-7547 printed
-27 jobs waiting on printer 1
-28 jobs waiting on printer 1
-8666 printed
-28 jobs waiting on printer 1
-24617 printed
-28 jobs waiting on printer 1
-29 jobs waiting on printer 1
-31985 printed
-18913 printed
-28463 printed
-1828 printed
-4185 printed
-10583 printed
-24 jobs waiting on printer 1
-25 jobs waiting on printer 1
-17643 printed
-16698 printed
-24 jobs waiting on printer 1
-25 jobs waiting on printer 1
-26 jobs waiting on printer 1
-27 jobs waiting on printer 1
-25417 printed
-7055 printed
-2479 printed
-25 jobs waiting on printer 1
-26 jobs waiting on printer 1
-27 jobs waiting on printer 1
-28 jobs waiting on printer 1
-29 jobs waiting on printer 1
-30 jobs waiting on printer 1
-6507 printed
-30 jobs waiting on printer 1
-31 jobs waiting on printer 1
-32 jobs waiting on printer 1
-33 jobs waiting on printer 1
-19221 printed
-2486 printed
-11646 printed
-11883 printed
-30 jobs waiting on printer 1
-6901 printed
-30 jobs waiting on printer 1
-366 printed
-3870 printed
-29 jobs waiting on printer 1
-30 jobs waiting on printer 1
-31 jobs waiting on printer 1
-29548 printed
-23188 printed
-16508 printed
-29 jobs waiting on printer 1
-30 jobs waiting on printer 1
-31 jobs waiting on printer 1
-2090 printed
-11635 printed
-30 jobs waiting on printer 1
-32608 printed
-30 jobs waiting on printer 1
-31 jobs waiting on printer 1
-4539 printed
-13851 printed
-30 jobs waiting on printer 1
-31 jobs waiting on printer 1
-32 jobs waiting on printer 1
-15397 printed
-32 jobs waiting on printer 1
-27456 printed
-32 jobs waiting on printer 1
-12282 printed
-29742 printed
-2773 printed
-30 jobs waiting on printer 1
-20063 printed
-30 jobs waiting on printer 1
-31 jobs waiting on printer 1
-32 jobs waiting on printer 1
-435 printed
-22914 printed
-10620 printed
-30 jobs waiting on printer 1
-15716 printed
-4557 printed
-15378 printed
-28 jobs waiting on printer 1
-24186 printed
-2706 printed
-12789 printed
-26 jobs waiting on printer 1
-27 jobs waiting on printer 1
-28 jobs waiting on printer 1
-3961 printed
-32432 printed
-27 jobs waiting on printer 1
-10813 printed
-27 jobs waiting on printer 1
-28 jobs waiting on printer 1
-29 jobs waiting on printer 1
-30 jobs waiting on printer 1
-31 jobs waiting on printer 1
-21215 printed
-24655 printed
-30 jobs waiting on printer 1
-3908 printed
-14163 printed
-7683 printed
-15740 printed
-27 jobs waiting on printer 1
-1632 printed
-27 jobs waiting on printer 1
-28 jobs waiting on printer 1
-29 jobs waiting on printer 1
-12129 printed
-9108 printed
-28 jobs waiting on printer 1
-29 jobs waiting on printer 1
-7939 printed
-15634 printed
-27581 printed
-5296 printed
-26 jobs waiting on printer 1
-27 jobs waiting on printer 1
-28 jobs waiting on printer 1
-29 jobs waiting on printer 1
-30 jobs waiting on printer 1
-31 jobs waiting on printer 1
-32 jobs waiting on printer 1
-33 jobs waiting on printer 1
-18565 printed
-33 jobs waiting on printer 1
-2845 printed
-30846 printed
-9715 printed
-31 jobs waiting on printer 1
-29108 printed
-31 jobs waiting on printer 1
-32 jobs waiting on printer 1
-33 jobs waiting on printer 1
-34 jobs waiting on printer 1
-31135 printed
-22444 printed
-33 jobs waiting on printer 1
-7226 printed
-33 jobs waiting on printer 1
-2209 printed
-7959 printed
-32 jobs waiting on printer 1
-7204 printed
-21264 printed
-31 jobs waiting on printer 1
-32146 printed
-1801 printed
-30 jobs waiting on printer 1
-31 jobs waiting on printer 1
-31669 printed
-12091 printed
-30 jobs waiting on printer 1
-27975 printed
-25217 printed
-29 jobs waiting on printer 1
-30914 printed
-29 jobs waiting on printer 1
-30 jobs waiting on printer 1
-31 jobs waiting on printer 1
-32 jobs waiting on printer 1
-3891 printed
-32 jobs waiting on printer 1
-33 jobs waiting on printer 1
-16699 printed
-9476 printed
-32 jobs waiting on printer 1
-19682 printed
-32 jobs waiting on printer 1
-33 jobs waiting on printer 1
-34 jobs waiting on printer 1
-35 jobs waiting on printer 1
-36 jobs waiting on printer 1
-37 jobs waiting on printer 1
-38 jobs waiting on printer 1
-12785 printed
-38 jobs waiting on printer 1
-39 jobs waiting on printer 1
-40 jobs waiting on printer 1
-1015 printed
-3340 printed
-39 jobs waiting on printer 1
-17179 printed
-3422 printed
-20302 printed
-26309 printed
-27034 printed
-3832 printed
-1523 printed
-29269 printed
-32 jobs waiting on printer 1
-20143 printed
-10184 printed
-31 jobs waiting on printer 1
-32 jobs waiting on printer 1
-30 printed
-13952 printed
-18675 printed
-30 jobs waiting on printer 1
-16835 printed
-30 jobs waiting on printer 1
-31 jobs waiting on printer 1
-8529 printed
-31 jobs waiting on printer 1
-32 jobs waiting on printer 1
-33 jobs waiting on printer 1
-34 jobs waiting on printer 1
-35 jobs waiting on printer 1
-12650 printed
-35 jobs waiting on printer 1
-26135 printed
-17546 printed
-6315 printed
-9163 printed
-32 jobs waiting on printer 1
-1193 printed
-16654 printed
-7326 printed
-5241 printed
-29 jobs waiting on printer 1
-25124 printed
-29 jobs waiting on printer 1
-30 jobs waiting on printer 1
-31 jobs waiting on printer 1
-32 jobs waiting on printer 1
-33 jobs waiting on printer 1
-14701 printed
-33 jobs waiting on printer 1
-20480 printed
-33 jobs waiting on printer 1
-34 jobs waiting on printer 1
-35 jobs waiting on printer 1
-16206 printed
-20411 printed
-34 jobs waiting on printer 1
-35 jobs waiting on printer 1
-36 jobs waiting on printer 1
-37 jobs waiting on printer 1
-14251 printed
-16769 printed
-36 jobs waiting on printer 1
-37 jobs waiting on printer 1
-38 jobs waiting on printer 1
-16255 printed
-2265 printed
-16533 printed
-13910 printed
-35 jobs waiting on printer 1
-36 jobs waiting on printer 1
-37 jobs waiting on printer 1
-38 jobs waiting on printer 1
-18396 printed
-38 jobs waiting on printer 1
-39 jobs waiting on printer 1
-40 jobs waiting on printer 1
-10626 printed
-26858 printed
-26840 printed
-38 jobs waiting on printer 1
-10079 printed
-23434 printed
-12060 printed
-31942 printed
-35 jobs waiting on printer 1
-36 jobs waiting on printer 1
-37 jobs waiting on printer 1
-38 jobs waiting on printer 1
-5982 printed
-6493 printed
-37 jobs waiting on printer 1
-25533 printed
-17510 printed
-17299 printed
-19730 printed
-10540 printed
-33 jobs waiting on printer 1
-34 jobs waiting on printer 1
-31103 printed
-22527 printed
-33 jobs waiting on printer 1
-34 jobs waiting on printer 1
-25395 printed
-7416 printed
-3479 printed
-7988 printed
-31 jobs waiting on printer 1
-32 jobs waiting on printer 1
-33 jobs waiting on printer 1
-34 jobs waiting on printer 1
-35 jobs waiting on printer 1
-8113 printed
-35 jobs waiting on printer 1
-36 jobs waiting on printer 1
-19829 printed
-36 jobs waiting on printer 1
-9327 printed
-36 jobs waiting on printer 1
-37 jobs waiting on printer 1
-26072 printed
-31992 printed
-24891 printed
-675 printed
-16811 printed
-33 jobs waiting on printer 1
-12151 printed
-14182 printed
-32 jobs waiting on printer 1
-33 jobs waiting on printer 1
-28610 printed
-9680 printed
-8395 printed
-21732 printed
-30 jobs waiting on printer 1
-31 jobs waiting on printer 1
-32 jobs waiting on printer 1
-33 jobs waiting on printer 1
-34 jobs waiting on printer 1
-31203 printed
-34 jobs waiting on printer 1
-24313 printed
-34 jobs waiting on printer 1
-7253 printed
-34 jobs waiting on printer 1
-35 jobs waiting on printer 1
-36 jobs waiting on printer 1
-30819 printed
-21253 printed
-35 jobs waiting on printer 1
-4180 printed
-35 jobs waiting on printer 1
-19133 printed
-35 jobs waiting on printer 1
-26214 printed
-35 jobs waiting on printer 1
-36 jobs waiting on printer 1
-37 jobs waiting on printer 1
-38 jobs waiting on printer 1
-28447 printed
-31367 printed
-37 jobs waiting on printer 1
-29600 printed
-37 jobs waiting on printer 1
-38 jobs waiting on printer 1
-6704 printed
-38 jobs waiting on printer 1
-39 jobs waiting on printer 1
-40 jobs waiting on printer 1
-41 jobs waiting on printer 1
-42 jobs waiting on printer 1
-12899 printed
-42 jobs waiting on printer 1
-43 jobs waiting on printer 1
-17211 printed
-43 jobs waiting on printer 1
-44 jobs waiting on printer 1
-23588 printed
-44 jobs waiting on printer 1
-45 jobs waiting on printer 1
-10750 printed
-30337 printed
-9041 printed
-43 jobs waiting on printer 1
-13928 printed
-43 jobs waiting on printer 1
-44 jobs waiting on printer 1
-1436 printed
-27943 printed
-43 jobs waiting on printer 1
-44 jobs waiting on printer 1
-13779 printed
-44 jobs waiting on printer 1
-45 jobs waiting on printer 1
-46 jobs waiting on printer 1
-22035 printed
-29716 printed
-45 jobs waiting on printer 1
-27994 printed
-23765 printed
-12920 printed
-27272 printed
-13246 printed
-41 jobs waiting on printer 1
-42 jobs waiting on printer 1
-43 jobs waiting on printer 1
-44 jobs waiting on printer 1
-1818 printed
-44 jobs waiting on printer 1
-21965 printed
-44 jobs waiting on printer 1
-9229 printed
-14604 printed
-8749 printed
-42 jobs waiting on printer 1
-31388 printed
-5299 printed
-41 jobs waiting on printer 1
-42 jobs waiting on printer 1
-43 jobs waiting on printer 1
-7915 printed
-22467 printed
-3034 printed
-41 jobs waiting on printer 1
-42 jobs waiting on printer 1
-43 jobs waiting on printer 1
-44 jobs waiting on printer 1
-45 jobs waiting on printer 1
-46 jobs waiting on printer 1
-47 jobs waiting on printer 1
-48 jobs waiting on printer 1
-49 jobs waiting on printer 1
-4793 printed
-49 jobs waiting on printer 1
-50 jobs waiting on printer 1
-3532 printed
-50 jobs waiting on printer 1
-28825 printed
-6410 printed
-49 jobs waiting on printer 1
-1152 printed
-3713 printed
-48 jobs waiting on printer 1
-16184 printed
-21694 printed
-47 jobs waiting on printer 1
-48 jobs waiting on printer 1
-49 jobs waiting on printer 1
-31743 printed
-49 jobs waiting on printer 1
-50 jobs waiting on printer 1
-51 jobs waiting on printer 1
-52 jobs waiting on printer 1
-9153 printed
-52 jobs waiting on printer 1
-53 jobs waiting on printer 1
-54 jobs waiting on printer 1
-55 jobs waiting on printer 1
-3632 printed
-55 jobs waiting on printer 1
-56 jobs waiting on printer 1
-57 jobs waiting on printer 1
-15696 printed
-5636 printed
-56 jobs waiting on printer 1
-3696 printed
-56 jobs waiting on printer 1
-25266 printed
-56 jobs waiting on printer 1
-57 jobs waiting on printer 1
-58 jobs waiting on printer 1
-59 jobs waiting on printer 1
-60 jobs waiting on printer 1
-9771 printed
-1280 printed
-59 jobs waiting on printer 1
-60 jobs waiting on printer 1
-61 jobs waiting on printer 1
-62 jobs waiting on printer 1
-22510 printed
-62 jobs waiting on printer 1
-15841 printed
-3545 printed
-61 jobs waiting on printer 1
-62 jobs waiting on printer 1
-63 jobs waiting on printer 1
-64 jobs waiting on printer 1
-17200 printed
-12284 printed
-63 jobs waiting on printer 1
-8325 printed
-63 jobs waiting on printer 1
-1999 printed
-8787 printed
-4956 printed
-61 jobs waiting on printer 1
-62 jobs waiting on printer 1
-63 jobs waiting on printer 1
-64 jobs waiting on printer 1
-26985 printed
-23667 printed
-63 jobs waiting on printer 1
-3939 printed
-63 jobs waiting on printer 1
-64 jobs waiting on printer 1
-6431 printed
-64 jobs waiting on printer 1
-7192 printed
-2548 printed
-4508 printed
-62 jobs waiting on printer 1
-11116 printed
-62 jobs waiting on printer 1
-63 jobs waiting on printer 1
-64 jobs waiting on printer 1
-65 jobs waiting on printer 1
-66 jobs waiting on printer 1
-67 jobs waiting on printer 1
-68 jobs waiting on printer 1
-69 jobs waiting on printer 1
-30354 printed
-20225 printed
-5409 printed
-67 jobs waiting on printer 1
-68 jobs waiting on printer 1
-69 jobs waiting on printer 1
-6395 printed
-28078 printed
-15559 printed
-67 jobs waiting on printer 1
-23607 printed
-67 jobs waiting on printer 1
-68 jobs waiting on printer 1
-2885 printed
-8772 printed
-6175 printed
-66 jobs waiting on printer 1
-67 jobs waiting on printer 1
-68 jobs waiting on printer 1
-29299 printed
-24127 printed
-14103 printed
-66 jobs waiting on printer 1
-67 jobs waiting on printer 1
-13565 printed
-7364 printed
-66 jobs waiting on printer 1
-67 jobs waiting on printer 1
-16108 printed
-67 jobs waiting on printer 1
-5999 printed
-875 printed
-17887 printed
-20062 printed
-64 jobs waiting on printer 1
-32664 printed
-27747 printed
-63 jobs waiting on printer 1
-8412 printed
-63 jobs waiting on printer 1
-64 jobs waiting on printer 1
-65 jobs waiting on printer 1
-4720 printed
-65 jobs waiting on printer 1
-8023 printed
-65 jobs waiting on printer 1
-66 jobs waiting on printer 1
-30459 printed
-27635 printed
-65 jobs waiting on printer 1
-21365 printed
-65 jobs waiting on printer 1
-66 jobs waiting on printer 1
-7574 printed
-6885 printed
-29064 printed
-64 jobs waiting on printer 1
-31951 printed
-64 jobs waiting on printer 1
-17523 printed
-29118 printed
-63 jobs waiting on printer 1
-64 jobs waiting on printer 1
-22573 printed
-64 jobs waiting on printer 1
-15421 printed
-12241 printed
-21538 printed
-62 jobs waiting on printer 1
-63 jobs waiting on printer 1
-17913 printed
-29985 printed
-5384 printed
-61 jobs waiting on printer 1
-19411 printed
-61 jobs waiting on printer 1
-6762 printed
-24167 printed
-60 jobs waiting on printer 1
-61 jobs waiting on printer 1
-62 jobs waiting on printer 1
-63 jobs waiting on printer 1
-23018 printed
-7306 printed
-9560 printed
-10196 printed
-60 jobs waiting on printer 1
-32562 printed
-4121 printed
-59 jobs waiting on printer 1
-60 jobs waiting on printer 1
-61 jobs waiting on printer 1
-12157 printed
-26798 printed
-6323 printed
-59 jobs waiting on printer 1
-24545 printed
-59 jobs waiting on printer 1
-60 jobs waiting on printer 1
-61 jobs waiting on printer 1
-62 jobs waiting on printer 1
-27625 printed
-26440 printed
-61 jobs waiting on printer 1
-62 jobs waiting on printer 1
-9445 printed
-7184 printed
-18788 printed
-11607 printed
-59 jobs waiting on printer 1
-60 jobs waiting on printer 1
-26492 printed
-60 jobs waiting on printer 1
-27041 printed
-2172 printed
-8613 printed
-58 jobs waiting on printer 1
-11404 printed
-58 jobs waiting on printer 1
-59 jobs waiting on printer 1
-60 jobs waiting on printer 1
-61 jobs waiting on printer 1
-26999 printed
-61 jobs waiting on printer 1
-62 jobs waiting on printer 1
-63 jobs waiting on printer 1
-13471 printed
-63 jobs waiting on printer 1
-31763 printed
-7329 printed
-9820 printed
-61 jobs waiting on printer 1
-29201 printed
-61 jobs waiting on printer 1
-62 jobs waiting on printer 1
-63 jobs waiting on printer 1
-64 jobs waiting on printer 1
-65 jobs waiting on printer 1
-66 jobs waiting on printer 1
-67 jobs waiting on printer 1
-24827 printed
-67 jobs waiting on printer 1
-30330 printed
-8745 printed
-66 jobs waiting on printer 1
-9855 printed
-9791 printed
-19165 printed
-64 jobs waiting on printer 1
-21849 printed
-64 jobs waiting on printer 1
-26642 printed
-12926 printed
-22932 printed
-62 jobs waiting on printer 1
-6458 printed
-10393 printed
-23218 printed
-30240 printed
-59 jobs waiting on printer 1
-16956 printed
-7482 printed
-995 printed
-15978 printed
-56 jobs waiting on printer 1
-57 jobs waiting on printer 1
-21422 printed
-17210 printed
-24277 printed
-1126 printed
-54 jobs waiting on printer 1
-55 jobs waiting on printer 1
-20730 printed
-32051 printed
-29784 printed
-53 jobs waiting on printer 1
-54 jobs waiting on printer 1
-1167 printed
-54 jobs waiting on printer 1
-55 jobs waiting on printer 1
-8413 printed
-55 jobs waiting on printer 1
-3836 printed
-55 jobs waiting on printer 1
-56 jobs waiting on printer 1
-242 printed
-18379 printed
-20828 printed
-54 jobs waiting on printer 1
-55 jobs waiting on printer 1
-56 jobs waiting on printer 1
-14008 printed
-56 jobs waiting on printer 1
-23853 printed
-56 jobs waiting on printer 1
-13396 printed
-56 jobs waiting on printer 1
-32570 printed
-15679 printed
-3263 printed
-19229 printed
-17842 printed
-16171 printed
-51 jobs waiting on printer 1
-52 jobs waiting on printer 1
-53 jobs waiting on printer 1
-26337 printed
-53 jobs waiting on printer 1
-54 jobs waiting on printer 1
-55 jobs waiting on printer 1
-56 jobs waiting on printer 1
-57 jobs waiting on printer 1
-58 jobs waiting on printer 1
-16710 printed
-58 jobs waiting on printer 1
-59 jobs waiting on printer 1
-60 jobs waiting on printer 1
-30082 printed
-27682 printed
-59 jobs waiting on printer 1
-60 jobs waiting on printer 1
-61 jobs waiting on printer 1
-17175 printed
-9207 printed
-16579 printed
-5457 printed
-19153 printed
-57 jobs waiting on printer 1
-58 jobs waiting on printer 1
-59 jobs waiting on printer 1
-21436 printed
-59 jobs waiting on printer 1
-60 jobs waiting on printer 1
-2445 printed
-60 jobs waiting on printer 1
-61 jobs waiting on printer 1
-23308 printed
-61 jobs waiting on printer 1
-339 printed
-28697 printed
-60 jobs waiting on printer 1
-61 jobs waiting on printer 1
-62 jobs waiting on printer 1
-27620 printed
-15069 printed
-29187 printed
-11310 printed
-59 jobs waiting on printer 1
-7851 printed
-15479 printed
-58 jobs waiting on printer 1
-18314 printed
-9086 printed
-22995 printed
-56 jobs waiting on printer 1
-57 jobs waiting on printer 1
-58 jobs waiting on printer 1
-12639 printed
-15928 printed
-57 jobs waiting on printer 1
-28677 printed
-234 printed
-56 jobs waiting on printer 1
-57 jobs waiting on printer 1
-5625 printed
-24488 printed
-56 jobs waiting on printer 1
-57 jobs waiting on printer 1
-3975 printed
-57 jobs waiting on printer 1
-58 jobs waiting on printer 1
-17028 printed
-58 jobs waiting on printer 1
-11423 printed
-27114 printed
-3833 printed
-56 jobs waiting on printer 1
-57 jobs waiting on printer 1
-23654 printed
-4939 printed
-56 jobs waiting on printer 1
-57 jobs waiting on printer 1
-58 jobs waiting on printer 1
-6563 printed
-58 jobs waiting on printer 1
-59 jobs waiting on printer 1
-32255 printed
-59 jobs waiting on printer 1
-15061 printed
-59 jobs waiting on printer 1
-60 jobs waiting on printer 1
-21817 printed
-60 jobs waiting on printer 1
-61 jobs waiting on printer 1
-2205 printed
-17731 printed
-60 jobs waiting on printer 1
-61 jobs waiting on printer 1
-3195 printed
-18667 printed
-60 jobs waiting on printer 1
-3316 printed
-60 jobs waiting on printer 1
-13255 printed
-60 jobs waiting on printer 1
-61 jobs waiting on printer 1
-11530 printed
-9274 printed
-60 jobs waiting on printer 1
-6200 printed
-60 jobs waiting on printer 1
-16781 printed
-7522 printed
-13143 printed
-58 jobs waiting on printer 1
-7551 printed
-58 jobs waiting on printer 1
-7056 printed
-15157 printed
-57 jobs waiting on printer 1
-58 jobs waiting on printer 1
-22210 printed
-7502 printed
-17774 printed
-29626 printed
-55 jobs waiting on printer 1
-56 jobs waiting on printer 1
-19437 printed
-30587 printed
-55 jobs waiting on printer 1
-3223 printed
-24700 printed
-14900 printed
-53 jobs waiting on printer 1
-54 jobs waiting on printer 1
-4542 printed
-11514 printed
-53 jobs waiting on printer 1
-54 jobs waiting on printer 1
-15160 printed
-29414 printed
-53 jobs waiting on printer 1
-18261 printed
-4308 printed
-52 jobs waiting on printer 1
-53 jobs waiting on printer 1
-15404 printed
-53 jobs waiting on printer 1
-2001 printed
-11575 printed
-52 jobs waiting on printer 1
-53 jobs waiting on printer 1
-54 jobs waiting on printer 1
-55 jobs waiting on printer 1
-56 jobs waiting on printer 1
-32767 printed
-32716 printed
-22215 printed
-54 jobs waiting on printer 1
-21846 printed
-5171 printed
-53 jobs waiting on printer 1
-19744 printed
-26590 printed
-52 jobs waiting on printer 1
-53 jobs waiting on printer 1
-12516 printed
-23154 printed
-7739 printed
-51 jobs waiting on printer 1
-8640 printed
-51 jobs waiting on printer 1
-17405 printed
-51 jobs waiting on printer 1
-18529 printed
-51 jobs waiting on printer 1
-17722 printed
-14401 printed
-12029 printed
-49 jobs waiting on printer 1
-31038 printed
-4642 printed
-3096 printed
-28604 printed
-1559 printed
-15680 printed
-44 jobs waiting on printer 1
-11003 printed
-17781 printed
-43 jobs waiting on printer 1
-44 jobs waiting on printer 1
-22898 printed
-10369 printed
-43 jobs waiting on printer 1
-44 jobs waiting on printer 1
-14285 printed
-44 jobs waiting on printer 1
-45 jobs waiting on printer 1
-46 jobs waiting on printer 1
-47 jobs waiting on printer 1
-24057 printed
-26488 printed
-19784 printed
-19855 printed
-44 jobs waiting on printer 1
-45 jobs waiting on printer 1
-46 jobs waiting on printer 1
-47 jobs waiting on printer 1
-48 jobs waiting on printer 1
-49 jobs waiting on printer 1
-50 jobs waiting on printer 1
-10904 printed
-50 jobs waiting on printer 1
-51 jobs waiting on printer 1
-13495 printed
-19309 printed
-30436 printed
-49 jobs waiting on printer 1
-748 printed
-4481 printed
-48 jobs waiting on printer 1
-9156 printed
-48 jobs waiting on printer 1
-24391 printed
-19574 printed
-10931 printed
-18062 printed
-406 printed
-10672 printed
-43 jobs waiting on printer 1
-44 jobs waiting on printer 1
-45 jobs waiting on printer 1
-10419 printed
-45 jobs waiting on printer 1
-11557 printed
-45 jobs waiting on printer 1
-46 jobs waiting on printer 1
-47 jobs waiting on printer 1
-48 jobs waiting on printer 1
-49 jobs waiting on printer 1
-31789 printed
-49 jobs waiting on printer 1
-50 jobs waiting on printer 1
-51 jobs waiting on printer 1
-14531 printed
-51 jobs waiting on printer 1
-19421 printed
-51 jobs waiting on printer 1
-52 jobs waiting on printer 1
-4162 printed
-20532 printed
-51 jobs waiting on printer 1
-52 jobs waiting on printer 1
-53 jobs waiting on printer 1
-30153 printed
-27978 printed
-52 jobs waiting on printer 1
-31880 printed
-52 jobs waiting on printer 1
-53 jobs waiting on printer 1
-12561 printed
-18623 printed
-8660 printed
-30058 printed
-50 jobs waiting on printer 1
-14736 printed
-18950 printed
-18964 printed
-1784 printed
-47 jobs waiting on printer 1
-48 jobs waiting on printer 1
-49 jobs waiting on printer 1
-50 jobs waiting on printer 1
-51 jobs waiting on printer 1
-9962 printed
-51 jobs waiting on printer 1
-52 jobs waiting on printer 1
-53 jobs waiting on printer 1
-15269 printed
-16974 printed
-3325 printed
-51 jobs waiting on printer 1
-52 jobs waiting on printer 1
-53 jobs waiting on printer 1
-25828 printed
-53 jobs waiting on printer 1
-11131 printed
-53 jobs waiting on printer 1
-54 jobs waiting on printer 1
-55 jobs waiting on printer 1
-3909 printed
-55 jobs waiting on printer 1
-56 jobs waiting on printer 1
-6909 printed
-56 jobs waiting on printer 1
-19084 printed
-8163 printed
-55 jobs waiting on printer 1
-56 jobs waiting on printer 1
-21267 printed
-15330 printed
-55 jobs waiting on printer 1
-56 jobs waiting on printer 1
-57 jobs waiting on printer 1
-25181 printed
-57 jobs waiting on printer 1
-58 jobs waiting on printer 1
-59 jobs waiting on printer 1
-60 jobs waiting on printer 1
-61 jobs waiting on printer 1
-28006 printed
-15503 printed
-3900 printed
-252 printed
-58 jobs waiting on printer 1
-16400 printed
-6800 printed
-3397 printed
-25934 printed
-55 jobs waiting on printer 1
-56 jobs waiting on printer 1
-14898 printed
-10912 printed
-55 jobs waiting on printer 1
-24045 printed
-55 jobs waiting on printer 1
-7121 printed
-21562 printed
-54 jobs waiting on printer 1
-55 jobs waiting on printer 1
-17463 printed
-4615 printed
-13987 printed
-53 jobs waiting on printer 1
-12437 printed
-53 jobs waiting on printer 1
-1388 printed
-53 jobs waiting on printer 1
-27583 printed
-53 jobs waiting on printer 1
-54 jobs waiting on printer 1
-55 jobs waiting on printer 1
-18224 printed
-55 jobs waiting on printer 1
-56 jobs waiting on printer 1
-67 printed
-56 jobs waiting on printer 1
-18270 printed
-56 jobs waiting on printer 1
-57 jobs waiting on printer 1
-1243 printed
-57 jobs waiting on printer 1
-19035 printed
-57 jobs waiting on printer 1
-5262 printed
-23404 printed
-56 jobs waiting on printer 1
-57 jobs waiting on printer 1
-58 jobs waiting on printer 1
-59 jobs waiting on printer 1
-13723 printed
-59 jobs waiting on printer 1
-10589 printed
-59 jobs waiting on printer 1
-26336 printed
-59 jobs waiting on printer 1
-60 jobs waiting on printer 1
-61 jobs waiting on printer 1
-11263 printed
-61 jobs waiting on printer 1
-26991 printed
-61 jobs waiting on printer 1
-62 jobs waiting on printer 1
-17760 printed
-11902 printed
-61 jobs waiting on printer 1
-12066 printed
-61 jobs waiting on printer 1
-26595 printed
-61 jobs waiting on printer 1
-62 jobs waiting on printer 1
-23557 printed
-21274 printed
-61 jobs waiting on printer 1
-6814 printed
-27271 printed
-60 jobs waiting on printer 1
-61 jobs waiting on printer 1
-96 printed
-61 jobs waiting on printer 1
-62 jobs waiting on printer 1
-63 jobs waiting on printer 1
-4464 printed
-1055 printed
-62 jobs waiting on printer 1
-63 jobs waiting on printer 1
-15307 printed
-63 jobs waiting on printer 1
-11098 printed
-63 jobs waiting on printer 1
-64 jobs waiting on printer 1
-25784 printed
+1 jobs waiting on printer 1184
+no documents in queue
+no documents in queue
+31976 printed
+0 jobs waiting on printer 1121 after moving
+0 jobs waiting on printer 377 after moving
+1 jobs waiting on printer 21
+0 jobs waiting on printer 1554 after moving
+no documents in queue
+no documents in queue
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 632 after moving
+1 jobs waiting on printer 1026
+1 jobs waiting on printer 1405
+0 jobs waiting on printer 1599 after moving
+1 jobs waiting on printer 8
+no documents in queue
+0 jobs waiting on printer 1265 after moving
+0 jobs waiting on printer 1958 after moving
+0 jobs waiting on printer 1154 after moving
+1 jobs waiting on printer 1801
+0 jobs waiting on printer 172 after moving
+no documents in queue
+0 jobs waiting on printer 558 after moving
+no documents in queue
+0 jobs waiting on printer 1634 after moving
+1 jobs waiting on printer 573
+1 jobs waiting on printer 1872
+1 jobs waiting on printer 778
+0 jobs waiting on printer 788 after moving
+no documents in queue
+0 jobs waiting on printer 2037 after moving
+1 jobs waiting on printer 312
+0 jobs waiting on printer 1403 after moving
+0 jobs waiting on printer 1734 after moving
+2 jobs waiting on printer 356
+no documents in queue
+1 jobs waiting on printer 25
+0 jobs waiting on printer 1680 after moving
+0 jobs waiting on printer 1836 after moving
+no documents in queue
+0 jobs waiting on printer 1244 after moving
+0 jobs waiting on printer 243 after moving
+0 jobs waiting on printer 501 after moving
+1 jobs waiting on printer 332
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 344 after moving
+1 jobs waiting on printer 682
+no documents in queue
+0 jobs waiting on printer 1084 after moving
+1 jobs waiting on printer 1255
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 1026 after moving
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 327 after moving
+no documents in queue
+no documents in queue
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 1522 after moving
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 747 after moving
+no documents in queue
+no documents in queue
+no documents in queue
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 230 after moving
+0 jobs waiting on printer 2056 after moving
+no documents in queue
+0 jobs waiting on printer 1030 after moving
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 170 after moving
+no documents in queue
+0 jobs waiting on printer 1487 after moving
+1 jobs waiting on printer 1997
+0 jobs waiting on printer 1396 after moving
+0 jobs waiting on printer 1379 after moving
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 1503 after moving
+1 jobs waiting on printer 646
+1 jobs waiting on printer 235 after moving
+1 jobs waiting on printer 2024
+no documents in queue
+0 jobs waiting on printer 1601 after moving
+no documents in queue
+0 jobs waiting on printer 1993 after moving
+no documents in queue
+1 jobs waiting on printer 1267
+0 jobs waiting on printer 1587 after moving
+no documents in queue
+1 jobs waiting on printer 547
+2 jobs waiting on printer 1429
+2 jobs waiting on printer 1791
+1 jobs waiting on printer 1188
+0 jobs waiting on printer 1018 after moving
+1 jobs waiting on printer 1571
+0 jobs waiting on printer 864 after moving
+0 jobs waiting on printer 1211 after moving
+no documents in queue
+1 jobs waiting on printer 916
+no documents in queue
+0 jobs waiting on printer 1174 after moving
+no documents in queue
+1 jobs waiting on printer 2139
+1 jobs waiting on printer 2221
+no documents in queue
+1 jobs waiting on printer 1233
+no documents in queue
+0 jobs waiting on printer 649 after moving
+0 jobs waiting on printer 1706 after moving
+0 jobs waiting on printer 1374 after moving
+0 jobs waiting on printer 1531 after moving
+no documents in queue
+1 jobs waiting on printer 2019
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 1578
+0 jobs waiting on printer 809 after moving
+0 jobs waiting on printer 656 after moving
+0 jobs waiting on printer 536 after moving
+1 jobs waiting on printer 1999 after moving
+1 jobs waiting on printer 2031
+0 jobs waiting on printer 1698 after moving
+no documents in queue
+1 jobs waiting on printer 42 after moving
+no documents in queue
+0 jobs waiting on printer 1323 after moving
+1 jobs waiting on printer 178
+0 jobs waiting on printer 1934 after moving
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 995 after moving
+1 jobs waiting on printer 894
+2 jobs waiting on printer 169
+no documents in queue
+0 jobs waiting on printer 1353 after moving
+0 jobs waiting on printer 1768 after moving
+0 jobs waiting on printer 1786 after moving
+1 jobs waiting on printer 540
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 801
+1 jobs waiting on printer 358
+no documents in queue
+0 jobs waiting on printer 515 after moving
+no documents in queue
+0 jobs waiting on printer 1582 after moving
+1 jobs waiting on printer 1634
+no documents in queue
+1 jobs waiting on printer 363
+1423 printed
+1 jobs waiting on printer 457
+0 jobs waiting on printer 1754 after moving
+8321 printed
+1 jobs waiting on printer 546
+1 jobs waiting on printer 1648
+no documents in queue
+no documents in queue
+2 jobs waiting on printer 1789
+0 jobs waiting on printer 26 after moving
+0 jobs waiting on printer 1257 after moving
+no documents in queue
+1 jobs waiting on printer 893
+1 jobs waiting on printer 2112
+1 jobs waiting on printer 1473
+1 jobs waiting on printer 1907
+1 jobs waiting on printer 957
+0 jobs waiting on printer 2062 after moving
+0 jobs waiting on printer 531 after moving
+no documents in queue
+0 jobs waiting on printer 335 after moving
+no documents in queue
+1 jobs waiting on printer 1234
+1 jobs waiting on printer 429
+0 jobs waiting on printer 195 after moving
+1 jobs waiting on printer 1659
+0 jobs waiting on printer 2195 after moving
+1 jobs waiting on printer 1900 after moving
+1 jobs waiting on printer 893 after moving
+no documents in queue
+0 jobs waiting on printer 895 after moving
+1 jobs waiting on printer 984
+0 jobs waiting on printer 295 after moving
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 515
+no documents in queue
+no documents in queue
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 98
+no documents in queue
+1 jobs waiting on printer 810
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 872 after moving
+1 jobs waiting on printer 1083
+1 jobs waiting on printer 785
+no documents in queue
+32264 printed
+1 jobs waiting on printer 630
+no documents in queue
+1 jobs waiting on printer 782
+0 jobs waiting on printer 1786 after moving
+1 jobs waiting on printer 723
+1 jobs waiting on printer 1602
+0 jobs waiting on printer 2027 after moving
+1 jobs waiting on printer 807
+no documents in queue
+1 jobs waiting on printer 717
+no documents in queue
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 2110 after moving
+1 jobs waiting on printer 1597
+0 jobs waiting on printer 613 after moving
+1 jobs waiting on printer 91
+32689 printed
+no documents in queue
+0 jobs waiting on printer 1422 after moving
+1 jobs waiting on printer 1735
+no documents in queue
+1 jobs waiting on printer 1973 after moving
+1 jobs waiting on printer 998 after moving
+2 jobs waiting on printer 1855
+no documents in queue
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 641
+no documents in queue
+0 jobs waiting on printer 983 after moving
+1 jobs waiting on printer 44
+1 jobs waiting on printer 556
+1 jobs waiting on printer 1011
+no documents in queue
+0 jobs waiting on printer 2185 after moving
+no documents in queue
+1 jobs waiting on printer 1333
+1 jobs waiting on printer 2165
+1 jobs waiting on printer 158
+0 jobs waiting on printer 314 after moving
+0 jobs waiting on printer 1823 after moving
+1 jobs waiting on printer 533 after moving
+0 jobs waiting on printer 1157 after moving
+0 jobs waiting on printer 172 after moving
+1 jobs waiting on printer 109 after moving
+2 jobs waiting on printer 1651
+0 jobs waiting on printer 489 after moving
+no documents in queue
+1 jobs waiting on printer 192
+no documents in queue
+0 jobs waiting on printer 1404 after moving
+0 jobs waiting on printer 1138 after moving
+no documents in queue
+1 jobs waiting on printer 226
+no documents in queue
+0 jobs waiting on printer 1584 after moving
+no documents in queue
+0 jobs waiting on printer 1975 after moving
+no documents in queue
+1 jobs waiting on printer 408
+no documents in queue
+0 jobs waiting on printer 1972 after moving
+0 jobs waiting on printer 2270 after moving
+6029 printed
+1 jobs waiting on printer 991
+1 jobs waiting on printer 694
+no documents in queue
+1 jobs waiting on printer 611
+no documents in queue
+1 jobs waiting on printer 1436
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 1380 after moving
+0 jobs waiting on printer 76 after moving
+no documents in queue
+1 jobs waiting on printer 2042
+1 jobs waiting on printer 1086
+no documents in queue
+0 jobs waiting on printer 1945 after moving
+1 jobs waiting on printer 2257 after moving
+no documents in queue
+0 jobs waiting on printer 1069 after moving
+1 jobs waiting on printer 1852
+1 jobs waiting on printer 2007
+0 jobs waiting on printer 1968 after moving
+1 jobs waiting on printer 840
+no documents in queue
+0 jobs waiting on printer 1263 after moving
+0 jobs waiting on printer 659 after moving
+no documents in queue
+1 jobs waiting on printer 554
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 845 after moving
+0 jobs waiting on printer 767 after moving
+no documents in queue
+1 jobs waiting on printer 882
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 550
+2 jobs waiting on printer 202
+1 jobs waiting on printer 1740
+1 jobs waiting on printer 2064
+1 jobs waiting on printer 1120
+0 jobs waiting on printer 1739 after moving
+no documents in queue
+0 jobs waiting on printer 1646 after moving
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 506
+no documents in queue
+1 jobs waiting on printer 579
+0 jobs waiting on printer 413 after moving
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 1362
+1 jobs waiting on printer 2132
+0 jobs waiting on printer 189 after moving
+no documents in queue
+1 jobs waiting on printer 1667
+0 jobs waiting on printer 836 after moving
+no documents in queue
+1 jobs waiting on printer 75
+0 jobs waiting on printer 974 after moving
+0 jobs waiting on printer 819 after moving
+0 jobs waiting on printer 944 after moving
+1 jobs waiting on printer 587
+0 jobs waiting on printer 971 after moving
+no documents in queue
+0 jobs waiting on printer 1065 after moving
+1 jobs waiting on printer 447
+1 jobs waiting on printer 1206
+0 jobs waiting on printer 85 after moving
+no documents in queue
+1 jobs waiting on printer 1068 after moving
+no documents in queue
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 1805 after moving
+0 jobs waiting on printer 2009 after moving
+0 jobs waiting on printer 755 after moving
+no documents in queue
+0 jobs waiting on printer 735 after moving
+0 jobs waiting on printer 1434 after moving
+0 jobs waiting on printer 2076 after moving
+0 jobs waiting on printer 2203 after moving
+1 jobs waiting on printer 1329
+no documents in queue
+no documents in queue
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 948 after moving
+1 jobs waiting on printer 1395
+1 jobs waiting on printer 1186 after moving
+0 jobs waiting on printer 1563 after moving
+1 jobs waiting on printer 1106
+0 jobs waiting on printer 986 after moving
+0 jobs waiting on printer 1976 after moving
+1 jobs waiting on printer 303
+1 jobs waiting on printer 243
+1 jobs waiting on printer 927
+1 jobs waiting on printer 1101
+no documents in queue
+0 jobs waiting on printer 936 after moving
+no documents in queue
+1 jobs waiting on printer 2017
+0 jobs waiting on printer 383 after moving
+1 jobs waiting on printer 1438
+no documents in queue
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 349 after moving
+no documents in queue
+0 jobs waiting on printer 1983 after moving
+0 jobs waiting on printer 1488 after moving
+no documents in queue
+1 jobs waiting on printer 1418
+0 jobs waiting on printer 1936 after moving
+0 jobs waiting on printer 338 after moving
+no documents in queue
+1 jobs waiting on printer 75 after moving
+16838 printed
+1 jobs waiting on printer 354
+0 jobs waiting on printer 1969 after moving
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 1900 after moving
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 458
+1 jobs waiting on printer 2180
+0 jobs waiting on printer 2079 after moving
+no documents in queue
+0 jobs waiting on printer 1905 after moving
+0 jobs waiting on printer 563 after moving
+1 jobs waiting on printer 1762 after moving
+1 jobs waiting on printer 2085
+0 jobs waiting on printer 215 after moving
+1 jobs waiting on printer 1442
+1 jobs waiting on printer 1291
+no documents in queue
+1 jobs waiting on printer 2178
+1 jobs waiting on printer 866
+no documents in queue
+0 jobs waiting on printer 1989 after moving
+1 jobs waiting on printer 654 after moving
+0 jobs waiting on printer 2212 after moving
+1 jobs waiting on printer 626
+0 jobs waiting on printer 1059 after moving
+no documents in queue
+1 jobs waiting on printer 1354
+0 jobs waiting on printer 1302 after moving
+1 jobs waiting on printer 2255
+no documents in queue
+1 jobs waiting on printer 1326
+1 jobs waiting on printer 1425
+no documents in queue
+1 jobs waiting on printer 1219
+no documents in queue
+0 jobs waiting on printer 542 after moving
+0 jobs waiting on printer 1280 after moving
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 366
+0 jobs waiting on printer 1836 after moving
+1 jobs waiting on printer 1192
+no documents in queue
+1 jobs waiting on printer 651
+0 jobs waiting on printer 179 after moving
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 1341 after moving
+no documents in queue
+0 jobs waiting on printer 1151 after moving
+1 jobs waiting on printer 510
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 152
+1 jobs waiting on printer 284
+0 jobs waiting on printer 309 after moving
+0 jobs waiting on printer 1537 after moving
+0 jobs waiting on printer 288 after moving
+1 jobs waiting on printer 292
+1 jobs waiting on printer 414
+1 jobs waiting on printer 1489
+no documents in queue
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 1566
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 1420 after moving
+1 jobs waiting on printer 2035
+0 jobs waiting on printer 830 after moving
+1 jobs waiting on printer 1062
+no documents in queue
+no documents in queue
+2018 printed
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 2010
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 953
+1 jobs waiting on printer 750
+1 jobs waiting on printer 1498
+no documents in queue
+1 jobs waiting on printer 1086 after moving
+1 jobs waiting on printer 468
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 993 after moving
+no documents in queue
+0 jobs waiting on printer 799 after moving
+no documents in queue
+1 jobs waiting on printer 315
+no documents in queue
+0 jobs waiting on printer 852 after moving
+no documents in queue
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 957 after moving
+0 jobs waiting on printer 923 after moving
+no documents in queue
+0 jobs waiting on printer 738 after moving
+0 jobs waiting on printer 769 after moving
+0 jobs waiting on printer 1095 after moving
+1 jobs waiting on printer 133
+no documents in queue
+0 jobs waiting on printer 935 after moving
+1 jobs waiting on printer 1537
+0 jobs waiting on printer 1797 after moving
+0 jobs waiting on printer 2060 after moving
+0 jobs waiting on printer 2208 after moving
+1 jobs waiting on printer 208
+no documents in queue
+0 jobs waiting on printer 193 after moving
+1 jobs waiting on printer 1574
+0 jobs waiting on printer 1979 after moving
+no documents in queue
+1 jobs waiting on printer 586
+1 jobs waiting on printer 275 after moving
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 1065
+0 jobs waiting on printer 1795 after moving
+no documents in queue
+no documents in queue
+22936 printed
+0 jobs waiting on printer 328 after moving
+no documents in queue
+1 jobs waiting on printer 629
+0 jobs waiting on printer 323 after moving
+no documents in queue
+0 jobs waiting on printer 1095 after moving
+1 jobs waiting on printer 206
+0 jobs waiting on printer 2187 after moving
+no documents in queue
+1 jobs waiting on printer 1360
+2 jobs waiting on printer 911
+1 jobs waiting on printer 728
+1 jobs waiting on printer 1137
+no documents in queue
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 1846 after moving
+1 jobs waiting on printer 533 after moving
+no documents in queue
+1 jobs waiting on printer 1123 after moving
+2 jobs waiting on printer 911 after moving
+1 jobs waiting on printer 1062 after moving
+1 jobs waiting on printer 936
+1 jobs waiting on printer 1051
+1 jobs waiting on printer 106
+no documents in queue
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 401 after moving
+no documents in queue
+0 jobs waiting on printer 444 after moving
+no documents in queue
+no documents in queue
+no documents in queue
+2 jobs waiting on printer 414
+0 jobs waiting on printer 191 after moving
+0 jobs waiting on printer 1218 after moving
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 98 after moving
+no documents in queue
+1 jobs waiting on printer 944
+no documents in queue
+0 jobs waiting on printer 1071 after moving
+1 jobs waiting on printer 1127
+0 jobs waiting on printer 1550 after moving
+0 jobs waiting on printer 231 after moving
+no documents in queue
+0 jobs waiting on printer 180 after moving
+1 jobs waiting on printer 276
+no documents in queue
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 482 after moving
+no documents in queue
+0 jobs waiting on printer 1851 after moving
+1 jobs waiting on printer 709
+1 jobs waiting on printer 1293
+0 jobs waiting on printer 248 after moving
+1352 printed
+1 jobs waiting on printer 1264 after moving
+1 jobs waiting on printer 1725
+1 jobs waiting on printer 1813
+0 jobs waiting on printer 199 after moving
+1 jobs waiting on printer 1459 after moving
+0 jobs waiting on printer 627 after moving
+1 jobs waiting on printer 367
+0 jobs waiting on printer 50 after moving
+0 jobs waiting on printer 1315 after moving
+1 jobs waiting on printer 1664
+no documents in queue
+0 jobs waiting on printer 322 after moving
+1 jobs waiting on printer 549
+1 jobs waiting on printer 1697
+1 jobs waiting on printer 658
+0 jobs waiting on printer 1311 after moving
+no documents in queue
+0 jobs waiting on printer 1075 after moving
+1 jobs waiting on printer 1738
+0 jobs waiting on printer 2289 after moving
+1 jobs waiting on printer 1073
+1 jobs waiting on printer 2010 after moving
+0 jobs waiting on printer 1777 after moving
+no documents in queue
+1 jobs waiting on printer 509
+0 jobs waiting on printer 1568 after moving
+no documents in queue
+no documents in queue
+2 jobs waiting on printer 630
+no documents in queue
+2 jobs waiting on printer 549
+0 jobs waiting on printer 486 after moving
+0 jobs waiting on printer 1710 after moving
+1 jobs waiting on printer 597
+1 jobs waiting on printer 596
+15848 printed
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 118
+1 jobs waiting on printer 185
+0 jobs waiting on printer 2002 after moving
+no documents in queue
+0 jobs waiting on printer 1785 after moving
+8316 printed
+2 jobs waiting on printer 2007
+no documents in queue
+0 jobs waiting on printer 2168 after moving
+no documents in queue
+1 jobs waiting on printer 529
+no documents in queue
+0 jobs waiting on printer 2134 after moving
+1 jobs waiting on printer 2025
+0 jobs waiting on printer 1214 after moving
+27767 printed
+1 jobs waiting on printer 1728
+1 jobs waiting on printer 921
+0 jobs waiting on printer 1751 after moving
+no documents in queue
+7136 printed
+no documents in queue
+1 jobs waiting on printer 1466
+no documents in queue
+1 jobs waiting on printer 777
+0 jobs waiting on printer 1214 after moving
+1 jobs waiting on printer 1257
+1 jobs waiting on printer 997
+1 jobs waiting on printer 273 after moving
+no documents in queue
+0 jobs waiting on printer 1133 after moving
+1 jobs waiting on printer 1874
+1 jobs waiting on printer 910
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 140
+0 jobs waiting on printer 589 after moving
+1 jobs waiting on printer 1021 after moving
+0 jobs waiting on printer 1082 after moving
+no documents in queue
+0 jobs waiting on printer 755 after moving
+0 jobs waiting on printer 2104 after moving
+2 jobs waiting on printer 1992
+2 jobs waiting on printer 75
+0 jobs waiting on printer 263 after moving
+2 jobs waiting on printer 1620
+1 jobs waiting on printer 1367
+1 jobs waiting on printer 1605
+0 jobs waiting on printer 701 after moving
+no documents in queue
+0 jobs waiting on printer 13 after moving
+17972 printed
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 518
+0 jobs waiting on printer 668 after moving
+no documents in queue
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 2087
+1 jobs waiting on printer 1263
+no documents in queue
+1 jobs waiting on printer 94
+no documents in queue
+0 jobs waiting on printer 49 after moving
+3 jobs waiting on printer 1855
+0 jobs waiting on printer 614 after moving
+no documents in queue
+1 jobs waiting on printer 1639
+0 jobs waiting on printer 951 after moving
+no documents in queue
+17054 printed
+1 jobs waiting on printer 1196
+0 jobs waiting on printer 1541 after moving
+no documents in queue
+no documents in queue
+no documents in queue
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 2163 after moving
+no documents in queue
+0 jobs waiting on printer 1060 after moving
+1 jobs waiting on printer 2104
+0 jobs waiting on printer 798 after moving
+1 jobs waiting on printer 1733
+0 jobs waiting on printer 847 after moving
+no documents in queue
+0 jobs waiting on printer 1775 after moving
+1 jobs waiting on printer 128
+0 jobs waiting on printer 1691 after moving
+2 jobs waiting on printer 1438
+no documents in queue
+0 jobs waiting on printer 39 after moving
+1 jobs waiting on printer 1278
+no documents in queue
+0 jobs waiting on printer 1760 after moving
+no documents in queue
+1 jobs waiting on printer 2097
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 1547
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 2081 after moving
+1 jobs waiting on printer 877
+1 jobs waiting on printer 234
+no documents in queue
+0 jobs waiting on printer 768 after moving
+0 jobs waiting on printer 374 after moving
+no documents in queue
+1 jobs waiting on printer 2273
+1 jobs waiting on printer 2267 after moving
+1 jobs waiting on printer 839
+0 jobs waiting on printer 1462 after moving
+0 jobs waiting on printer 1587 after moving
+0 jobs waiting on printer 1703 after moving
+no documents in queue
+1 jobs waiting on printer 1529
+no documents in queue
+0 jobs waiting on printer 1593 after moving
+0 jobs waiting on printer 1892 after moving
+0 jobs waiting on printer 359 after moving
+1 jobs waiting on printer 713
+no documents in queue
+1 jobs waiting on printer 1014
+0 jobs waiting on printer 974 after moving
+no documents in queue
+1 jobs waiting on printer 872
+1 jobs waiting on printer 765
+1 jobs waiting on printer 160
+1 jobs waiting on printer 1190
+0 jobs waiting on printer 383 after moving
+no documents in queue
+1 jobs waiting on printer 430
+no documents in queue
+1 jobs waiting on printer 345
+0 jobs waiting on printer 431 after moving
+0 jobs waiting on printer 1236 after moving
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 1732
+2 jobs waiting on printer 208
+0 jobs waiting on printer 1318 after moving
+1 jobs waiting on printer 1514
+1 jobs waiting on printer 1982
+no documents in queue
+0 jobs waiting on printer 70 after moving
+1 jobs waiting on printer 1928
+no documents in queue
+8249 printed
+1 jobs waiting on printer 815
+no documents in queue
+1 jobs waiting on printer 282
+1 jobs waiting on printer 1451
+0 jobs waiting on printer 1304 after moving
+1 jobs waiting on printer 205 after moving
+no documents in queue
+2 jobs waiting on printer 23
+0 jobs waiting on printer 1174 after moving
+2 jobs waiting on printer 1651 after moving
+no documents in queue
+1 jobs waiting on printer 1839
+21711 printed
+no documents in queue
+no documents in queue
+13090 printed
+1 jobs waiting on printer 43
+0 jobs waiting on printer 1604 after moving
+1 jobs waiting on printer 265
+1 jobs waiting on printer 1645
+0 jobs waiting on printer 774 after moving
+1 jobs waiting on printer 968
+no documents in queue
+1 jobs waiting on printer 1309
+1 jobs waiting on printer 1077
+no documents in queue
+1 jobs waiting on printer 1239
+no documents in queue
+0 jobs waiting on printer 1585 after moving
+1 jobs waiting on printer 897
+0 jobs waiting on printer 492 after moving
+no documents in queue
+no documents in queue
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 922
+0 jobs waiting on printer 1493 after moving
+no documents in queue
+0 jobs waiting on printer 2215 after moving
+21527 printed
+no documents in queue
+0 jobs waiting on printer 443 after moving
+no documents in queue
+0 jobs waiting on printer 1619 after moving
+0 jobs waiting on printer 2067 after moving
+no documents in queue
+0 jobs waiting on printer 2102 after moving
+0 jobs waiting on printer 888 after moving
+2 jobs waiting on printer 892
+1 jobs waiting on printer 2101
+1 jobs waiting on printer 896
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 581
+2605 printed
+1 jobs waiting on printer 293
+0 jobs waiting on printer 69 after moving
+0 jobs waiting on printer 113 after moving
+0 jobs waiting on printer 1959 after moving
+2 jobs waiting on printer 894
+1 jobs waiting on printer 1117 after moving
+1 jobs waiting on printer 415
+0 jobs waiting on printer 1688 after moving
