@@ -1,1130 +1,969 @@
-1 jobs waiting on printer 1910
-1 jobs waiting on printer 202
 no documents in queue
-no documents in queue
-1 jobs waiting on printer 2284
-0 jobs waiting on printer 2050 after moving
-1 jobs waiting on printer 1036
-1 jobs waiting on printer 42
-1 jobs waiting on printer 1837
-0 jobs waiting on printer 1142 after moving
-1 jobs waiting on printer 2033
-no documents in queue
-0 jobs waiting on printer 1819 after moving
-1 jobs waiting on printer 1116
-0 jobs waiting on printer 747 after moving
-0 jobs waiting on printer 1483 after moving
-no documents in queue
-0 jobs waiting on printer 2278 after moving
-0 jobs waiting on printer 1829 after moving
-no documents in queue
-1 jobs waiting on printer 1935
-0 jobs waiting on printer 1948 after moving
-0 jobs waiting on printer 2283 after moving
-no documents in queue
-0 jobs waiting on printer 2261 after moving
-1 jobs waiting on printer 1791
-no documents in queue
-1 jobs waiting on printer 1237
-no documents in queue
-0 jobs waiting on printer 2233 after moving
-1 jobs waiting on printer 955
+1 jobs waiting on printer 479
 no documents in queue
 no documents in queue
 no documents in queue
+0 jobs waiting on printer 741 after moving
+0 jobs waiting on printer 317 after moving
+1 jobs waiting on printer 599
+no documents in queue
+1 jobs waiting on printer 660
+1 jobs waiting on printer 428
+1 jobs waiting on printer 455
+1 jobs waiting on printer 287
+0 jobs waiting on printer 687 after moving
+1 jobs waiting on printer 116
 no documents in queue
 no documents in queue
-0 jobs waiting on printer 1192 after moving
-1 jobs waiting on printer 1992
-1 jobs waiting on printer 1363
-1 jobs waiting on printer 1522
-0 jobs waiting on printer 475 after moving
-0 jobs waiting on printer 493 after moving
-0 jobs waiting on printer 1968 after moving
-0 jobs waiting on printer 2074 after moving
-0 jobs waiting on printer 2059 after moving
-no documents in queue
-no documents in queue
-0 jobs waiting on printer 327 after moving
-0 jobs waiting on printer 212 after moving
-no documents in queue
-no documents in queue
-0 jobs waiting on printer 1286 after moving
-no documents in queue
-1 jobs waiting on printer 2267
-0 jobs waiting on printer 707 after moving
-0 jobs waiting on printer 851 after moving
-1 jobs waiting on printer 1501
-no documents in queue
-no documents in queue
-0 jobs waiting on printer 1937 after moving
-1 jobs waiting on printer 209
-1 jobs waiting on printer 1114
-1 jobs waiting on printer 516
-no documents in queue
-0 jobs waiting on printer 859 after moving
-no documents in queue
-0 jobs waiting on printer 1081 after moving
-1 jobs waiting on printer 2256
-no documents in queue
-1 jobs waiting on printer 490
-1 jobs waiting on printer 834
-no documents in queue
-1 jobs waiting on printer 1472
-0 jobs waiting on printer 1149 after moving
-0 jobs waiting on printer 2121 after moving
-no documents in queue
-1 jobs waiting on printer 169
-0 jobs waiting on printer 580 after moving
-0 jobs waiting on printer 2088 after moving
-1 jobs waiting on printer 590
-0 jobs waiting on printer 429 after moving
+0 jobs waiting on printer 643 after moving
 1 jobs waiting on printer 23
 no documents in queue
-1 jobs waiting on printer 552
-1 jobs waiting on printer 1028
+0 jobs waiting on printer 412 after moving
 no documents in queue
 no documents in queue
-1 jobs waiting on printer 1967
-0 jobs waiting on printer 608 after moving
+1 jobs waiting on printer 748
 no documents in queue
-1 jobs waiting on printer 1652
-1 jobs waiting on printer 1186
-0 jobs waiting on printer 636 after moving
-1 jobs waiting on printer 1627
+0 jobs waiting on printer 618 after moving
 no documents in queue
 no documents in queue
-0 jobs waiting on printer 2230 after moving
-1 jobs waiting on printer 1603
-no documents in queue
-no documents in queue
-0 jobs waiting on printer 1448 after moving
 0 jobs waiting on printer 417 after moving
-1 jobs waiting on printer 1379
-1 jobs waiting on printer 356
-0 jobs waiting on printer 2197 after moving
-0 jobs waiting on printer 337 after moving
-0 jobs waiting on printer 815 after moving
-0 jobs waiting on printer 768 after moving
-1 jobs waiting on printer 1000
-1 jobs waiting on printer 188
-0 jobs waiting on printer 2261 after moving
-1 jobs waiting on printer 1160
-1 jobs waiting on printer 2264
-0 jobs waiting on printer 90 after moving
+1 jobs waiting on printer 406
 no documents in queue
+0 jobs waiting on printer 698 after moving
 no documents in queue
-0 jobs waiting on printer 712 after moving
-1 jobs waiting on printer 1654
 no documents in queue
+1 jobs waiting on printer 351
+1 jobs waiting on printer 396
 no documents in queue
-1 jobs waiting on printer 1158
 no documents in queue
-1 jobs waiting on printer 1171 after moving
-1 jobs waiting on printer 846
 no documents in queue
+1 jobs waiting on printer 621
+0 jobs waiting on printer 394 after moving
+0 jobs waiting on printer 344 after moving
+0 jobs waiting on printer 414 after moving
+1 jobs waiting on printer 249 after moving
+0 jobs waiting on printer 64 after moving
 no documents in queue
-1 jobs waiting on printer 1789
-0 jobs waiting on printer 1761 after moving
-1 jobs waiting on printer 1505
-1 jobs waiting on printer 1047
-1 jobs waiting on printer 1109
-1 jobs waiting on printer 533
-1 jobs waiting on printer 892
-0 jobs waiting on printer 766 after moving
-1 jobs waiting on printer 92
-1 jobs waiting on printer 1655
-0 jobs waiting on printer 672 after moving
+1 jobs waiting on printer 543
+1 jobs waiting on printer 554
+1 jobs waiting on printer 397
 no documents in queue
+1 jobs waiting on printer 600
+1 jobs waiting on printer 425
+1 jobs waiting on printer 655
 no documents in queue
-1 jobs waiting on printer 1512
-0 jobs waiting on printer 605 after moving
-1 jobs waiting on printer 1708
+1 jobs waiting on printer 472
+0 jobs waiting on printer 410 after moving
+1 jobs waiting on printer 64
 no documents in queue
 no documents in queue
-1 jobs waiting on printer 1684
-1 jobs waiting on printer 1483
-0 jobs waiting on printer 898 after moving
+0 jobs waiting on printer 374 after moving
 no documents in queue
-0 jobs waiting on printer 45 after moving
-1 jobs waiting on printer 462
-0 jobs waiting on printer 1353 after moving
-1 jobs waiting on printer 1631
-1 jobs waiting on printer 1526
 no documents in queue
-1 jobs waiting on printer 251
+1 jobs waiting on printer 559
+0 jobs waiting on printer 437 after moving
+0 jobs waiting on printer 353 after moving
+0 jobs waiting on printer 588 after moving
+0 jobs waiting on printer 203 after moving
 no documents in queue
-1 jobs waiting on printer 663
+1 jobs waiting on printer 230
+0 jobs waiting on printer 238 after moving
+0 jobs waiting on printer 460 after moving
+1 jobs waiting on printer 215
 no documents in queue
+0 jobs waiting on printer 391 after moving
+0 jobs waiting on printer 328 after moving
+0 jobs waiting on printer 341 after moving
+0 jobs waiting on printer 3 after moving
+1 jobs waiting on printer 511
 no documents in queue
-1 jobs waiting on printer 1829
-1 jobs waiting on printer 793
-0 jobs waiting on printer 710 after moving
 no documents in queue
+1 jobs waiting on printer 656
+0 jobs waiting on printer 499 after moving
+0 jobs waiting on printer 652 after moving
 no documents in queue
-1 jobs waiting on printer 2157
-27627 printed
-0 jobs waiting on printer 788 after moving
-1 jobs waiting on printer 143
 no documents in queue
-1 jobs waiting on printer 1594
-1 jobs waiting on printer 803
 no documents in queue
-0 jobs waiting on printer 511 after moving
-1 jobs waiting on printer 431
-1 jobs waiting on printer 1651
-0 jobs waiting on printer 749 after moving
-0 jobs waiting on printer 1833 after moving
-0 jobs waiting on printer 967 after moving
-1 jobs waiting on printer 30
-1 jobs waiting on printer 746
 no documents in queue
+1 jobs waiting on printer 220
 no documents in queue
-1 jobs waiting on printer 1620
-1 jobs waiting on printer 545
-0 jobs waiting on printer 1331 after moving
-1 jobs waiting on printer 2231
-0 jobs waiting on printer 606 after moving
+0 jobs waiting on printer 78 after moving
+1 jobs waiting on printer 598
 no documents in queue
-1 jobs waiting on printer 1558
-0 jobs waiting on printer 1897 after moving
-1 jobs waiting on printer 1778
-0 jobs waiting on printer 970 after moving
-1 jobs waiting on printer 380
-1 jobs waiting on printer 2219
+2 jobs waiting on printer 116
+1 jobs waiting on printer 551
+0 jobs waiting on printer 441 after moving
+0 jobs waiting on printer 453 after moving
+1 jobs waiting on printer 740
+1 jobs waiting on printer 524
 no documents in queue
-0 jobs waiting on printer 1922 after moving
+1 jobs waiting on printer 232
+0 jobs waiting on printer 585 after moving
 no documents in queue
 no documents in queue
+0 jobs waiting on printer 409 after moving
 no documents in queue
-1 jobs waiting on printer 275
-0 jobs waiting on printer 975 after moving
+0 jobs waiting on printer 564 after moving
+1 jobs waiting on printer 379
 no documents in queue
+0 jobs waiting on printer 687 after moving
 no documents in queue
-1 jobs waiting on printer 182
-0 jobs waiting on printer 799 after moving
-1 jobs waiting on printer 1201
-1 jobs waiting on printer 1810
-1 jobs waiting on printer 1610
-0 jobs waiting on printer 2 after moving
-0 jobs waiting on printer 790 after moving
-0 jobs waiting on printer 1316 after moving
-0 jobs waiting on printer 1821 after moving
+0 jobs waiting on printer 384 after moving
+2 jobs waiting on printer 406
+1 jobs waiting on printer 195
 no documents in queue
-1 jobs waiting on printer 434
-0 jobs waiting on printer 1436 after moving
-1 jobs waiting on printer 254
-0 jobs waiting on printer 395 after moving
-0 jobs waiting on printer 1134 after moving
-0 jobs waiting on printer 958 after moving
+1 jobs waiting on printer 736
+0 jobs waiting on printer 7 after moving
 no documents in queue
 no documents in queue
 no documents in queue
-0 jobs waiting on printer 149 after moving
-0 jobs waiting on printer 470 after moving
-1 jobs waiting on printer 258
-1 jobs waiting on printer 1088
+2 jobs waiting on printer 397
+1 jobs waiting on printer 50
+1 jobs waiting on printer 542
+1 jobs waiting on printer 233
+1 jobs waiting on printer 288
+1 jobs waiting on printer 510
+1 jobs waiting on printer 376
+0 jobs waiting on printer 609 after moving
 no documents in queue
-no documents in queue
-1 jobs waiting on printer 1819
-1 jobs waiting on printer 1513
-1 jobs waiting on printer 1622
-1 jobs waiting on printer 1414
-no documents in queue
-1 jobs waiting on printer 1429
-no documents in queue
-no documents in queue
-0 jobs waiting on printer 2062 after moving
-1 jobs waiting on printer 1973
-1 jobs waiting on printer 1855
-0 jobs waiting on printer 1520 after moving
-0 jobs waiting on printer 296 after moving
-0 jobs waiting on printer 1775 after moving
-0 jobs waiting on printer 674 after moving
-0 jobs waiting on printer 1747 after moving
-0 jobs waiting on printer 1260 after moving
-1 jobs waiting on printer 7
-1 jobs waiting on printer 1521 after moving
-0 jobs waiting on printer 1318 after moving
-0 jobs waiting on printer 946 after moving
-1 jobs waiting on printer 1459
-1 jobs waiting on printer 2252
-1 jobs waiting on printer 1933
-0 jobs waiting on printer 1260 after moving
-1 jobs waiting on printer 660
-no documents in queue
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 667
-no documents in queue
-0 jobs waiting on printer 1014 after moving
-no documents in queue
-0 jobs waiting on printer 1238 after moving
-no documents in queue
-0 jobs waiting on printer 76 after moving
-1 jobs waiting on printer 623 after moving
-no documents in queue
-1 jobs waiting on printer 2070
-0 jobs waiting on printer 2230 after moving
-no documents in queue
-0 jobs waiting on printer 1869 after moving
-0 jobs waiting on printer 436 after moving
-2 jobs waiting on printer 667
-1 jobs waiting on printer 1521 after moving
-0 jobs waiting on printer 707 after moving
-1 jobs waiting on printer 1855 after moving
-no documents in queue
-0 jobs waiting on printer 528 after moving
-1 jobs waiting on printer 987
-no documents in queue
-1 jobs waiting on printer 163
-1 jobs waiting on printer 1569
-0 jobs waiting on printer 1572 after moving
-0 jobs waiting on printer 1818 after moving
-0 jobs waiting on printer 1952 after moving
-no documents in queue
-1 jobs waiting on printer 911
-0 jobs waiting on printer 1293 after moving
-0 jobs waiting on printer 314 after moving
-1 jobs waiting on printer 211
-1 jobs waiting on printer 820
-0 jobs waiting on printer 1776 after moving
-1 jobs waiting on printer 468
-no documents in queue
-1 jobs waiting on printer 1535
-1 jobs waiting on printer 2066
-0 jobs waiting on printer 630 after moving
-2481 printed
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 684
-no documents in queue
-1 jobs waiting on printer 1184
-no documents in queue
-no documents in queue
-31976 printed
-0 jobs waiting on printer 1121 after moving
-0 jobs waiting on printer 377 after moving
-1 jobs waiting on printer 21
-0 jobs waiting on printer 1554 after moving
-no documents in queue
-no documents in queue
-no documents in queue
-no documents in queue
-0 jobs waiting on printer 632 after moving
-1 jobs waiting on printer 1026
-1 jobs waiting on printer 1405
-0 jobs waiting on printer 1599 after moving
-1 jobs waiting on printer 8
-no documents in queue
-0 jobs waiting on printer 1265 after moving
-0 jobs waiting on printer 1958 after moving
-0 jobs waiting on printer 1154 after moving
-1 jobs waiting on printer 1801
-0 jobs waiting on printer 172 after moving
-no documents in queue
-0 jobs waiting on printer 558 after moving
-no documents in queue
-0 jobs waiting on printer 1634 after moving
-1 jobs waiting on printer 573
-1 jobs waiting on printer 1872
-1 jobs waiting on printer 778
-0 jobs waiting on printer 788 after moving
-no documents in queue
-0 jobs waiting on printer 2037 after moving
-1 jobs waiting on printer 312
-0 jobs waiting on printer 1403 after moving
-0 jobs waiting on printer 1734 after moving
-2 jobs waiting on printer 356
-no documents in queue
-1 jobs waiting on printer 25
-0 jobs waiting on printer 1680 after moving
-0 jobs waiting on printer 1836 after moving
-no documents in queue
-0 jobs waiting on printer 1244 after moving
-0 jobs waiting on printer 243 after moving
-0 jobs waiting on printer 501 after moving
-1 jobs waiting on printer 332
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 344 after moving
-1 jobs waiting on printer 682
-no documents in queue
-0 jobs waiting on printer 1084 after moving
-1 jobs waiting on printer 1255
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 1026 after moving
-no documents in queue
-no documents in queue
-0 jobs waiting on printer 327 after moving
-no documents in queue
-no documents in queue
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 1522 after moving
-no documents in queue
-no documents in queue
-0 jobs waiting on printer 747 after moving
-no documents in queue
-no documents in queue
-no documents in queue
-no documents in queue
-no documents in queue
-0 jobs waiting on printer 230 after moving
-0 jobs waiting on printer 2056 after moving
-no documents in queue
-0 jobs waiting on printer 1030 after moving
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 170 after moving
-no documents in queue
-0 jobs waiting on printer 1487 after moving
-1 jobs waiting on printer 1997
-0 jobs waiting on printer 1396 after moving
-0 jobs waiting on printer 1379 after moving
-no documents in queue
-no documents in queue
-0 jobs waiting on printer 1503 after moving
-1 jobs waiting on printer 646
-1 jobs waiting on printer 235 after moving
-1 jobs waiting on printer 2024
-no documents in queue
-0 jobs waiting on printer 1601 after moving
-no documents in queue
-0 jobs waiting on printer 1993 after moving
-no documents in queue
-1 jobs waiting on printer 1267
-0 jobs waiting on printer 1587 after moving
-no documents in queue
-1 jobs waiting on printer 547
-2 jobs waiting on printer 1429
-2 jobs waiting on printer 1791
-1 jobs waiting on printer 1188
-0 jobs waiting on printer 1018 after moving
-1 jobs waiting on printer 1571
-0 jobs waiting on printer 864 after moving
-0 jobs waiting on printer 1211 after moving
-no documents in queue
-1 jobs waiting on printer 916
-no documents in queue
-0 jobs waiting on printer 1174 after moving
-no documents in queue
-1 jobs waiting on printer 2139
-1 jobs waiting on printer 2221
-no documents in queue
-1 jobs waiting on printer 1233
+1 jobs waiting on printer 333
+0 jobs waiting on printer 651 after moving
+1 jobs waiting on printer 135
 no documents in queue
 0 jobs waiting on printer 649 after moving
-0 jobs waiting on printer 1706 after moving
-0 jobs waiting on printer 1374 after moving
-0 jobs waiting on printer 1531 after moving
+1 jobs waiting on printer 663
 no documents in queue
-1 jobs waiting on printer 2019
+14380 printed
+25480 printed
+1 jobs waiting on printer 522
+no documents in queue
+1 jobs waiting on printer 614
+16104 printed
+1 jobs waiting on printer 611
+no documents in queue
+0 jobs waiting on printer 495 after moving
+1 jobs waiting on printer 697
+0 jobs waiting on printer 255 after moving
+1 jobs waiting on printer 146
+no documents in queue
+1 jobs waiting on printer 614 after moving
+1 jobs waiting on printer 102
+2 jobs waiting on printer 559
 no documents in queue
 no documents in queue
-1 jobs waiting on printer 1578
-0 jobs waiting on printer 809 after moving
-0 jobs waiting on printer 656 after moving
-0 jobs waiting on printer 536 after moving
-1 jobs waiting on printer 1999 after moving
-1 jobs waiting on printer 2031
-0 jobs waiting on printer 1698 after moving
+0 jobs waiting on printer 665 after moving
+0 jobs waiting on printer 17 after moving
+0 jobs waiting on printer 635 after moving
 no documents in queue
-1 jobs waiting on printer 42 after moving
+0 jobs waiting on printer 549 after moving
 no documents in queue
-0 jobs waiting on printer 1323 after moving
+0 jobs waiting on printer 639 after moving
+1 jobs waiting on printer 183
+1 jobs waiting on printer 491
+0 jobs waiting on printer 271 after moving
+1 jobs waiting on printer 748 after moving
+1 jobs waiting on printer 101
+1 jobs waiting on printer 160
+1 jobs waiting on printer 415
+0 jobs waiting on printer 218 after moving
+1 jobs waiting on printer 735
+1 jobs waiting on printer 6 after moving
+0 jobs waiting on printer 444 after moving
+0 jobs waiting on printer 255 after moving
+no documents in queue
+0 jobs waiting on printer 629 after moving
+0 jobs waiting on printer 429 after moving
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 673
+0 jobs waiting on printer 623 after moving
+0 jobs waiting on printer 394 after moving
+2 jobs waiting on printer 735
+no documents in queue
+1 jobs waiting on printer 713
+no documents in queue
+1 jobs waiting on printer 191
+0 jobs waiting on printer 430 after moving
+1 jobs waiting on printer 486
+1 jobs waiting on printer 62
+0 jobs waiting on printer 400 after moving
+1 jobs waiting on printer 354 after moving
+0 jobs waiting on printer 724 after moving
+no documents in queue
+1 jobs waiting on printer 135 after moving
+1 jobs waiting on printer 327
+1 jobs waiting on printer 213
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 726
+0 jobs waiting on printer 15 after moving
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 63
+1 jobs waiting on printer 640
+0 jobs waiting on printer 208 after moving
+no documents in queue
+0 jobs waiting on printer 442 after moving
+0 jobs waiting on printer 156 after moving
+no documents in queue
+0 jobs waiting on printer 186 after moving
+2 jobs waiting on printer 511
+no documents in queue
+1 jobs waiting on printer 243
+2 jobs waiting on printer 233
+no documents in queue
+0 jobs waiting on printer 138 after moving
+1 jobs waiting on printer 621 after moving
 1 jobs waiting on printer 178
-0 jobs waiting on printer 1934 after moving
+0 jobs waiting on printer 338 after moving
+2 jobs waiting on printer 64
 no documents in queue
+1 jobs waiting on printer 555
+0 jobs waiting on printer 664 after moving
+1 jobs waiting on printer 21
+1 jobs waiting on printer 36
+0 jobs waiting on printer 520 after moving
+0 jobs waiting on printer 692 after moving
 no documents in queue
-0 jobs waiting on printer 995 after moving
-1 jobs waiting on printer 894
-2 jobs waiting on printer 169
+1 jobs waiting on printer 679
+1122 printed
+1 jobs waiting on printer 680
+0 jobs waiting on printer 498 after moving
 no documents in queue
-0 jobs waiting on printer 1353 after moving
-0 jobs waiting on printer 1768 after moving
-0 jobs waiting on printer 1786 after moving
-1 jobs waiting on printer 540
+0 jobs waiting on printer 513 after moving
 no documents in queue
+1 jobs waiting on printer 745
 no documents in queue
-1 jobs waiting on printer 801
-1 jobs waiting on printer 358
+1 jobs waiting on printer 732
 no documents in queue
-0 jobs waiting on printer 515 after moving
+0 jobs waiting on printer 147 after moving
+1 jobs waiting on printer 69 after moving
+0 jobs waiting on printer 375 after moving
 no documents in queue
-0 jobs waiting on printer 1582 after moving
-1 jobs waiting on printer 1634
+0 jobs waiting on printer 361 after moving
+1 jobs waiting on printer 371
+1 jobs waiting on printer 378
+0 jobs waiting on printer 182 after moving
 no documents in queue
-1 jobs waiting on printer 363
-1423 printed
+1 jobs waiting on printer 495
 1 jobs waiting on printer 457
-0 jobs waiting on printer 1754 after moving
-8321 printed
-1 jobs waiting on printer 546
-1 jobs waiting on printer 1648
+1 jobs waiting on printer 299
+no documents in queue
+2 jobs waiting on printer 510
+1 jobs waiting on printer 617
+no documents in queue
+0 jobs waiting on printer 87 after moving
+1 jobs waiting on printer 576
+no documents in queue
+0 jobs waiting on printer 550 after moving
+1 jobs waiting on printer 3
+no documents in queue
+1 jobs waiting on printer 294
+no documents in queue
+0 jobs waiting on printer 545 after moving
+no documents in queue
+2 jobs waiting on printer 102
+1 jobs waiting on printer 548
+no documents in queue
+0 jobs waiting on printer 19 after moving
 no documents in queue
 no documents in queue
-2 jobs waiting on printer 1789
-0 jobs waiting on printer 26 after moving
-0 jobs waiting on printer 1257 after moving
+1 jobs waiting on printer 272
+2 jobs waiting on printer 62
 no documents in queue
-1 jobs waiting on printer 893
-1 jobs waiting on printer 2112
-1 jobs waiting on printer 1473
-1 jobs waiting on printer 1907
-1 jobs waiting on printer 957
-0 jobs waiting on printer 2062 after moving
-0 jobs waiting on printer 531 after moving
+24282 printed
+1 jobs waiting on printer 236
+1 jobs waiting on printer 15
 no documents in queue
-0 jobs waiting on printer 335 after moving
+0 jobs waiting on printer 34 after moving
+0 jobs waiting on printer 132 after moving
 no documents in queue
-1 jobs waiting on printer 1234
-1 jobs waiting on printer 429
-0 jobs waiting on printer 195 after moving
-1 jobs waiting on printer 1659
-0 jobs waiting on printer 2195 after moving
-1 jobs waiting on printer 1900 after moving
-1 jobs waiting on printer 893 after moving
-no documents in queue
-0 jobs waiting on printer 895 after moving
-1 jobs waiting on printer 984
-0 jobs waiting on printer 295 after moving
+1 jobs waiting on printer 73
+1 jobs waiting on printer 395
 no documents in queue
 no documents in queue
-1 jobs waiting on printer 515
+0 jobs waiting on printer 629 after moving
+0 jobs waiting on printer 441 after moving
+no documents in queue
+0 jobs waiting on printer 430 after moving
+2 jobs waiting on printer 21
+0 jobs waiting on printer 35 after moving
+1 jobs waiting on printer 195 after moving
+0 jobs waiting on printer 477 after moving
+0 jobs waiting on printer 223 after moving
+0 jobs waiting on printer 615 after moving
+1 jobs waiting on printer 334
+0 jobs waiting on printer 602 after moving
+1 jobs waiting on printer 266
+no documents in queue
+0 jobs waiting on printer 567 after moving
+0 jobs waiting on printer 447 after moving
+no documents in queue
+0 jobs waiting on printer 136 after moving
+1 jobs waiting on printer 379 after moving
 no documents in queue
 no documents in queue
+no documents in queue
+1 jobs waiting on printer 736 after moving
+1 jobs waiting on printer 110
+no documents in queue
+0 jobs waiting on printer 556 after moving
+3 jobs waiting on printer 395 after moving
+no documents in queue
+1 jobs waiting on printer 164 after moving
+1 jobs waiting on printer 528
+no documents in queue
+1 jobs waiting on printer 450
+0 jobs waiting on printer 558 after moving
+2 jobs waiting on printer 736
+1 jobs waiting on printer 119
+1 jobs waiting on printer 596
+1 jobs waiting on printer 453
+0 jobs waiting on printer 499 after moving
+1 jobs waiting on printer 144
+0 jobs waiting on printer 24 after moving
+1 jobs waiting on printer 494
+no documents in queue
+1 jobs waiting on printer 222
+0 jobs waiting on printer 628 after moving
+1 jobs waiting on printer 166
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 447
+0 jobs waiting on printer 270 after moving
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 225
+no documents in queue
+no documents in queue
+3 jobs waiting on printer 742 after moving
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 493 after moving
+no documents in queue
+1 jobs waiting on printer 711
+no documents in queue
+2 jobs waiting on printer 617
+2 jobs waiting on printer 222
+1 jobs waiting on printer 486 after moving
 no documents in queue
 no documents in queue
 1 jobs waiting on printer 98
-no documents in queue
-1 jobs waiting on printer 810
-no documents in queue
-no documents in queue
-0 jobs waiting on printer 872 after moving
-1 jobs waiting on printer 1083
-1 jobs waiting on printer 785
-no documents in queue
-32264 printed
-1 jobs waiting on printer 630
-no documents in queue
-1 jobs waiting on printer 782
-0 jobs waiting on printer 1786 after moving
-1 jobs waiting on printer 723
-1 jobs waiting on printer 1602
-0 jobs waiting on printer 2027 after moving
-1 jobs waiting on printer 807
-no documents in queue
-1 jobs waiting on printer 717
-no documents in queue
-no documents in queue
-no documents in queue
-0 jobs waiting on printer 2110 after moving
-1 jobs waiting on printer 1597
-0 jobs waiting on printer 613 after moving
-1 jobs waiting on printer 91
-32689 printed
-no documents in queue
-0 jobs waiting on printer 1422 after moving
-1 jobs waiting on printer 1735
-no documents in queue
-1 jobs waiting on printer 1973 after moving
-1 jobs waiting on printer 998 after moving
-2 jobs waiting on printer 1855
-no documents in queue
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 641
-no documents in queue
-0 jobs waiting on printer 983 after moving
-1 jobs waiting on printer 44
-1 jobs waiting on printer 556
-1 jobs waiting on printer 1011
-no documents in queue
-0 jobs waiting on printer 2185 after moving
-no documents in queue
-1 jobs waiting on printer 1333
-1 jobs waiting on printer 2165
-1 jobs waiting on printer 158
-0 jobs waiting on printer 314 after moving
-0 jobs waiting on printer 1823 after moving
-1 jobs waiting on printer 533 after moving
-0 jobs waiting on printer 1157 after moving
-0 jobs waiting on printer 172 after moving
-1 jobs waiting on printer 109 after moving
-2 jobs waiting on printer 1651
-0 jobs waiting on printer 489 after moving
-no documents in queue
-1 jobs waiting on printer 192
-no documents in queue
-0 jobs waiting on printer 1404 after moving
-0 jobs waiting on printer 1138 after moving
-no documents in queue
-1 jobs waiting on printer 226
-no documents in queue
-0 jobs waiting on printer 1584 after moving
-no documents in queue
-0 jobs waiting on printer 1975 after moving
-no documents in queue
-1 jobs waiting on printer 408
-no documents in queue
-0 jobs waiting on printer 1972 after moving
-0 jobs waiting on printer 2270 after moving
-6029 printed
-1 jobs waiting on printer 991
-1 jobs waiting on printer 694
-no documents in queue
-1 jobs waiting on printer 611
-no documents in queue
-1 jobs waiting on printer 1436
-no documents in queue
-no documents in queue
-0 jobs waiting on printer 1380 after moving
-0 jobs waiting on printer 76 after moving
-no documents in queue
-1 jobs waiting on printer 2042
-1 jobs waiting on printer 1086
-no documents in queue
-0 jobs waiting on printer 1945 after moving
-1 jobs waiting on printer 2257 after moving
-no documents in queue
-0 jobs waiting on printer 1069 after moving
-1 jobs waiting on printer 1852
-1 jobs waiting on printer 2007
-0 jobs waiting on printer 1968 after moving
-1 jobs waiting on printer 840
-no documents in queue
-0 jobs waiting on printer 1263 after moving
-0 jobs waiting on printer 659 after moving
-no documents in queue
-1 jobs waiting on printer 554
-no documents in queue
-no documents in queue
-0 jobs waiting on printer 845 after moving
-0 jobs waiting on printer 767 after moving
-no documents in queue
-1 jobs waiting on printer 882
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 550
-2 jobs waiting on printer 202
-1 jobs waiting on printer 1740
-1 jobs waiting on printer 2064
-1 jobs waiting on printer 1120
-0 jobs waiting on printer 1739 after moving
-no documents in queue
-0 jobs waiting on printer 1646 after moving
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 506
-no documents in queue
-1 jobs waiting on printer 579
-0 jobs waiting on printer 413 after moving
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 1362
-1 jobs waiting on printer 2132
-0 jobs waiting on printer 189 after moving
-no documents in queue
-1 jobs waiting on printer 1667
-0 jobs waiting on printer 836 after moving
-no documents in queue
-1 jobs waiting on printer 75
-0 jobs waiting on printer 974 after moving
-0 jobs waiting on printer 819 after moving
-0 jobs waiting on printer 944 after moving
-1 jobs waiting on printer 587
-0 jobs waiting on printer 971 after moving
-no documents in queue
-0 jobs waiting on printer 1065 after moving
-1 jobs waiting on printer 447
-1 jobs waiting on printer 1206
-0 jobs waiting on printer 85 after moving
-no documents in queue
-1 jobs waiting on printer 1068 after moving
-no documents in queue
-no documents in queue
-no documents in queue
-0 jobs waiting on printer 1805 after moving
-0 jobs waiting on printer 2009 after moving
-0 jobs waiting on printer 755 after moving
-no documents in queue
-0 jobs waiting on printer 735 after moving
-0 jobs waiting on printer 1434 after moving
-0 jobs waiting on printer 2076 after moving
-0 jobs waiting on printer 2203 after moving
-1 jobs waiting on printer 1329
-no documents in queue
-no documents in queue
-no documents in queue
-no documents in queue
-0 jobs waiting on printer 948 after moving
-1 jobs waiting on printer 1395
-1 jobs waiting on printer 1186 after moving
-0 jobs waiting on printer 1563 after moving
-1 jobs waiting on printer 1106
-0 jobs waiting on printer 986 after moving
-0 jobs waiting on printer 1976 after moving
-1 jobs waiting on printer 303
-1 jobs waiting on printer 243
-1 jobs waiting on printer 927
-1 jobs waiting on printer 1101
-no documents in queue
-0 jobs waiting on printer 936 after moving
-no documents in queue
-1 jobs waiting on printer 2017
-0 jobs waiting on printer 383 after moving
-1 jobs waiting on printer 1438
-no documents in queue
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 349 after moving
-no documents in queue
-0 jobs waiting on printer 1983 after moving
-0 jobs waiting on printer 1488 after moving
-no documents in queue
-1 jobs waiting on printer 1418
-0 jobs waiting on printer 1936 after moving
-0 jobs waiting on printer 338 after moving
-no documents in queue
-1 jobs waiting on printer 75 after moving
-16838 printed
-1 jobs waiting on printer 354
-0 jobs waiting on printer 1969 after moving
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 1900 after moving
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 458
-1 jobs waiting on printer 2180
-0 jobs waiting on printer 2079 after moving
-no documents in queue
-0 jobs waiting on printer 1905 after moving
-0 jobs waiting on printer 563 after moving
-1 jobs waiting on printer 1762 after moving
-1 jobs waiting on printer 2085
-0 jobs waiting on printer 215 after moving
-1 jobs waiting on printer 1442
-1 jobs waiting on printer 1291
-no documents in queue
-1 jobs waiting on printer 2178
-1 jobs waiting on printer 866
-no documents in queue
-0 jobs waiting on printer 1989 after moving
-1 jobs waiting on printer 654 after moving
-0 jobs waiting on printer 2212 after moving
-1 jobs waiting on printer 626
-0 jobs waiting on printer 1059 after moving
-no documents in queue
-1 jobs waiting on printer 1354
-0 jobs waiting on printer 1302 after moving
-1 jobs waiting on printer 2255
-no documents in queue
-1 jobs waiting on printer 1326
-1 jobs waiting on printer 1425
-no documents in queue
-1 jobs waiting on printer 1219
-no documents in queue
-0 jobs waiting on printer 542 after moving
-0 jobs waiting on printer 1280 after moving
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 366
-0 jobs waiting on printer 1836 after moving
-1 jobs waiting on printer 1192
-no documents in queue
-1 jobs waiting on printer 651
-0 jobs waiting on printer 179 after moving
-no documents in queue
-no documents in queue
-0 jobs waiting on printer 1341 after moving
-no documents in queue
-0 jobs waiting on printer 1151 after moving
-1 jobs waiting on printer 510
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 152
-1 jobs waiting on printer 284
-0 jobs waiting on printer 309 after moving
-0 jobs waiting on printer 1537 after moving
-0 jobs waiting on printer 288 after moving
-1 jobs waiting on printer 292
-1 jobs waiting on printer 414
-1 jobs waiting on printer 1489
-no documents in queue
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 1566
-no documents in queue
-no documents in queue
-0 jobs waiting on printer 1420 after moving
-1 jobs waiting on printer 2035
-0 jobs waiting on printer 830 after moving
-1 jobs waiting on printer 1062
-no documents in queue
-no documents in queue
-2018 printed
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 2010
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 953
-1 jobs waiting on printer 750
-1 jobs waiting on printer 1498
-no documents in queue
-1 jobs waiting on printer 1086 after moving
-1 jobs waiting on printer 468
-no documents in queue
-no documents in queue
-0 jobs waiting on printer 993 after moving
-no documents in queue
-0 jobs waiting on printer 799 after moving
+1 jobs waiting on printer 63 after moving
+0 jobs waiting on printer 283 after moving
+1 jobs waiting on printer 123
+0 jobs waiting on printer 228 after moving
+1 jobs waiting on printer 166 after moving
+1 jobs waiting on printer 722
+1 jobs waiting on printer 157
+no documents in queue
+1 jobs waiting on printer 616 after moving
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 684
+2 jobs waiting on printer 46 after moving
+1 jobs waiting on printer 394
+0 jobs waiting on printer 72 after moving
 no documents in queue
 1 jobs waiting on printer 315
+1 jobs waiting on printer 441
+0 jobs waiting on printer 409 after moving
+0 jobs waiting on printer 493 after moving
+2 jobs waiting on printer 394
 no documents in queue
-0 jobs waiting on printer 852 after moving
+0 jobs waiting on printer 459 after moving
+1 jobs waiting on printer 609
 no documents in queue
+1 jobs waiting on printer 523
+7881 printed
+1 jobs waiting on printer 405
+1 jobs waiting on printer 479 after moving
+0 jobs waiting on printer 242 after moving
+1 jobs waiting on printer 99 after moving
+1 jobs waiting on printer 689
 no documents in queue
-no documents in queue
-1 jobs waiting on printer 957 after moving
-0 jobs waiting on printer 923 after moving
-no documents in queue
-0 jobs waiting on printer 738 after moving
-0 jobs waiting on printer 769 after moving
-0 jobs waiting on printer 1095 after moving
-1 jobs waiting on printer 133
-no documents in queue
-0 jobs waiting on printer 935 after moving
-1 jobs waiting on printer 1537
-0 jobs waiting on printer 1797 after moving
-0 jobs waiting on printer 2060 after moving
-0 jobs waiting on printer 2208 after moving
-1 jobs waiting on printer 208
-no documents in queue
-0 jobs waiting on printer 193 after moving
-1 jobs waiting on printer 1574
-0 jobs waiting on printer 1979 after moving
-no documents in queue
-1 jobs waiting on printer 586
-1 jobs waiting on printer 275 after moving
+0 jobs waiting on printer 620 after moving
 no documents in queue
 no documents in queue
-1 jobs waiting on printer 1065
-0 jobs waiting on printer 1795 after moving
+0 jobs waiting on printer 25 after moving
 no documents in queue
 no documents in queue
-22936 printed
-0 jobs waiting on printer 328 after moving
+1 jobs waiting on printer 261
+1 jobs waiting on printer 301
+2211 printed
+1 jobs waiting on printer 375 after moving
 no documents in queue
-1 jobs waiting on printer 629
-0 jobs waiting on printer 323 after moving
-no documents in queue
-0 jobs waiting on printer 1095 after moving
-1 jobs waiting on printer 206
-0 jobs waiting on printer 2187 after moving
-no documents in queue
-1 jobs waiting on printer 1360
-2 jobs waiting on printer 911
-1 jobs waiting on printer 728
-1 jobs waiting on printer 1137
+0 jobs waiting on printer 676 after moving
+1 jobs waiting on printer 453 after moving
+0 jobs waiting on printer 52 after moving
+1 jobs waiting on printer 125
 no documents in queue
 no documents in queue
 no documents in queue
-0 jobs waiting on printer 1846 after moving
-1 jobs waiting on printer 533 after moving
+0 jobs waiting on printer 602 after moving
+0 jobs waiting on printer 645 after moving
+0 jobs waiting on printer 637 after moving
+2 jobs waiting on printer 213
 no documents in queue
-1 jobs waiting on printer 1123 after moving
-2 jobs waiting on printer 911 after moving
-1 jobs waiting on printer 1062 after moving
-1 jobs waiting on printer 936
-1 jobs waiting on printer 1051
-1 jobs waiting on printer 106
+1 jobs waiting on printer 14
+no documents in queue
+1 jobs waiting on printer 45
+no documents in queue
+1 jobs waiting on printer 221
+no documents in queue
+0 jobs waiting on printer 246 after moving
+1 jobs waiting on printer 579
+1 jobs waiting on printer 516
+0 jobs waiting on printer 577 after moving
+1 jobs waiting on printer 706
+0 jobs waiting on printer 395 after moving
+10270 printed
+1 jobs waiting on printer 449
+1 jobs waiting on printer 492
+0 jobs waiting on printer 385 after moving
+0 jobs waiting on printer 273 after moving
+1 jobs waiting on printer 293
+0 jobs waiting on printer 403 after moving
 no documents in queue
 no documents in queue
+1 jobs waiting on printer 40
 no documents in queue
-0 jobs waiting on printer 401 after moving
-no documents in queue
-0 jobs waiting on printer 444 after moving
-no documents in queue
-no documents in queue
-no documents in queue
-2 jobs waiting on printer 414
-0 jobs waiting on printer 191 after moving
-0 jobs waiting on printer 1218 after moving
-no documents in queue
-no documents in queue
-0 jobs waiting on printer 98 after moving
-no documents in queue
-1 jobs waiting on printer 944
-no documents in queue
-0 jobs waiting on printer 1071 after moving
-1 jobs waiting on printer 1127
-0 jobs waiting on printer 1550 after moving
-0 jobs waiting on printer 231 after moving
-no documents in queue
-0 jobs waiting on printer 180 after moving
-1 jobs waiting on printer 276
+1 jobs waiting on printer 399
+2 jobs waiting on printer 617
 no documents in queue
 no documents in queue
 no documents in queue
-0 jobs waiting on printer 482 after moving
+1 jobs waiting on printer 498 after moving
+0 jobs waiting on printer 92 after moving
+0 jobs waiting on printer 488 after moving
 no documents in queue
-0 jobs waiting on printer 1851 after moving
-1 jobs waiting on printer 709
-1 jobs waiting on printer 1293
-0 jobs waiting on printer 248 after moving
-1352 printed
-1 jobs waiting on printer 1264 after moving
-1 jobs waiting on printer 1725
-1 jobs waiting on printer 1813
-0 jobs waiting on printer 199 after moving
-1 jobs waiting on printer 1459 after moving
-0 jobs waiting on printer 627 after moving
-1 jobs waiting on printer 367
-0 jobs waiting on printer 50 after moving
-0 jobs waiting on printer 1315 after moving
-1 jobs waiting on printer 1664
+1 jobs waiting on printer 469
+6365 printed
+11679 printed
+26279 printed
+1 jobs waiting on printer 14 after moving
+0 jobs waiting on printer 78 after moving
+2 jobs waiting on printer 712 after moving
+0 jobs waiting on printer 391 after moving
+1 jobs waiting on printer 168
+0 jobs waiting on printer 289 after moving
+452 printed
+1 jobs waiting on printer 603
+0 jobs waiting on printer 373 after moving
+2 jobs waiting on printer 722
 no documents in queue
-0 jobs waiting on printer 322 after moving
-1 jobs waiting on printer 549
-1 jobs waiting on printer 1697
-1 jobs waiting on printer 658
-0 jobs waiting on printer 1311 after moving
+1 jobs waiting on printer 141
+0 jobs waiting on printer 117 after moving
+1 jobs waiting on printer 164 after moving
+0 jobs waiting on printer 694 after moving
 no documents in queue
-0 jobs waiting on printer 1075 after moving
-1 jobs waiting on printer 1738
-0 jobs waiting on printer 2289 after moving
-1 jobs waiting on printer 1073
-1 jobs waiting on printer 2010 after moving
-0 jobs waiting on printer 1777 after moving
+3583 printed
 no documents in queue
-1 jobs waiting on printer 509
-0 jobs waiting on printer 1568 after moving
+no documents in queue
+1 jobs waiting on printer 288 after moving
+0 jobs waiting on printer 64 after moving
+no documents in queue
+2 jobs waiting on printer 441
+0 jobs waiting on printer 249 after moving
+0 jobs waiting on printer 741 after moving
+1 jobs waiting on printer 122
+3 jobs waiting on printer 222
+1 jobs waiting on printer 708
+1 jobs waiting on printer 605
+no documents in queue
+23244 printed
+no documents in queue
+29727 printed
+1 jobs waiting on printer 192 after moving
+no documents in queue
+9861 printed
+0 jobs waiting on printer 479 after moving
+1 jobs waiting on printer 64
+2 jobs waiting on printer 64 after moving
+no documents in queue
+1 jobs waiting on printer 433
+1 jobs waiting on printer 574
+0 jobs waiting on printer 313 after moving
+1 jobs waiting on printer 275
+0 jobs waiting on printer 484 after moving
+no documents in queue
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 387
+1 jobs waiting on printer 224
+1 jobs waiting on printer 27
+1 jobs waiting on printer 49
+1 jobs waiting on printer 493
+2 jobs waiting on printer 455
+no documents in queue
+1 jobs waiting on printer 628
+1 jobs waiting on printer 273
+0 jobs waiting on printer 313 after moving
+1 jobs waiting on printer 591
+1 jobs waiting on printer 459
+2 jobs waiting on printer 62
+1 jobs waiting on printer 501
+1 jobs waiting on printer 744 after moving
+0 jobs waiting on printer 307 after moving
+0 jobs waiting on printer 541 after moving
+2 jobs waiting on printer 101 after moving
+no documents in queue
+no documents in queue
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 117
+27014 printed
+no documents in queue
+1 jobs waiting on printer 690
+1 jobs waiting on printer 743
+0 jobs waiting on printer 565 after moving
+1 jobs waiting on printer 187
+1 jobs waiting on printer 182
+1 jobs waiting on printer 557
+2 jobs waiting on printer 736
+no documents in queue
+1 jobs waiting on printer 1
+no documents in queue
+2 jobs waiting on printer 706
+0 jobs waiting on printer 570 after moving
+1 jobs waiting on printer 527
+0 jobs waiting on printer 468 after moving
+1 jobs waiting on printer 75
+0 jobs waiting on printer 158 after moving
+2 jobs waiting on printer 75
+2 jobs waiting on printer 183
+1 jobs waiting on printer 124
+2 jobs waiting on printer 293
+no documents in queue
+10002 printed
+1 jobs waiting on printer 708 after moving
+0 jobs waiting on printer 408 after moving
+1 jobs waiting on printer 6 after moving
+1 jobs waiting on printer 147
+no documents in queue
+1 jobs waiting on printer 38
+17671 printed
+1 jobs waiting on printer 43
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 77 after moving
+1 jobs waiting on printer 360 after moving
+1 jobs waiting on printer 37
+0 jobs waiting on printer 290 after moving
+0 jobs waiting on printer 639 after moving
+0 jobs waiting on printer 298 after moving
+1 jobs waiting on printer 550
+no documents in queue
+1 jobs waiting on printer 644
+1 jobs waiting on printer 390
+0 jobs waiting on printer 94 after moving
+no documents in queue
+3179 printed
+no documents in queue
+1 jobs waiting on printer 696
+16742 printed
+0 jobs waiting on printer 16 after moving
+no documents in queue
+1 jobs waiting on printer 320
+0 jobs waiting on printer 134 after moving
+no documents in queue
+1 jobs waiting on printer 353
+1 jobs waiting on printer 55
+1 jobs waiting on printer 193
+0 jobs waiting on printer 283 after moving
+2 jobs waiting on printer 378 after moving
+1 jobs waiting on printer 271
+1 jobs waiting on printer 268
+no documents in queue
+1 jobs waiting on printer 491 after moving
+1 jobs waiting on printer 349 after moving
+1 jobs waiting on printer 258
+no documents in queue
+1 jobs waiting on printer 157 after moving
+no documents in queue
+2 jobs waiting on printer 160
+1 jobs waiting on printer 635
+1 jobs waiting on printer 683
+1 jobs waiting on printer 319
+1 jobs waiting on printer 546
+no documents in queue
+15936 printed
+no documents in queue
+0 jobs waiting on printer 613 after moving
+1 jobs waiting on printer 607
+no documents in queue
+1 jobs waiting on printer 705
+0 jobs waiting on printer 580 after moving
+0 jobs waiting on printer 480 after moving
+1 jobs waiting on printer 507
+1 jobs waiting on printer 303
+0 jobs waiting on printer 87 after moving
+0 jobs waiting on printer 302 after moving
+1 jobs waiting on printer 142
+1 jobs waiting on printer 726 after moving
+2 jobs waiting on printer 706 after moving
+1 jobs waiting on printer 432
+no documents in queue
+0 jobs waiting on printer 372 after moving
+16783 printed
+0 jobs waiting on printer 582 after moving
+1 jobs waiting on printer 109
+1 jobs waiting on printer 189
+1 jobs waiting on printer 484
+no documents in queue
+1 jobs waiting on printer 400
+3 jobs waiting on printer 543 after moving
+no documents in queue
+0 jobs waiting on printer 569 after moving
+no documents in queue
+1 jobs waiting on printer 63 after moving
+0 jobs waiting on printer 582 after moving
+no documents in queue
+0 jobs waiting on printer 350 after moving
+1 jobs waiting on printer 663 after moving
+0 jobs waiting on printer 520 after moving
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 320 after moving
+1 jobs waiting on printer 44
+1 jobs waiting on printer 289
+2 jobs waiting on printer 484
+no documents in queue
+7896 printed
+1 jobs waiting on printer 592
+no documents in queue
+1 jobs waiting on printer 487
+2 jobs waiting on printer 744
+1 jobs waiting on printer 55 after moving
+17638 printed
+no documents in queue
+no documents in queue
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 2
+0 jobs waiting on printer 615 after moving
+19400 printed
+0 jobs waiting on printer 427 after moving
+1 jobs waiting on printer 682 after moving
+1 jobs waiting on printer 345
+0 jobs waiting on printer 304 after moving
+1 jobs waiting on printer 360 after moving
+no documents in queue
+0 jobs waiting on printer 500 after moving
+no documents in queue
+1 jobs waiting on printer 23 after moving
+0 jobs waiting on printer 669 after moving
+no documents in queue
+22228 printed
+0 jobs waiting on printer 304 after moving
+0 jobs waiting on printer 4 after moving
+no documents in queue
+1 jobs waiting on printer 384
+1 jobs waiting on printer 624
+no documents in queue
+0 jobs waiting on printer 143 after moving
+1 jobs waiting on printer 419
+0 jobs waiting on printer 648 after moving
+0 jobs waiting on printer 200 after moving
+1 jobs waiting on printer 159
+2 jobs waiting on printer 527
+1 jobs waiting on printer 531
+no documents in queue
+1639 printed
+19081 printed
+no documents in queue
+0 jobs waiting on printer 719 after moving
+no documents in queue
+0 jobs waiting on printer 74 after moving
+1 jobs waiting on printer 457 after moving
+1 jobs waiting on printer 223
+31863 printed
+1 jobs waiting on printer 2 after moving
+0 jobs waiting on printer 252 after moving
+0 jobs waiting on printer 393 after moving
+3 jobs waiting on printer 527 after moving
+1 jobs waiting on printer 138
+no documents in queue
+1 jobs waiting on printer 3 after moving
+1 jobs waiting on printer 33
+0 jobs waiting on printer 427 after moving
+1 jobs waiting on printer 115
+1 jobs waiting on printer 194
+1 jobs waiting on printer 361 after moving
+1 jobs waiting on printer 443
+0 jobs waiting on printer 177 after moving
+0 jobs waiting on printer 302 after moving
+no documents in queue
+1 jobs waiting on printer 36
+0 jobs waiting on printer 547 after moving
+no documents in queue
+1 jobs waiting on printer 150
+0 jobs waiting on printer 737 after moving
+1 jobs waiting on printer 284 after moving
+no documents in queue
+1 jobs waiting on printer 595
+3 jobs waiting on printer 510
+0 jobs waiting on printer 57 after moving
+4 jobs waiting on printer 543
+0 jobs waiting on printer 566 after moving
+2 jobs waiting on printer 663 after moving
+1 jobs waiting on printer 454
+2 jobs waiting on printer 600
+2 jobs waiting on printer 712 after moving
+2 jobs waiting on printer 371
+17793 printed
+2 jobs waiting on printer 168
+0 jobs waiting on printer 127 after moving
+0 jobs waiting on printer 413 after moving
+1 jobs waiting on printer 56 after moving
+1 jobs waiting on printer 16
+no documents in queue
+0 jobs waiting on printer 30 after moving
+8397 printed
+1 jobs waiting on printer 305
+0 jobs waiting on printer 519 after moving
+1 jobs waiting on printer 327 after moving
+no documents in queue
+1 jobs waiting on printer 206 after moving
+no documents in queue
+no documents in queue
+no documents in queue
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 314 after moving
+no documents in queue
+0 jobs waiting on printer 365 after moving
+1 jobs waiting on printer 479
+0 jobs waiting on printer 241 after moving
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 521 after moving
+1 jobs waiting on printer 458
+1 jobs waiting on printer 745 after moving
+1 jobs waiting on printer 254 after moving
+1 jobs waiting on printer 461
+1 jobs waiting on printer 641
+2 jobs waiting on printer 679
+1 jobs waiting on printer 630
+1 jobs waiting on printer 288 after moving
+3 jobs waiting on printer 102 after moving
+2 jobs waiting on printer 182
+0 jobs waiting on printer 253 after moving
+no documents in queue
+0 jobs waiting on printer 389 after moving
+1 jobs waiting on printer 414
+no documents in queue
+1 jobs waiting on printer 605 after moving
+17179 printed
+1 jobs waiting on printer 449
+2623 printed
+no documents in queue
+no documents in queue
+2 jobs waiting on printer 726
+0 jobs waiting on printer 487 after moving
+1 jobs waiting on printer 88
+1 jobs waiting on printer 45 after moving
+0 jobs waiting on printer 54 after moving
+no documents in queue
+0 jobs waiting on printer 598 after moving
+0 jobs waiting on printer 344 after moving
+1 jobs waiting on printer 391
+0 jobs waiting on printer 423 after moving
+22708 printed
+0 jobs waiting on printer 11 after moving
+no documents in queue
+no documents in queue
+3 jobs waiting on printer 75
+no documents in queue
+1 jobs waiting on printer 654
+1 jobs waiting on printer 620 after moving
+1 jobs waiting on printer 435
+3 jobs waiting on printer 617
+no documents in queue
+1 jobs waiting on printer 711 after moving
+0 jobs waiting on printer 345 after moving
+23487 printed
+1 jobs waiting on printer 212 after moving
+1 jobs waiting on printer 604
+2 jobs waiting on printer 122
+no documents in queue
+no documents in queue
+no documents in queue
+4 jobs waiting on printer 116 after moving
+1 jobs waiting on printer 451
+1 jobs waiting on printer 242
+1 jobs waiting on printer 200
+0 jobs waiting on printer 8 after moving
+2 jobs waiting on printer 457
+0 jobs waiting on printer 650 after moving
+no documents in queue
+1 jobs waiting on printer 529 after moving
+1 jobs waiting on printer 570
+no documents in queue
+1 jobs waiting on printer 192 after moving
+10108 printed
+0 jobs waiting on printer 532 after moving
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 511 after moving
+0 jobs waiting on printer 450 after moving
+2 jobs waiting on printer 689
+4666 printed
+1 jobs waiting on printer 470
+no documents in queue
+3 jobs waiting on printer 736 after moving
+2 jobs waiting on printer 459 after moving
+2 jobs waiting on printer 596
+1 jobs waiting on printer 411
+no documents in queue
+2 jobs waiting on printer 289
+no documents in queue
+1 jobs waiting on printer 322
+1 jobs waiting on printer 656
+1 jobs waiting on printer 204
+no documents in queue
+no documents in queue
+1 jobs waiting on printer 283
+2 jobs waiting on printer 616
+1 jobs waiting on printer 645
+0 jobs waiting on printer 211 after moving
+1 jobs waiting on printer 400
+2 jobs waiting on printer 451 after moving
+no documents in queue
+15318 printed
+0 jobs waiting on printer 392 after moving
+2 jobs waiting on printer 490 after moving
+1 jobs waiting on printer 76
+0 jobs waiting on printer 426 after moving
+no documents in queue
+0 jobs waiting on printer 672 after moving
+no documents in queue
+7546 printed
+no documents in queue
+2 jobs waiting on printer 611
+2 jobs waiting on printer 726 after moving
+3506 printed
+no documents in queue
+0 jobs waiting on printer 198 after moving
+1 jobs waiting on printer 87
+0 jobs waiting on printer 341 after moving
+no documents in queue
+2 jobs waiting on printer 37
+803 printed
+1 jobs waiting on printer 599 after moving
+1 jobs waiting on printer 670
+24094 printed
+no documents in queue
+1 jobs waiting on printer 569
+0 jobs waiting on printer 532 after moving
+0 jobs waiting on printer 318 after moving
+0 jobs waiting on printer 427 after moving
+26649 printed
+0 jobs waiting on printer 716 after moving
+0 jobs waiting on printer 404 after moving
+1 jobs waiting on printer 534
+1 jobs waiting on printer 247
+no documents in queue
+1 jobs waiting on printer 502 after moving
+1 jobs waiting on printer 358
+1 jobs waiting on printer 511
+1 jobs waiting on printer 324
+1 jobs waiting on printer 97
+no documents in queue
+1 jobs waiting on printer 698
+1 jobs waiting on printer 462 after moving
+1 jobs waiting on printer 307
+1 jobs waiting on printer 4
+no documents in queue
+no documents in queue
+2 jobs waiting on printer 87
+no documents in queue
+30591 printed
+no documents in queue
+2 jobs waiting on printer 299
+no documents in queue
+28372 printed
+no documents in queue
+1992 printed
+1 jobs waiting on printer 512 after moving
+1 jobs waiting on printer 309
+1 jobs waiting on printer 581
+no documents in queue
+2 jobs waiting on printer 200 after moving
+1 jobs waiting on printer 539
+3 jobs waiting on printer 600
+1 jobs waiting on printer 361
+2 jobs waiting on printer 733 after moving
+1 jobs waiting on printer 248
+1 jobs waiting on printer 603 after moving
+1 jobs waiting on printer 504
+1 jobs waiting on printer 529 after moving
+2 jobs waiting on printer 405
+1 jobs waiting on printer 287 after moving
+0 jobs waiting on printer 130 after moving
+12503 printed
+1 jobs waiting on printer 303
+1 jobs waiting on printer 520
+1 jobs waiting on printer 358 after moving
+1 jobs waiting on printer 11 after moving
+no documents in queue
+0 jobs waiting on printer 336 after moving
+1 jobs waiting on printer 34
+12553 printed
+1 jobs waiting on printer 678
+17210 printed
+2 jobs waiting on printer 327 after moving
+0 jobs waiting on printer 389 after moving
+0 jobs waiting on printer 475 after moving
+1 jobs waiting on printer 440
+0 jobs waiting on printer 316 after moving
+1 jobs waiting on printer 245
+no documents in queue
+2 jobs waiting on printer 685 after moving
+0 jobs waiting on printer 665 after moving
+0 jobs waiting on printer 36 after moving
+no documents in queue
+1 jobs waiting on printer 634
+2 jobs waiting on printer 551
+0 jobs waiting on printer 230 after moving
+2 jobs waiting on printer 596 after moving
+1 jobs waiting on printer 162
+2 jobs waiting on printer 640
+1 jobs waiting on printer 489
+1 jobs waiting on printer 398
+no documents in queue
+no documents in queue
+0 jobs waiting on printer 321 after moving
+1 jobs waiting on printer 699
+0 jobs waiting on printer 653 after moving
+1 jobs waiting on printer 366
+1 jobs waiting on printer 343
+4 jobs waiting on printer 102
+0 jobs waiting on printer 74 after moving
+no documents in queue
+1 jobs waiting on printer 241
 no documents in queue
 no documents in queue
 2 jobs waiting on printer 630
+2 jobs waiting on printer 511
 no documents in queue
-2 jobs waiting on printer 549
-0 jobs waiting on printer 486 after moving
-0 jobs waiting on printer 1710 after moving
-1 jobs waiting on printer 597
-1 jobs waiting on printer 596
-15848 printed
+1 jobs waiting on printer 622
 no documents in queue
+1 jobs waiting on printer 179 after moving
+1 jobs waiting on printer 21
+0 jobs waiting on printer 395 after moving
+1 jobs waiting on printer 633 after moving
 no documents in queue
-1 jobs waiting on printer 118
-1 jobs waiting on printer 185
-0 jobs waiting on printer 2002 after moving
+1 jobs waiting on printer 306
+5 jobs waiting on printer 222 after moving
+0 jobs waiting on printer 650 after moving
 no documents in queue
-0 jobs waiting on printer 1785 after moving
-8316 printed
-2 jobs waiting on printer 2007
+1 jobs waiting on printer 389
 no documents in queue
-0 jobs waiting on printer 2168 after moving
 no documents in queue
-1 jobs waiting on printer 529
 no documents in queue
-0 jobs waiting on printer 2134 after moving
-1 jobs waiting on printer 2025
-0 jobs waiting on printer 1214 after moving
-27767 printed
-1 jobs waiting on printer 1728
-1 jobs waiting on printer 921
-0 jobs waiting on printer 1751 after moving
 no documents in queue
-7136 printed
+0 jobs waiting on printer 428 after moving
+1 jobs waiting on printer 308 after moving
+1 jobs waiting on printer 437
 no documents in queue
-1 jobs waiting on printer 1466
-no documents in queue
-1 jobs waiting on printer 777
-0 jobs waiting on printer 1214 after moving
-1 jobs waiting on printer 1257
-1 jobs waiting on printer 997
-1 jobs waiting on printer 273 after moving
-no documents in queue
-0 jobs waiting on printer 1133 after moving
-1 jobs waiting on printer 1874
-1 jobs waiting on printer 910
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 140
-0 jobs waiting on printer 589 after moving
-1 jobs waiting on printer 1021 after moving
-0 jobs waiting on printer 1082 after moving
-no documents in queue
-0 jobs waiting on printer 755 after moving
-0 jobs waiting on printer 2104 after moving
-2 jobs waiting on printer 1992
-2 jobs waiting on printer 75
-0 jobs waiting on printer 263 after moving
-2 jobs waiting on printer 1620
-1 jobs waiting on printer 1367
-1 jobs waiting on printer 1605
-0 jobs waiting on printer 701 after moving
-no documents in queue
-0 jobs waiting on printer 13 after moving
-17972 printed
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 518
-0 jobs waiting on printer 668 after moving
-no documents in queue
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 2087
-1 jobs waiting on printer 1263
-no documents in queue
-1 jobs waiting on printer 94
-no documents in queue
-0 jobs waiting on printer 49 after moving
-3 jobs waiting on printer 1855
-0 jobs waiting on printer 614 after moving
-no documents in queue
-1 jobs waiting on printer 1639
-0 jobs waiting on printer 951 after moving
-no documents in queue
-17054 printed
-1 jobs waiting on printer 1196
-0 jobs waiting on printer 1541 after moving
-no documents in queue
-no documents in queue
-no documents in queue
-no documents in queue
-no documents in queue
-0 jobs waiting on printer 2163 after moving
-no documents in queue
-0 jobs waiting on printer 1060 after moving
-1 jobs waiting on printer 2104
-0 jobs waiting on printer 798 after moving
-1 jobs waiting on printer 1733
-0 jobs waiting on printer 847 after moving
-no documents in queue
-0 jobs waiting on printer 1775 after moving
-1 jobs waiting on printer 128
-0 jobs waiting on printer 1691 after moving
-2 jobs waiting on printer 1438
-no documents in queue
-0 jobs waiting on printer 39 after moving
-1 jobs waiting on printer 1278
-no documents in queue
-0 jobs waiting on printer 1760 after moving
-no documents in queue
-1 jobs waiting on printer 2097
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 1547
-no documents in queue
-no documents in queue
-0 jobs waiting on printer 2081 after moving
-1 jobs waiting on printer 877
-1 jobs waiting on printer 234
-no documents in queue
-0 jobs waiting on printer 768 after moving
-0 jobs waiting on printer 374 after moving
-no documents in queue
-1 jobs waiting on printer 2273
-1 jobs waiting on printer 2267 after moving
-1 jobs waiting on printer 839
-0 jobs waiting on printer 1462 after moving
-0 jobs waiting on printer 1587 after moving
-0 jobs waiting on printer 1703 after moving
-no documents in queue
-1 jobs waiting on printer 1529
-no documents in queue
-0 jobs waiting on printer 1593 after moving
-0 jobs waiting on printer 1892 after moving
-0 jobs waiting on printer 359 after moving
-1 jobs waiting on printer 713
-no documents in queue
-1 jobs waiting on printer 1014
-0 jobs waiting on printer 974 after moving
-no documents in queue
-1 jobs waiting on printer 872
-1 jobs waiting on printer 765
-1 jobs waiting on printer 160
-1 jobs waiting on printer 1190
-0 jobs waiting on printer 383 after moving
-no documents in queue
-1 jobs waiting on printer 430
-no documents in queue
-1 jobs waiting on printer 345
-0 jobs waiting on printer 431 after moving
-0 jobs waiting on printer 1236 after moving
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 1732
-2 jobs waiting on printer 208
-0 jobs waiting on printer 1318 after moving
-1 jobs waiting on printer 1514
-1 jobs waiting on printer 1982
-no documents in queue
-0 jobs waiting on printer 70 after moving
-1 jobs waiting on printer 1928
-no documents in queue
-8249 printed
-1 jobs waiting on printer 815
-no documents in queue
-1 jobs waiting on printer 282
-1 jobs waiting on printer 1451
-0 jobs waiting on printer 1304 after moving
-1 jobs waiting on printer 205 after moving
-no documents in queue
-2 jobs waiting on printer 23
-0 jobs waiting on printer 1174 after moving
-2 jobs waiting on printer 1651 after moving
-no documents in queue
-1 jobs waiting on printer 1839
-21711 printed
-no documents in queue
-no documents in queue
-13090 printed
-1 jobs waiting on printer 43
-0 jobs waiting on printer 1604 after moving
-1 jobs waiting on printer 265
-1 jobs waiting on printer 1645
-0 jobs waiting on printer 774 after moving
-1 jobs waiting on printer 968
-no documents in queue
-1 jobs waiting on printer 1309
-1 jobs waiting on printer 1077
-no documents in queue
-1 jobs waiting on printer 1239
-no documents in queue
-0 jobs waiting on printer 1585 after moving
-1 jobs waiting on printer 897
-0 jobs waiting on printer 492 after moving
-no documents in queue
-no documents in queue
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 922
-0 jobs waiting on printer 1493 after moving
-no documents in queue
-0 jobs waiting on printer 2215 after moving
-21527 printed
-no documents in queue
-0 jobs waiting on printer 443 after moving
-no documents in queue
-0 jobs waiting on printer 1619 after moving
-0 jobs waiting on printer 2067 after moving
-no documents in queue
-0 jobs waiting on printer 2102 after moving
-0 jobs waiting on printer 888 after moving
-2 jobs waiting on printer 892
-1 jobs waiting on printer 2101
-1 jobs waiting on printer 896
-no documents in queue
-no documents in queue
-1 jobs waiting on printer 581
-2605 printed
-1 jobs waiting on printer 293
-0 jobs waiting on printer 69 after moving
-0 jobs waiting on printer 113 after moving
-0 jobs waiting on printer 1959 after moving
-2 jobs waiting on printer 894
-1 jobs waiting on printer 1117 after moving
-1 jobs waiting on printer 415
-0 jobs waiting on printer 1688 after moving

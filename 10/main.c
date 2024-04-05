@@ -2,11 +2,11 @@
 #include <stdlib.h>
 
 typedef struct Node{
-    long long data;
+    int data;
     struct Node *child;
     struct Node *sibling;
-    long long deg;
-    long long id;
+    int deg;
+    int id;
 }Node;
 
 Node *Merge(Node *heap1,Node *heap2);
@@ -29,7 +29,7 @@ Node *Union(Node *heap1,Node *heap2){
                 x->sibling = next->sibling;
                 next->sibling = x->child;
                 x->child = next;
-                x->deg++;//還沒處理所有degree
+                x->deg++;
             }
             else{//next 當頭
                 if(prev == NULL)//直接assign head 到next
@@ -84,7 +84,7 @@ Node *Merge(Node *heap1,Node *heap2){
         head = heap1;
     return head;
 }
-void Insert(Node **head, long long priority, long long id){
+void Insert(Node **head, int priority, int id){
     Node *new = (Node *)malloc(sizeof(Node));
     new->child = NULL;
     new->data = priority;
@@ -94,7 +94,7 @@ void Insert(Node **head, long long priority, long long id){
     *head = Union(*head,new);
 }
 
-long long Extract(Node **head, long long *num){
+int Extract(Node **head, int *num){
     (*num)--;
     Node *p = NULL;
     if((*head)->sibling == NULL){
@@ -141,12 +141,12 @@ Node *Reverse(Node *head){
     return prev;
 }
 int main(){
-    long long num;
-    long long op;
-    Node *printers[num];
-    long long num_jobs[num];
+    int num;
+    int op;
     scanf("%d",&num);
     scanf("%d",&op);
+    Node *printers[num];
+    int num_jobs[num];
     for(int i = 0; i< num;i++){//初始化
         printers[i] = NULL;
         num_jobs[i] = 0;
@@ -154,17 +154,17 @@ int main(){
     getchar();
     for(int i = 0; i<op; i++){
         char line[1024];
-        long long num1;
-        long long num2;
-        long long num3;
-        long long num4;
+        int num1;
+        int num2;
+        int num3;
+        int num4;
         int result;
         if(fgets(line, sizeof(line), stdin)){
             result = sscanf(line, "%d %d %d %d", &num1, &num2, &num3, &num4);
             if (result == 4){//add
                 Insert(&printers[num4-1],num3,num2);
                 num_jobs[num4-1]++;
-                printf("%lld jobs waiting on printer %lld",num_jobs[num4-1],num4);
+                printf("%d jobs waiting on printer %d",num_jobs[num4-1],num4);
                 printf("\n");
             }
             else if(result == 2){//print
@@ -173,15 +173,15 @@ int main(){
                     printf("\n");
                 }
                 else{
-                    long long id = Extract(&printers[num2-1],&num_jobs[num2-1]);
-                    printf("%lld printed",id);
+                    int id = Extract(&printers[num2-1],&num_jobs[num2-1]);
+                    printf("%d printed",id);
                     printf("\n");
                 }
             }
             else if(result == 3){//move
                 num_jobs[num3-1] = num_jobs[num3-1] + num_jobs[num2-1];
                 num_jobs[num2-1] = 0;
-                printf("%lld jobs waiting on printer %lld after moving",num_jobs[num3-1],num3);
+                printf("%d jobs waiting on printer %d after moving",num_jobs[num3-1],num3);
                 printf("\n");
                 printers[num3-1] = Union(printers[num3-1],printers[num2-1]);
                 printers[num2-1] = NULL;
