@@ -23,30 +23,24 @@ int main(){
     int num;
     scanf("%d",&num);
     Node *head = NULL;
-    Node *temp = NULL;
-    int data = 0;
-    int next = 0;
-    for(int i = 1;i<=num;i++){
+    Node *arr[num];
+    int nextArr[num];
+    for(int i = 0;i<num;i++){
         Node *new = (Node *)malloc(sizeof(Node));
         new->next = NULL;
+        arr[i] = new;
+        int data;
+        int next;
         scanf("%d",&data);
-        new->data = data;
-        if(i == 1){
-            head = new;
-            temp = new;
-        }
-        if(next == i){
-            temp->next = new;
-            temp = temp->next;
-        }
         scanf("%d",&next);
-        if(next != 0 && next != i+1){
-            Node *run  = head;
-            for(int j = 0;j<(next-1);j++){
-                run = run->next;
-            }
-            new->next = run;
-        }
+        arr[i]->data = data;
+        nextArr[i] = next;
+        if(i == 0)
+            head = arr[i];
+    }
+    for(int i = 0;i<num;i++){
+        if(nextArr[i] != 0)
+            arr[i]->next = arr[nextArr[i]-1];
     }
     FCD(head);
 }
