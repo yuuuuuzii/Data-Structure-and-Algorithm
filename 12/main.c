@@ -1,16 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
-void Increase(int *arr,int i,int key);
-void Swap(int *arr,int i,int j);
 
-void Insert(int *arr,int key,int i){
-    arr[i+1] = 0;
-    Increase(arr,i,key);
-}
+void Swap(int *arr,int i,int j);
 
 void Increase(int *arr,int i,int key){
     arr[i] = key;
-    while(i>0 && arr[i/2]<arr[i]){
+    while(i > 1 && (arr[i/2] < arr[i])){
         Swap(arr,i/2,i);
         i = i/2;
     }
@@ -23,13 +18,13 @@ void Swap(int *arr, int i, int j){
 int main(){
     int size;
     scanf("%d",&size);
-    int arr[size+1];
-    for(int i = 0;i<size;i++){
+    int arr[size+1];//開大一格
+    for(int i = 1;i<=size;i++){
         int num;
         scanf("%d",&num);
-        Insert(arr,num,i);
+        Increase(arr,i,num);
     }
-    for(int i = 0;i<size;i++){
+    for(int i = 1;i<=size;i++){
         printf("%d ",arr[i]);
     }
 }
