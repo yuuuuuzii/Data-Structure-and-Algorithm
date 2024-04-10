@@ -42,7 +42,7 @@ int main(){
         scanf("%d",&next);
         if(next != 0 && next != i+1){
             Node *run  = head;
-            for(int i = 0;i<(next-1);i++){
+            for(int j = 0;j<(next-1);j++){
                 run = run->next;
             }
             new->next = run;
