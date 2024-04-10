@@ -18,6 +18,8 @@ void FCD(Node *head){
             break; 
         }
     }
+    if(hare->next ==NULL)
+        printf("%d ",hare->data);
 }
 int main(){
     int num;
