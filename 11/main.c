@@ -19,9 +19,9 @@ typedef struct Node{
 }Node;
 
 typedef struct treasure{
-    long long pi;
+    long long output;
     struct treasure *next;
-    int tag;
+    struct treasure *prev;
 }treasure;
 
 void push(Node **arr, Node *n, int *top){//紀錄走訪的節點
@@ -70,13 +70,14 @@ void upstream(Node **current,Node **arr, int *top, treasure **queue, treasure **
         printf("%d",(*current)->tag);
         printf("\n");
         pop(arr,top);
+        
         if((*current)->child == (*current)->max_deep){
             (*current)->max_deep = ((*current)->max_deep)->next;//記得檢查是否為NULL
         }
         if((*current)->child->is_empty != 0){//還沒檢查NULL
-            (*queue) = (*queue)->next;
-            if ((*queue) == NULL) {
-                (*tail) = NULL; 
+            (*tail) = (*tail)->prev;
+            if ((*tail) == NULL) {
+                (*queue) = NULL; 
             }
         }
         free(dequeue(&(*current)->child,&(*current)->tail));
@@ -85,7 +86,6 @@ void upstream(Node **current,Node **arr, int *top, treasure **queue, treasure **
         printf("-1");
         printf("\n");
     }
-
 }
 long long plan(Node **arr,int top, long long ti){
     if(ti >=((arr[top]->length)-(arr[0]->length))){
@@ -98,7 +98,7 @@ long long plan(Node **arr,int top, long long ti){
             int m = (right+left)/2;
             if(((arr[right]->length)-(arr[m]->length))<ti){
                 ti = ti-((arr[right]->length)-(arr[m]->length));
-                right = m;
+                right = m-1;
             }
             else if (((arr[right]->length)-(arr[m]->length))>ti){
                 left = m+1;
@@ -123,7 +123,7 @@ long long DFS(Node *root){
             root->max_deep_tail = temp;
         }
         else{
-            while(root->max_deep_tail != NULL && local > ((root->max_deep_tail)->deep_length+(root->max_deep_tail)->length)){
+            while(root->max_deep_tail != NULL && local > ((root->max_deep_tail)->deep_length+(root->max_deep_tail)->length-root->length)){
                 root->max_deep_tail =  root->max_deep_tail->prev;
             }
             //add
@@ -139,32 +139,40 @@ long long DFS(Node *root){
         }
         temp = temp->next;
     }
-    root->deep_length =  (root->max_deep)->deep_length + (root->max_deep)->length;
+    root->deep_length =  (root->max_deep)->deep_length + (root->max_deep)->length-root->length;
     return root->deep_length;
 }
-void discover(treasure **queue, treasure **tail,Node **current, long long pi,Node **arr, int *q_num, int top){
+void discover(treasure **queue, treasure **tail,Node **current, long long pi,Node **arr,Node **dungeons,int *q_num, int top){
     (*q_num)++;
     (*current)->is_empty++;
     treasure *new = (treasure *)malloc(sizeof(treasure));
-    new->pi = pi;
+    if(pi-(*current)->length >= 0){
+        new->output = pi-(*current)->length;
+    }
+    else{
+        new->output = -arr[plan(arr,top,pi)]->tag ;
+    }
     new->next = NULL;
-    new->tag = (*current)->tag;
+    new->prev = NULL;
     if((*queue)== NULL){
         (*queue) = new;
         (*tail) = new;
     }
-    (*tail)->next = new;
-    (*tail) = (*tail)->next;
+    else{
+        (*tail)->next = new;
+        new->prev = (*tail);
+        (*tail) = (*tail)->next;
+    }   
     if(*q_num > top){
         treasure *temp = (*queue);
         (*queue) = (*queue)->next;
         (*q_num)--;
-        if((temp->pi)-(arr[temp->tag]->length) >= 0){
-            printf("value remaining is %lld",temp->pi-(arr[temp->tag]->length));
+        if(temp->output >= 0){
+            printf("value remaining is %lld",temp->output);
             printf("\n");
         }
         else{
-            printf("value lost at %lld", plan(arr,top,temp->pi));
+            printf("value lost at %lld",-temp->output);
             printf("\n");
         }
     }
@@ -223,17 +231,18 @@ int main(){
                 }
                 else if (num1 == 2){//2
                     upstream(&current,arr,&top,&queue,&tail);
+         
                 }
                 else{//4
                 if((current->max_deep)!= NULL){
-                    printf("%lld",(current->max_deep)->deep_length+(current->max_deep)->length);
+                    printf("%lld",(current->max_deep)->deep_length +(current->max_deep)->length);
                     printf("\n");
+
                 }
                 else{
                     printf("0");
                     printf("\n");
                 }
-                   
                 }
             }
             else if(result == 2){
@@ -242,7 +251,7 @@ int main(){
                     printf("\n");
                 }
                 else{//5
-                    discover(&queue,&tail,&current,num2,arr,&q_num,top);
+                    discover(&queue,&tail,&current,num2,arr,dungeons,&q_num,top);
                 }
             }
             else{//6
@@ -250,13 +259,14 @@ int main(){
                 current->tail = (current->tail)->next;
                 dungeons[num2]->parent = current;
                 dungeons[num2]->deep_length = DFS(dungeons[num2]);
+    
                 dungeons[num2]->length = current->length+num3;
                 if(current->max_deep == NULL){
                     current->max_deep = dungeons[num2];
                     current->max_deep_tail = dungeons[num2];
                 }
                 else{
-                    while(current->max_deep_tail != NULL && dungeons[num2]->deep_length > (current->max_deep_tail)->deep_length){
+                    while(current->max_deep_tail != NULL && dungeons[num2]->deep_length+dungeons[num2]->length > (current->max_deep_tail)->deep_length-current->length){
                         current->max_deep_tail =  current->max_deep_tail->prev;
                     }
                     //add
