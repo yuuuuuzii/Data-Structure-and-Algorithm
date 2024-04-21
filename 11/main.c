@@ -101,7 +101,7 @@ long long plan(Node **arr,long long top, long long ti){
         int left = 0;
         while(left<=right){
             int m = (right+left)/2;
-
+            
             if(((arr[right]->length)-(arr[m]->length))<ti){
                 if(right == m){
                     if((arr[m]->length)>ti)
@@ -109,7 +109,7 @@ long long plan(Node **arr,long long top, long long ti){
                     return m;
                 }
                 ti = ti-((arr[right]->length)-(arr[m]->length));
-                right = m;
+                right = m-1;
             }
             else if (((arr[right]->length)-(arr[m]->length))>ti){
                 left = m+1;
