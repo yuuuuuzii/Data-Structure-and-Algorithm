@@ -122,14 +122,14 @@ long long plan(Node **arr,long long top, long long ti){
         return left;
     }
 }
-long long DFS(Node *root,long long num){
-    root->length = root->length+num;
+long long DFS(Node *root){
     if (root == NULL || root->child == NULL){
         return 0;
     }
     Node *temp = root->child;
     while(temp != NULL){
-        long long local = temp->length + DFS(temp,num);
+        temp->length = temp->length+root->length;
+        long long local = temp->length + DFS(temp);
         if(root->max_deep == NULL){
             root->max_deep = temp;
             root->max_deep_tail = temp;
@@ -219,12 +219,12 @@ int main(){
         int u,v;
         long long l;
         scanf("%d %d %lld",&u,&v,&l);
-        dungeons[v]->length = (dungeons[u]->length)+l;
+        dungeons[v]->length = l;
         dungeons[v]->parent = dungeons[u];
         enqueue(&dungeons[u]->child,dungeons[v],&dungeons[u]->tail);
     }
     Node *current = dungeons[0];
-    dungeons[0]->deep_length = DFS(dungeons[0],0);
+    dungeons[0]->deep_length = DFS(dungeons[0]);
     treasure *queue  = NULL;
     treasure *tail = NULL;
     long long q_num = 0;
@@ -274,7 +274,8 @@ int main(){
                 (current->tail)->next = dungeons[num2];
                 current->tail = (current->tail)->next;
                 dungeons[num2]->parent = current;
-                dungeons[num2]->deep_length = DFS(dungeons[num2],num3);
+                dungeons[num2]->length = num3;
+                dungeons[num2]->deep_length = DFS(dungeons[num2]);
     
                 dungeons[num2]->length = current->length+num3;
                 if(current->max_deep == NULL){
