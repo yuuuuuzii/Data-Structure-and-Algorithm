@@ -62,7 +62,6 @@ void downstream(Node **current,Node **arr,long long *top){
         printf("-1");
         printf("\n");
     }
-
 }
 void upstream(Node **current,Node **arr, long long *top, treasure **queue,long long *q_num, treasure **tail){
     if((*current)->tag != 0){
@@ -77,6 +76,7 @@ void upstream(Node **current,Node **arr, long long *top, treasure **queue,long l
         if((*current)->child == (*current)->max_deep){
             (*current)->max_deep = ((*current)->max_deep)->next;//記得檢查是否為NULL
         }
+
         if((*current)->child->is_empty != 0){//還沒檢查NULL
             (*q_num)--;
             (*tail) = (*tail)->prev;
@@ -85,6 +85,13 @@ void upstream(Node **current,Node **arr, long long *top, treasure **queue,long l
                 (*queue) = NULL; 
             }
         }
+        if((*current)->child->next != NULL){
+            (*current)->child = (*current)->child->next;
+        }
+        else{
+            (*current)->child = NULL;
+            (*current)->tail = NULL;
+        } 
     }
     else{
         printf("-1");
@@ -189,12 +196,12 @@ void discover(treasure **queue, treasure **tail,Node **current, long long pi,Nod
     }
 }
 int main(){
-    int n;
-    int m;
-    int q;
-    scanf("%d",&n);
-    scanf("%d",&m);
-    scanf("%d",&q);
+    long long n;
+    long long m;
+    long long q;
+    scanf("%lld",&n);
+    scanf("%lld",&m);
+    scanf("%lld",&q);
     Node **arr = (Node **)malloc(sizeof(Node *)*1000000);//用來存走過的路徑，為stack
     long long top = -1;
     Node **dungeons = (Node **)malloc(sizeof(Node *)*n);
@@ -217,7 +224,7 @@ int main(){
     for(int i = 0; i < m; i++){
         long long u,v;
         long long l;
-        scanf("%d %d %lld",&u,&v,&l);
+        scanf("%lld %lld %lld",&u,&v,&l);
         dungeons[v]->length = l;
         dungeons[v]->parent = dungeons[u];
         enqueue(&dungeons[u]->child,dungeons[v],&dungeons[u]->tail);
