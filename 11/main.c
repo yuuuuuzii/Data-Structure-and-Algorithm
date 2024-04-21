@@ -2,7 +2,7 @@
 #include <stdlib.h>
 typedef struct Node{
     long long length;//距離原點距離
-    int tag;//編號
+    long long tag;//編號
     int is_empty;
     long long deep_length;//子孫往葉節點的值
     struct Node *max_deep;//維護deep 最大值list
@@ -85,7 +85,6 @@ void upstream(Node **current,Node **arr, long long *top, treasure **queue,long l
                 (*queue) = NULL; 
             }
         }
-        free(dequeue(&(*current)->child,&(*current)->tail));
     }
     else{
         printf("-1");
@@ -97,10 +96,10 @@ long long plan(Node **arr,long long top, long long ti){
         return 0;
     }
     else{
-        int right = top;
-        int left = 0;
+        long long right = top;
+        long long left = 0;
         while(left<=right){
-            int m = (right+left)/2;
+            long long m = (right+left)/2;
             
             if(((arr[right]->length)-(arr[m]->length))<ti){
                 if(right == m){
@@ -216,7 +215,7 @@ int main(){
     push(arr,dungeons[0],&top);
     getchar();
     for(int i = 0; i < m; i++){
-        int u,v;
+        long long u,v;
         long long l;
         scanf("%d %d %lld",&u,&v,&l);
         dungeons[v]->length = l;
