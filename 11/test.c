@@ -99,27 +99,15 @@ void upstream(Node **current,Node **arr, long long *top, treasure **queue,long l
         printf("\n");
     }
 }
-long long plan(Node **arr,long long top, long long ti){
-    if(ti >=((arr[top]->length)-(arr[0]->length))){
+long long plan(Node **arr, long long top, long long ti){
+    if (ti >= arr[top]->length - arr[0]->length) {
         return 0;
     }
-    else{
-        long long right = 0;
-        long long left = top;
-        while(left-1 != right){
-
-            long long m = (right+left)/2;
-            if((ti-((arr[left]->length)-(arr[m]->length)))>=0){
-                ti = ti-((arr[left]->length)-(arr[m]->length));
-                left = m;
-            }
-            else if (ti-((arr[left]->length)-(arr[m]->length)) < 0){
-                right = m;
-            }
+    for (long long i = top; i > 0; i--) {
+        ti = ti-(arr[i]->length-arr[i-1]->length);
+        if (ti< 0) {
+            return i;
         }
-        /*printf("%lld,%lld",left,right);
-        printf("\n");*/
-        return left;
     }
 }
 long long DFS(Node *root){
@@ -164,7 +152,7 @@ void discover(treasure **queue, treasure **tail,Node **current, long long pi,Nod
     }
     else{
         new->tag = 0;
-        new->output = arr[plan(arr,top,pi)-1]->tag;
+        new->output = arr[plan(arr,top,pi)-1]->tag ;
     }
     new->next = NULL;
     new->prev = NULL;
@@ -181,7 +169,7 @@ void discover(treasure **queue, treasure **tail,Node **current, long long pi,Nod
         treasure *temp = (*queue);
         (*queue) = (*queue)->next;
         (*q_num)--;
-        if(temp->tag ==1){
+        if((temp)->tag == 1){
             printf("value remaining is %lld",temp->output);
             printf("\n");
         }
@@ -209,15 +197,14 @@ int main(){
         dungeons[i]->prev = NULL;
         dungeons[i]->parent = NULL;
         dungeons[i]->max_deep = NULL;
-        dungeons[i]->max_deep_tail = NULL;
         dungeons[i]->next1 = NULL;
         dungeons[i]->deep_length = 0;
         dungeons[i]->child = NULL; //child link list
         dungeons[i]->next = NULL;
-        dungeons[i]->tail = NULL;
+        dungeons[i]->max_deep_tail = NULL;
     }
     push(arr,dungeons[0],&top);
-  
+   
     for(int i = 0; i < m; i++){
         long long u,v;
         long long l;
@@ -231,15 +218,15 @@ int main(){
     treasure *queue  = NULL;
     treasure *tail = NULL;
     long long q_num = 0;
-  
+   
     for(int i = 0; i<q; i++){
         char line[1024];
-        long long num1;
-        long long num2;
-        long long num3;
+        int num1;
+        int num2;
+        int num3;
         int result;
         if (fgets(line, sizeof(line), stdin)){
-            result = sscanf(line, "%lld %lld %lld\n", &num1, &num2, &num3);
+            result = sscanf(line, "%d %d %d\n", &num1, &num2, &num3);
             if (result == 1){
                 if(num1 == 1){//1
                     downstream(&current, arr, &top);
