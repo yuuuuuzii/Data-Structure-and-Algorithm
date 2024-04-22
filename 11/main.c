@@ -3,7 +3,7 @@
 typedef struct Node{
     long long length;//距離原點距離
     long long tag;//編號
-    int is_empty;
+    long long is_empty;
     long long deep_length;//子孫往葉節點的值
     struct Node *max_deep;//維護deep 最大值list
     struct Node *max_deep_tail;
@@ -66,6 +66,7 @@ void downstream(Node **current,Node **arr,long long *top){
 }
 void upstream(Node **current,Node **arr, long long *top, treasure **queue,long long *q_num, treasure **tail){
     if((*current)->tag != 0){
+        //Node *temp = (*current);
         if(((*current)->is_empty)>1)
             ((*current)->parent)->is_empty = (*current)->parent->is_empty + ((*current)->is_empty)-1;
         
@@ -75,24 +76,26 @@ void upstream(Node **current,Node **arr, long long *top, treasure **queue,long l
         pop(arr,top);
         
         if((*current)->child == (*current)->max_deep){
-            (*current)->max_deep = ((*current)->max_deep)->next;//記得檢查是否為NULL
+            (*current)->max_deep = ((*current)->max_deep)->next1;//7:54
+            if((*current)->max_deep== NULL){
+                (*current)->max_deep_tail = NULL;
+            }
         }
 
         if((*current)->child->is_empty != 0){//還沒檢查NULL
             (*q_num)--;
             (*tail) = (*tail)->prev;
-            
             if ((*tail) == NULL) {
                 (*queue) = NULL; 
             }
         }
         if((*current)->child->next != NULL){
             (*current)->child = (*current)->child->next;
+            if((*current)->child = NULL){
+                (*current)->tail = NULL;
+            }
         }
-        else{
-            (*current)->child = NULL;
-            (*current)->tail = NULL;
-        } 
+        
     }
     else{
         printf("-1");
@@ -180,8 +183,11 @@ void discover(treasure **queue, treasure **tail,Node **current, long long pi,Nod
     if(*q_num > top){
         treasure *temp = (*queue);
         (*queue) = (*queue)->next;
+        if((*queue)== NULL){//7:00
+            (*tail) = NULL;
+        }
         (*q_num)--;
-        if(temp->tag ==1){
+        if(temp->tag == 1){
             printf("value remaining is %lld",temp->output);
             printf("\n");
         }
@@ -280,7 +286,7 @@ int main(){
                 dungeons[num2]->length = num3;
                 dungeons[num2]->deep_length = DFS(dungeons[num2]);
     
-                dungeons[num2]->length = current->length+num3;
+                
                 if(current->max_deep == NULL){
                     current->max_deep = dungeons[num2];
                     current->max_deep_tail = dungeons[num2];
