@@ -89,13 +89,15 @@ void upstream(Node **current,Node **arr, long long *top, treasure **queue,long l
                 (*queue) = NULL; 
             }
         }
+        
         if((*current)->child->next != NULL){
             (*current)->child = (*current)->child->next;
-            if((*current)->child = NULL){
-                (*current)->tail = NULL;
-            }
         }
-        
+        else{
+            (*current)->child = NULL;
+            (*current)->tail = NULL;
+        }
+
     }
     else{
         printf("-1");
