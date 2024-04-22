@@ -89,7 +89,7 @@ void upstream(Node **current,Node **arr, long long *top, treasure **queue,long l
                 (*queue) = NULL; 
             }
         }
-        
+
         if((*current)->child->next != NULL){
             (*current)->child = (*current)->child->next;
         }
@@ -140,7 +140,7 @@ long long DFS(Node *root){
             root->max_deep_tail = temp;
         }
         else{
-            while(root->max_deep_tail != NULL && local > ((root->max_deep_tail)->deep_length+(root->max_deep_tail)->length-root->length)){
+            while(root->max_deep_tail != NULL && local >= ((root->max_deep_tail)->deep_length+(root->max_deep_tail)->length-root->length)){
                 root->max_deep_tail =  root->max_deep_tail->prev;
             }
             //add
@@ -177,7 +177,7 @@ void discover(treasure **queue, treasure **tail,Node **current, long long pi,Nod
         (*queue) = new;
         (*tail) = new;
     }
-    else{
+    else{//add
         (*tail)->next = new;
         new->prev = (*tail);
         (*tail) = (*tail)->next;
@@ -240,7 +240,7 @@ int main(){
     treasure *tail = NULL;
     long long q_num = 0;
   
-    for(int i = 0; i<q; i++){
+    for(long long i = 0; i<q; i++){
         char line[1024];
         long long num1;
         long long num2;
@@ -311,6 +311,6 @@ int main(){
             }
         }
     }
-    free(arr);
+
     return 0;
 }
