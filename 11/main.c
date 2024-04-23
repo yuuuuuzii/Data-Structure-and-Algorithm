@@ -54,7 +54,7 @@ void enqueue(Node **head, Node *child, Node **tail){
 }*/
 void downstream(Node **current,Node **arr,long long *top){
     if((*current)->child != NULL){
-        printf("%d",((*current)->child)->tag);
+        printf("%lld",((*current)->child)->tag);
         printf("\n");
         (*current) = (*current)->child;
         push(arr,(*current),top);
@@ -68,36 +68,38 @@ void downstream(Node **current,Node **arr,long long *top){
 void upstream(Node **current,Node **arr, long long *top, treasure **queue,long long *q_num, treasure **tail){
     if((*current)->tag != 0){
         //Node *temp = (*current);
-        if(((*current)->is_empty)>1)
+        if(((*current)->is_empty)>1)//與5有關
             ((*current)->parent)->is_empty = (*current)->parent->is_empty + ((*current)->is_empty)-1;
-        
+    
         (*current) = (*current)->parent;
-        printf("%d",(*current)->tag);
+        printf("%lld",(*current)->tag);
         printf("\n");
         pop(arr,top);
         
         if((*current)->child == (*current)->max_deep){
             (*current)->max_deep = ((*current)->max_deep)->next1;//7:54
-            if((*current)->max_deep== NULL){
+            if((*current)->max_deep == NULL){
                 (*current)->max_deep_tail = NULL;
             }
         }
 
-        if((*current)->child->is_empty != 0){//還沒檢查NULL
+        if((*current)->child->is_empty > 0){//還沒檢查NULL，與5有關
             (*q_num)--;
             (*tail) = (*tail)->prev;
             if ((*tail) == NULL) {
                 (*queue) = NULL; 
             }
         }
-
+        Node *temp = (*current)->child;
         if((*current)->child->next != NULL){
+            
             (*current)->child = (*current)->child->next;
         }
         else{
             (*current)->child = NULL;
             (*current)->tail = NULL;
         }
+        free(temp);
     }
     else{
         printf("-1");
@@ -188,10 +190,12 @@ void discover(treasure **queue, treasure **tail,Node **current, long long pi,Nod
         (*tail)->next = new;
         new->prev = (*tail);
         (*tail) = (*tail)->next;
-    }   
-    if(*q_num > top){
+    }
+
+    if((*q_num) > top){
         treasure *temp = (*queue);
         (*queue) = (*queue)->next;
+
         if((*queue)== NULL){//7:00
             (*tail) = NULL;
         }
@@ -204,6 +208,7 @@ void discover(treasure **queue, treasure **tail,Node **current, long long pi,Nod
             printf("value lost at %lld",temp->output);
             printf("\n");
         }
+        free(temp);
     }
 }
 int main(){

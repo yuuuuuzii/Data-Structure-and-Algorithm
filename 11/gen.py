@@ -33,7 +33,7 @@ def generate_test_case():
     # Generate Q instructions with their respective ti or pi values
     instructions = []
     for _ in range(Q):
-        instruction_type = random.choice([1, 2, 4])  # Instruction types 1 through 5
+        instruction_type = random.choice([1, 2, 5])  # Instruction types 1 through 5
         if instruction_type == 3:  # ti is required for instruction 3
             ti = random.randint(0, MAX_T)
             instructions.append((3, ti))
