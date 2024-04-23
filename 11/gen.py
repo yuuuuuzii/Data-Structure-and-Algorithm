@@ -1,19 +1,19 @@
 import random
 
 # Set the constraints for the test case
-MAX_N = 10  # Maximum value for N
+MAX_N = 1000  # Maximum value for N
 MAX_M = MAX_N - 1  # Maximum value for M
-MAX_Q = 10  # Maximum value for Q
-MAX_L = 10 # Maximum value for L
-MAX_T = 10  # Maximum value for t
-MAX_P = 10 # Maximum value for p
+MAX_Q = 1000  # Maximum value for Q
+MAX_L = 1000000 # Maximum value for L
+MAX_T = 1000000000000000  # Maximum value for t
+MAX_P = 1000000000000000 # Maximum value for p
 
 # Function to generate the test case
 def generate_test_case():
     # Generate N, M, Q within the constraints
-    N = random.randint(2, min(100, MAX_N))  # N capped at 100 for simplicity
+    N = random.randint(2, min(1000 , MAX_N))  # N capped at 100 for simplicity
     M = random.randint(0, min(N - 1, MAX_M))
-    Q = random.randint(1, min(100, MAX_Q))  # Q capped at 100 for simplicity
+    Q = random.randint(1, min(1000, MAX_Q))  # Q capped at 100 for simplicity
 
     # Initialize the list of connections and used 'v' values
     connections = []
@@ -33,7 +33,7 @@ def generate_test_case():
     # Generate Q instructions with their respective ti or pi values
     instructions = []
     for _ in range(Q):
-        instruction_type = random.choice([1, 2])  # Instruction types 1 through 5
+        instruction_type = random.choice([1, 2, 4])  # Instruction types 1 through 5
         if instruction_type == 3:  # ti is required for instruction 3
             ti = random.randint(0, MAX_T)
             instructions.append((3, ti))

@@ -44,14 +44,14 @@ void enqueue(Node **head, Node *child, Node **tail){
         (*tail) = (*tail)->next;
     }
 }
-Node *dequeue(Node **head,Node **tail){
+/*Node *dequeue(Node **head,Node **tail){
     Node *temp = (*head);
     (*head) = (*head)->next;
     if ((*head) == NULL) {
         (*tail) = NULL; 
     }
     return temp;
-}
+}*/
 void downstream(Node **current,Node **arr,long long *top){
     if((*current)->child != NULL){
         printf("%d",((*current)->child)->tag);
@@ -64,6 +64,7 @@ void downstream(Node **current,Node **arr,long long *top){
         printf("\n");
     }
 }
+
 void upstream(Node **current,Node **arr, long long *top, treasure **queue,long long *q_num, treasure **tail){
     if((*current)->tag != 0){
         //Node *temp = (*current);
@@ -97,7 +98,6 @@ void upstream(Node **current,Node **arr, long long *top, treasure **queue,long l
             (*current)->child = NULL;
             (*current)->tail = NULL;
         }
-
     }
     else{
         printf("-1");
@@ -128,19 +128,21 @@ long long plan(Node **arr,long long top, long long ti){
     }
 }
 long long DFS(Node *root){
-    if (root == NULL || root->child == NULL){
+    if (root->child == NULL){
         return 0;
     }
     Node *temp = root->child;
     while(temp != NULL){
         temp->length = temp->length+root->length;
-        long long local = temp->length + DFS(temp);
+        /*printf("d%lld length is %lld",temp->tag,temp->length);
+        printf("\n");*/
+        long long local = temp->length-root->length + DFS(temp);
         if(root->max_deep == NULL){
             root->max_deep = temp;
             root->max_deep_tail = temp;
         }
         else{
-            while(root->max_deep_tail != NULL && local >= ((root->max_deep_tail)->deep_length+(root->max_deep_tail)->length-root->length)){
+            while(root->max_deep_tail != NULL && local > ((root->max_deep_tail)->deep_length+(root->max_deep_tail)->length-root->length)){
                 root->max_deep_tail =  root->max_deep_tail->prev;
             }
             //add
@@ -151,18 +153,24 @@ long long DFS(Node *root){
             else{
                 root->max_deep_tail->next1 = temp;
                 temp->prev = root->max_deep_tail;
-                root->max_deep_tail = temp;
+                root->max_deep_tail = root->max_deep_tail->next1;
             }
         }
         temp = temp->next;
     }
     root->deep_length =  (root->max_deep)->deep_length + (root->max_deep)->length-root->length;
+   /*printf("d%lld deep length is %lld",root->tag,root->deep_length);
+    printf("\n");
+    printf("d%lld max dep length is %lld",root->tag,root->max_deep->length);
+    printf("\n");*/
     return root->deep_length;
 }
 void discover(treasure **queue, treasure **tail,Node **current, long long pi,Node **arr,Node **dungeons,long long *q_num, long long top){
     (*q_num)++;
     (*current)->is_empty++;
     treasure *new = (treasure *)malloc(sizeof(treasure));
+    new->next = NULL;
+    new->prev = NULL;
     if(pi-(*current)->length >= 0){
         new->tag = 1;
         new->output = pi-(*current)->length;
@@ -171,8 +179,7 @@ void discover(treasure **queue, treasure **tail,Node **current, long long pi,Nod
         new->tag = 0;
         new->output = arr[plan(arr,top,pi)-1]->tag;
     }
-    new->next = NULL;
-    new->prev = NULL;
+ 
     if((*queue)== NULL){
         (*queue) = new;
         (*tail) = new;
@@ -210,7 +217,7 @@ int main(){
     long long top = -1;
     Node **dungeons = (Node **)malloc(sizeof(Node *)*n);
     for(int i = 0; i<n; i++){
-        dungeons[i] = malloc(sizeof(Node));
+        dungeons[i] = (Node *)malloc(sizeof(Node));
         dungeons[i]->length = 0;
         dungeons[i]->tag = i;
         dungeons[i]->is_empty = 0;//0為空
@@ -257,15 +264,15 @@ int main(){
          
                 }
                 else{//4
-                if((current->max_deep)!= NULL){
-                    printf("%lld",(current->max_deep)->deep_length +(current->max_deep)->length-(current)->length);
-                    printf("\n");
+                    if((current->max_deep)!= NULL){
+                        printf("%lld",(current->max_deep)->deep_length +(current->max_deep)->length-(current)->length);
+                        printf("\n");
 
-                }
-                else{
-                    printf("0");
-                    printf("\n");
-                }
+                    }
+                    else{
+                        printf("0");
+                        printf("\n");
+                    }
                 }
             }
             else if(result == 2){

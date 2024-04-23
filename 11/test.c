@@ -3,7 +3,7 @@
 typedef struct Node{
     long long length;//距離原點距離
     long long tag;//編號
-    int is_empty;
+    long long is_empty;
     long long deep_length;//子孫往葉節點的值
     struct Node *max_deep;//維護deep 最大值list
     struct Node *max_deep_tail;
@@ -20,7 +20,7 @@ typedef struct Node{
 
 typedef struct treasure{
     long long output;
-    int tag;
+    long long tag;
     struct treasure *next;
     struct treasure *prev;
 }treasure;
