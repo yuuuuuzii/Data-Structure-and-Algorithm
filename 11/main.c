@@ -308,14 +308,14 @@ int main(){
                 dungeons[num2]->parent = current;
                 dungeons[num2]->length = num3;
                 dungeons[num2]->deep_length = DFS(dungeons[num2]);
-    
+                long long local = dungeons[num2]->deep_length+ dungeons[num2]->length-current->length;
                 
                 if(current->max_deep == NULL){
                     current->max_deep = dungeons[num2];
                     current->max_deep_tail = dungeons[num2];
                 }
                 else{
-                    while(current->max_deep_tail != NULL && dungeons[num2]->deep_length+dungeons[num2]->length-current->length > (current->max_deep_tail)->deep_length+(current->max_deep_tail)->length-current->length){
+                    while(current->max_deep_tail != NULL && local > (current->max_deep_tail)->deep_length+(current->max_deep_tail)->length-current->length){
                         current->max_deep_tail =  current->max_deep_tail->prev;
                     }
                     //add
