@@ -66,7 +66,7 @@ void downstream(Node **current,Node **arr,long long *top){
 }
 
 void upstream(Node **current,Node **arr, long long *top, treasure **queue,long long *q_num, treasure **tail){
-    if((*current)->tag != 0){
+    if((*current)->tag > 0){
         //Node *temp = (*current);
         if(((*current)->is_empty)>1)//與5有關
             ((*current)->parent)->is_empty = (*current)->parent->is_empty + ((*current)->is_empty)-1;
@@ -85,12 +85,16 @@ void upstream(Node **current,Node **arr, long long *top, treasure **queue,long l
 
         if((*current)->child->is_empty > 0){//還沒檢查NULL，與5有關
             (*q_num)--;
+            printf("q_num is %lld",(*q_num));
             (*tail) = (*tail)->prev;
             if ((*tail) == NULL) {
                 (*queue) = NULL; 
             }
+            else{
+                (*tail)->next = NULL;
+            }
         }
-        Node *temp = (*current)->child;
+    
         if((*current)->child->next != NULL){
             
             (*current)->child = (*current)->child->next;
@@ -99,7 +103,6 @@ void upstream(Node **current,Node **arr, long long *top, treasure **queue,long l
             (*current)->child = NULL;
             (*current)->tail = NULL;
         }
-        free(temp);
     }
     else{
         printf("-1");
@@ -107,7 +110,7 @@ void upstream(Node **current,Node **arr, long long *top, treasure **queue,long l
     }
 }
 long long plan(Node **arr,long long top, long long ti){
-    if(ti >=((arr[top]->length)-(arr[0]->length))){
+    if(ti >=((arr[top]->length))){//arr[0] 11:07
         return 0;
     }
     else{
@@ -167,7 +170,7 @@ long long DFS(Node *root){
     printf("\n");*/
     return root->deep_length;
 }
-void discover(treasure **queue, treasure **tail,Node **current, long long pi,Node **arr,Node **dungeons,long long *q_num, long long top){
+void discover(treasure **queue, treasure **tail,Node **current, long long pi,Node **arr,Node **dungeons,long long *q_num, long long *top){
     (*q_num)++;
     (*current)->is_empty++;
     treasure *new = (treasure *)malloc(sizeof(treasure));
@@ -179,7 +182,7 @@ void discover(treasure **queue, treasure **tail,Node **current, long long pi,Nod
     }
     else{
         new->tag = 0;
-        new->output = arr[plan(arr,top,pi)-1]->tag;
+        new->output = arr[plan(arr,*top,pi)-1]->tag;
     }
  
     if((*queue)== NULL){
@@ -199,7 +202,12 @@ void discover(treasure **queue, treasure **tail,Node **current, long long pi,Nod
         if((*queue)== NULL){//7:00
             (*tail) = NULL;
         }
+        else{
+            (*queue)->prev = NULL;
+        }
+
         (*q_num)--;
+        printf("q_num is %lld",(*q_num));
         if(temp->tag == 1){
             printf("value remaining is %lld",temp->output);
             printf("\n");
@@ -208,7 +216,7 @@ void discover(treasure **queue, treasure **tail,Node **current, long long pi,Nod
             printf("value lost at %lld",temp->output);
             printf("\n");
         }
-        free(temp);
+        
     }
 }
 int main(){
@@ -286,7 +294,7 @@ int main(){
                     printf("\n");
                 }
                 else{//5
-                    discover(&queue,&tail,&current,num2,arr,dungeons,&q_num,top);
+                    discover(&queue,&tail,&current,num2,arr,dungeons,&q_num, &top);
                 }
             }
             else{//6
