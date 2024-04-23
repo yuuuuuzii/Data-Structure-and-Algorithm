@@ -85,7 +85,7 @@ void upstream(Node **current,Node **arr, long long *top, treasure **queue,long l
 
         if((*current)->child->is_empty > 0){//還沒檢查NULL，與5有關
             (*q_num)--;
-            printf("q_num is %lld",(*q_num));
+            
             (*tail) = (*tail)->prev;
             if ((*tail) == NULL) {
                 (*queue) = NULL; 
@@ -207,7 +207,6 @@ void discover(treasure **queue, treasure **tail,Node **current, long long pi,Nod
         }
 
         (*q_num)--;
-        printf("q_num is %lld",(*q_num));
         if(temp->tag == 1){
             printf("value remaining is %lld",temp->output);
             printf("\n");
