@@ -110,7 +110,7 @@ void upstream(Node **current,Node **arr, long long *top, treasure **queue,long l
     }
 }
 long long plan(Node **arr,long long top, long long ti){
-    if(ti >=((arr[top]->length))){//arr[0] 11:07
+    if(ti >=((arr[top]->length))-(arr[0]->length)){//arr[0] 11:07
         return 0;
     }
     else{
@@ -195,7 +195,7 @@ void discover(treasure **queue, treasure **tail,Node **current, long long pi,Nod
         (*tail) = (*tail)->next;
     }
 
-    if((*q_num) > top){
+    if((*q_num) > *top){
         treasure *temp = (*queue);
         (*queue) = (*queue)->next;
 
