@@ -149,6 +149,9 @@ long long DFS(Node *root){
         else{
             while(root->max_deep_tail != NULL && local > ((root->max_deep_tail)->deep_length+(root->max_deep_tail)->length-root->length)){
                 root->max_deep_tail =  root->max_deep_tail->prev;
+
+                if(root->max_deep_tail !=NULL)
+                    root->max_deep_tail->next1 = NULL;
             }
             //add
             if(root->max_deep_tail == NULL){
@@ -306,7 +309,7 @@ int main(){
                     current->tail = (current->tail)->next;
                 }
                 dungeons[num2]->parent = current;
-                dungeons[num2]->length = num3;
+                dungeons[num2]->length = num3+current->length;
                 dungeons[num2]->deep_length = DFS(dungeons[num2]);
                 long long local = dungeons[num2]->deep_length+ dungeons[num2]->length-current->length;
                 
@@ -317,6 +320,9 @@ int main(){
                 else{
                     while(current->max_deep_tail != NULL && local > (current->max_deep_tail)->deep_length+(current->max_deep_tail)->length-current->length){
                         current->max_deep_tail =  current->max_deep_tail->prev;
+
+                        if(current->max_deep_tail !=NULL)
+                            current->max_deep_tail->next1 = NULL;
                     }
                     //add
                     if(current->max_deep_tail == NULL){
