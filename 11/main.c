@@ -335,6 +335,7 @@ int main(){
                         current->max_deep_tail =  dungeons[num2];
                     }
                 }
+                current->deep_length = current->max_deep->deep_length+ current->max_deep->length-current->length;
             }
         }
     }
