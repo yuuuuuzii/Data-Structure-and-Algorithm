@@ -81,6 +81,9 @@ void upstream(Node **current,Node **arr, long long *top, treasure **queue,long l
             if((*current)->max_deep == NULL){
                 (*current)->max_deep_tail = NULL;
             }
+            else{
+                (*current)->max_deep->prev = NULL;
+            }
         }
 
         if((*current)->child->is_empty > 0){//還沒檢查NULL，與5有關
@@ -149,7 +152,7 @@ long long DFS(Node *root){
         else{
             while(root->max_deep_tail != NULL && local > ((root->max_deep_tail)->deep_length+(root->max_deep_tail)->length-root->length)){
                 root->max_deep_tail =  root->max_deep_tail->prev;
-
+                
                 if(root->max_deep_tail !=NULL)
                     root->max_deep_tail->next1 = NULL;
             }
@@ -300,14 +303,7 @@ int main(){
                 }
             }
             else{//6
-                if(current->child == NULL){
-                    current->child = dungeons[num2];
-                    current->tail = dungeons[num2];
-                }
-                else{
-                    (current->tail)->next = dungeons[num2];
-                    current->tail = (current->tail)->next;
-                }
+                enqueue(&current->child,dungeons[num2],&current->tail);
                 dungeons[num2]->parent = current;
                 dungeons[num2]->length = num3+current->length;
                 dungeons[num2]->deep_length = DFS(dungeons[num2]);
@@ -335,7 +331,6 @@ int main(){
                         current->max_deep_tail =  dungeons[num2];
                     }
                 }
-                current->deep_length = current->max_deep->deep_length+ current->max_deep->length-current->length;
             }
         }
     }
