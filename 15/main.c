@@ -11,6 +11,7 @@ typedef struct Graph{
     int vertex_num;
     Node **adjList;
     Node **reverse_adjList;
+    int *group;
     int *color;
     int *color_r;
     int *color_a;
@@ -30,6 +31,7 @@ Graph *CreateGraph(int block_num){
     graph->vertex_num = block_num;
     graph->adjList = (Node **)malloc(sizeof(Node *)*block_num);
     graph->reverse_adjList = (Node **)malloc(sizeof(Node *)*block_num);
+    graph->group = (int *)malloc(sizeof(int)*block_num);
     graph->color = (int *)malloc(sizeof(int)*block_num);
     graph->color_r = (int *)malloc(sizeof(int)*block_num);
     graph->color_a = (int *)malloc(sizeof(int)*block_num);
@@ -40,6 +42,7 @@ Graph *CreateGraph(int block_num){
         graph->color[i] = -1;
         graph->color_r[i] = -1;
         graph->color_a[i] = -1;
+        graph->group[i] = -1;
     }
 
     return graph;
@@ -57,6 +60,7 @@ void addEdge(Graph *graph,int u, int v){
 
 void DFS_visit(Graph *graph, int i, int *j){
     graph->color[i] = 0;
+    
     Node *temp = graph->adjList[i];
     while(temp != NULL){
         if(graph->color[temp->tag] == -1){
@@ -68,34 +72,19 @@ void DFS_visit(Graph *graph, int i, int *j){
     graph->Order[*j] = i;
     (*j)++;
 }
-int DFS_visit_r(Node ** List,int *color,int i){
+void DFS_visit_r(int *group, Node ** List,int *color,int i, int num1,int *num2){
     color[i] = 0;
+    group[i] = num1;
     Node *temp = List[i];
-    int num3 = 0;
-    int num4 = 0;
     while(temp != NULL){
+        if(num1 >=1 && num1 == group[temp->tag]+1){
+            *num2 = 1;
+        }
         if(color[temp->tag] == -1){
-            /*printf("%dhaha",temp->tag);
-            printf("\n");*/
-            num4 = DFS_visit_r(List,color,temp->tag);
-            num3++;
+            DFS_visit_r(group,List,color,temp->tag,num1,num2);
         }
         temp = temp->next;
     }
-    color[i] = 1;
-    /*printf("%d",num3);
-    printf("\n");*/
-    if(num3 <= 1 && num4 == 0){//沒有分支
-        /*printf("NB");
-        printf("\n");*/
-        return 0;
-    }
-    else{
-        /*printf("B");
-        printf("\n");*/
-        return 1;
-    } //有分支
-    
 }
 int main(){
     int b;
@@ -119,15 +108,15 @@ int main(){
         }
     }
     int num1 = 0;
-    int num2 = 0;
+    int num2 = 1;
     for(int i = b-1;i>-1;i--){
+        int num3 = 0;
         if(graph->color_r[graph->Order[i]] == -1){
-            DFS_visit_r(graph->reverse_adjList,graph->color_r,graph->Order[i]);
+            DFS_visit_r(graph->group,graph->reverse_adjList,graph->color_r,graph->Order[i],num1, &num3);
+            if(num1>0 && num3 == 0){//沒有連通
+                num2 = 0;
+            }
             num1++;
-        }
-        if(graph->color_a[graph->Order[i]] == -1){
-            int num3 = DFS_visit_r(graph->adjList,graph->color_a,graph->Order[i]);
-            num2 = num2+num3+1;
         }
     }
     printf("%d",num1);
