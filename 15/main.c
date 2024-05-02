@@ -68,16 +68,23 @@ void DFS_visit(Graph *graph, int i, int *j){
     graph->Order[*j] = i;
     (*j)++;
 }
-void DFS_visit_r(Node ** List,int *color,int i){
+int DFS_visit_r(Node ** List,int *color,int i){
     color[i] = 0;
     Node *temp = List[i];
+    int num3 = 0;
+    int num4 = 0;
     while(temp != NULL){
         if(color[temp->tag] == -1){
-            DFS_visit_r(List,color,temp->tag);
+            num4 = DFS_visit_r(List,color,temp->tag);
+            num3++;
         }
         temp = temp->next;
     }
     color[i] = 1;
+    if(num3-1 == 0 && num4 ==0)//沒有分支
+        return 0;
+    else //有分支
+        return 1;
 }
 int main(){
     int b;
@@ -108,8 +115,8 @@ int main(){
             num1++;
         }
         if(graph->color_a[graph->Order[i]] == -1){
-            DFS_visit_r(graph->adjList,graph->color_a,graph->Order[i]);
-            num2++;
+            int num3 = DFS_visit_r(graph->adjList,graph->color_a,graph->Order[i]);
+            num2 = num2+num3;
         }
     }
     printf("%d",num1);
