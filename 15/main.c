@@ -75,16 +75,27 @@ int DFS_visit_r(Node ** List,int *color,int i){
     int num4 = 0;
     while(temp != NULL){
         if(color[temp->tag] == -1){
+            /*printf("%dhaha",temp->tag);
+            printf("\n");*/
             num4 = DFS_visit_r(List,color,temp->tag);
             num3++;
         }
         temp = temp->next;
     }
     color[i] = 1;
-    if(num3-1 == 0 && num4 ==0)//沒有分支
+    /*printf("%d",num3);
+    printf("\n");*/
+    if(num3 <= 1 && num4 == 0){//沒有分支
+        /*printf("NB");
+        printf("\n");*/
         return 0;
-    else //有分支
+    }
+    else{
+        /*printf("B");
+        printf("\n");*/
         return 1;
+    } //有分支
+    
 }
 int main(){
     int b;
@@ -116,7 +127,7 @@ int main(){
         }
         if(graph->color_a[graph->Order[i]] == -1){
             int num3 = DFS_visit_r(graph->adjList,graph->color_a,graph->Order[i]);
-            num2 = num2+num3;
+            num2 = num2+num3+1;
         }
     }
     printf("%d",num1);
