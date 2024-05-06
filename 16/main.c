@@ -9,10 +9,10 @@ long long *KMP(char *source, char *copy, long long *arr){
     
     long long k = -1;
     long long *s = (long long *)malloc(sizeof(long long)*m);
- 
+    long long *sum = (long long *)malloc(sizeof(long long)*m);
     for(int i = 0;i<m;i++){
-       s[i] = 0;
-
+        s[i] = 0;
+        sum[i] = 0;
     }
     for(int i = 0;i<n;i++){
         while(k>-1 && copy[k+1] != source[i]){
@@ -22,15 +22,20 @@ long long *KMP(char *source, char *copy, long long *arr){
             k++;
             s[k]++;
 
-            long long o = arr[k];
-            while(o!= -1){
-                s[o]++;
-                o = arr[o];
-            }
+            /*long long o = arr[k];
+            if(o!= -1){
+                sum[o]++;
+            }*/
         }
         if(k+1== m){
             k = arr[k];
         }
+    }
+    for(int i = m-1;i>=0;i--){
+        if(arr[i] != -1){
+            s[arr[i]] = s[arr[i]] + s[i];
+        }
+
     }
     return s;
 }
