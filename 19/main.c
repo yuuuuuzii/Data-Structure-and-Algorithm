@@ -125,7 +125,7 @@ int main(){
     Node *root = NULL;
     for(int i= 0;i<n;i++){
         Node *new = (Node *)malloc(sizeof(Node));
-        new->priority = rand()%n;
+        new->priority = rand();
         scanf("%lld",&new->data);
         new->left = NULL;
         new->right = NULL;
@@ -150,9 +150,7 @@ int main(){
                 Node **temp1 = Split(root,num2, Get_index(root,0));
                 Node **temp2 = Split(temp1[0],num2-1, Get_index(temp1[0],0));
                 root = Merge(temp2[0],temp1[1]);
-                free(temp2[1]);
-                free(temp1);
-                free(temp2);
+
             }
             else{
                 if(num1 == 2){
@@ -161,13 +159,11 @@ int main(){
                     new->left = NULL;
                     new->right = NULL;
                     new->priority = rand();
-        
                     new->size = 1;
                     new->sum = num3;
                     Node **temp = Split(root,num2,Get_index(root,0));
                     
                     root = Merge(Merge(temp[0],new),temp[1]);
-                    free(temp);
                 }
                 else{
                 
