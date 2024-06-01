@@ -52,16 +52,19 @@ long long Get_index(Node *root,long long base){
     return index;
 }
 void Sum(Node *root){
-    root->sum = root->data;
-    root->size = 1;
-    if(root->left != NULL){
-        root->sum = root->sum + root->left->sum;
-        root->size = root->size +root->left->size;
+    if(root != NULL){
+        root->sum = root->data;
+        root->size = 1;
+        if(root->left != NULL){
+            root->sum = root->sum + root->left->sum;
+            root->size = root->size +root->left->size;
+        }
+        if(root->right != NULL){
+            root->sum = root->sum + root->right->sum;
+            root->size = root->size + root->right->size;
+        }
     }
-    if(root->right != NULL){
-        root->sum = root->sum + root->right->sum;
-        root->size = root->size + root->right->size;
-    }
+    
 }
 Node **Split(Node *root,long long k,long long index){//index 是 root 位置
     Node **arr = (Node **)malloc(sizeof(Node *)*2);
@@ -101,7 +104,7 @@ Node *Merge(Node *left,Node *right){
     }
     else{
         right->left = Merge(left,right->left);
-        Sum(right);
+        Sum(right); 
         return right;
     }
 }
@@ -111,14 +114,6 @@ void Inorder(Node *root){
      
     Inorder(root->left);
     printf("%lld ",root->data);
-    /*if(root->left != NULL)
-        printf("root->left is %lld ",root->left->data);
-    if(root->right != NULL)
-        printf("root->right is %lld ",root->right->data);
-    //printf("%lld ",root->size);
-    */
-    //printf("%lld ",root->sum);
-    //printf("\n");
     Inorder(root->right);
 }
 int main(){
@@ -139,7 +134,7 @@ int main(){
         root = Merge(root,new);
     }
     getchar();
-    //Inorder(root);
+    
     for(int i = 0;i<t;i++){
         
         char line[1024];
@@ -155,9 +150,9 @@ int main(){
                 Node **temp1 = Split(root,num2, Get_index(root,0));
                 Node **temp2 = Split(temp1[0],num2-1, Get_index(temp1[0],0));
                 root = Merge(temp2[0],temp1[1]);
-                //Inorder(root);
-                //printf("\n");
-  
+                free(temp2[1]);
+                free(temp1);
+                free(temp2);
             }
             else{
                 if(num1 == 2){
@@ -171,17 +166,11 @@ int main(){
                     new->sum = num3;
                     Node **temp = Split(root,num2,Get_index(root,0));
                     
-                    /*printf("\n");
-                    Inorder(temp[0]);
-                    printf("\n");
-                    Inorder(temp[1]);
-                    printf("\n");*/
                     root = Merge(Merge(temp[0],new),temp[1]);
-                    //Inorder(root);
-                    //printf("\n");
+                    free(temp);
                 }
                 else{
-                    //Inorder(root);
+                
                     long long sum = Calculate_Sum(root,num2,num3,Get_index(root,0));
                     printf("%lld",sum);
                     printf("\n");
