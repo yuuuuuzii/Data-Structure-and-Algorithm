@@ -12,13 +12,11 @@ typedef struct Node{
 }Node;
 long long Get_index(Node *root,long long base);
 long long Range_of_sub_tree(Node *root,long long l,long long r, long long index){//index 為root位置
-    if(l == index-Get_index(root,0)){
-        if(root->right == NULL && index == r)
-            return 1;
-        else if(root->right != NULL && index + root->right->size == r)
-            return 1;
-    }
-    return 0;
+
+    long long left = (root->left != NULL) ? index - root->left->size : index;
+    long long right = (root->right != NULL) ? index + root->right->size : index;
+
+    return (left == l && right == r);
 }
 
 long long Calculate_Sum(Node *root, long long l, long long r,long long index){
@@ -27,22 +25,17 @@ long long Calculate_Sum(Node *root, long long l, long long r,long long index){
     }
     long long sum = 0;
     
-    if(l<=index<=r)
-        sum = sum+root->data;
+    if((l<=index) && (index<=r))
+        sum = sum + root->data;
     if(l<index){//去左邊找
-        long long min;
-        if(index-1 < r)
-            min = index-1;
-        else 
-            min = r;
+        long long min = (index-1 < r)? index-1:r;
+
         sum = sum + Calculate_Sum(root->left,l,min,Get_index(root->left,index-Get_index(root,0)));
     }
     if(r>index){
-        long long max;
-        if(l > index+1)
-            max = l;
-        else
-            max = index+1;
+
+        long long max = (l>index+1)? l: index+1;
+
         sum = sum + Calculate_Sum(root->right,max,r,Get_index(root->right,index));
     }
     return sum;
@@ -115,7 +108,7 @@ Node *Merge(Node *left,Node *right){
 void Inorder(Node *root){
     if(root == NULL)
         return;
-    
+     
     Inorder(root->left);
     printf("%lld ",root->data);
     /*if(root->left != NULL)
@@ -123,8 +116,9 @@ void Inorder(Node *root){
     if(root->right != NULL)
         printf("root->right is %lld ",root->right->data);
     //printf("%lld ",root->size);
+    */
     //printf("%lld ",root->sum);
-    printf("\n");*/
+    //printf("\n");
     Inorder(root->right);
 }
 int main(){
@@ -188,14 +182,21 @@ int main(){
                 }
                 else{
                     //Inorder(root);
-                    long long sum = Calculate_Sum(root,num2-1,num3-1,Get_index(root,0));
+                    long long sum = Calculate_Sum(root,num2,num3,Get_index(root,0));
                     printf("%lld",sum);
                     printf("\n");
                 }
             }
         }
     }
-    printf("%lld",root->size);
-    printf("\n");
+    if(root != NULL){
+        printf("%lld",root->size);
+        printf("\n");
+    }
+    else{
+        printf("0");
+        printf("\n");
+    }
+    
     Inorder(root);
 }
