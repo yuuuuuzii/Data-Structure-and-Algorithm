@@ -1,6 +1,6 @@
 import random
 
-def generate_test_data(max_n=10, max_t=10, max_value=10):
+def generate_test_data(max_n=1, max_t=10, max_value=10000):
     n = random.randint(1, max_n)  # 生成1到max_n之间的随机整数作为序列长度
     t = random.randint(1, max_t)  # 生成1到max_t之间的随机整数作为操作数
 
